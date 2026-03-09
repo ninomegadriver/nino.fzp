@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="3.0999999mm" id="svg1" viewBox="0 0 3.0999999 3.0999999" height="3.0999999mm" version="1.1" gorn="0" >
+    <desc >
+        <referenceFile >inductor-SMD3x3mm-PCB.svg</referenceFile>
+    </desc>
+    <defs id="defs1" />
+    <g id="silkscreen" gorn="0.2" >
+        <path stroke="none" fill="black" id="rect2" d="M 0 0 L 0 0.14986165 L 0 0.36483561 L 0.13952637 0.36483561 L 0.13952637 0.14986165 L 2.9605428 0.14986165 L 2.9605428 0.36483561 L 3.1000692 0.36483561 L 3.1000692 0.14986165 L 3.1000692 0 L 2.9605428 0 L 0.13952637 0 L 0 0 z M 0 2.7352336 L 0 2.9502075 L 0 3.1000692 L 0.13952637 3.1000692 L 2.9605428 3.1000692 L 3.1000692 3.1000692 L 3.1000692 2.9502075 L 3.1000692 2.7352336 L 2.9605428 2.7352336 L 2.9605428 2.9502075 L 0.13952637 2.9502075 L 0.13952637 2.7352336 L 0 2.7352336 z " gorn="0.2.0" />
+    </g>
+    <g id="copper1" gorn="0.3" >
+        <path stroke="none" fill="#ffc000" id="connector1pin" d="m 2.0999999,0.41499996 h 1 V 2.6849999 h -1 z" gorn="0.3.0" />
+        <path stroke="none" fill="#FFc000" id="connector0pin" d="M 0,0.41499996 H 1 V 2.6849999 H 0 Z" gorn="0.3.1" />
+    </g>
+</svg>

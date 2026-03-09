@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 6" version="1.1" gorn="0"  height="6mm" id="svg5" width="6mm">
+    <desc >
+        <referenceFile >L14F1-Phototransistor.svg</referenceFile>
+    </desc>
+    <defs  id="defs2"/>
+    <g  transform="rotate(-90,2.9949634,3.0035508)">
+        <g >
+            <g gorn="0.2.0.0"  id="silkscreen">
+                <path gorn="0.2.0.0.0" stroke="#000000"  d="M 5.8500001,3 A 2.8500001,2.8500001 0 0 1 3,5.8500001 2.8500001,2.8500001 0 0 1 0.14999986,3 2.8500001,2.8500001 0 0 1 3,0.14999986 2.8500001,2.8500001 0 0 1 5.8500001,3 Z" stroke-width="0.3" id="path846" fill="none"/>
+                <path gorn="0.2.0.0.1" stroke="none"  d="M 0.80918938,4.8342858 1.1627428,5.1878392 0.34348016,6.0071018 -0.01007323,5.6535485 Z" id="rect3129" fill="#000000"/>
+                <g  transform="rotate(90)">
+                    <g >
+                        <circle cx="3.0085876" cy="-4.47751" gorn="0.2.0.0.2.0.0" stroke="none"  r="0.48199999" id="nonconn0-3" fill="#000000"/>
+                    </g>
+                </g>
+                <g  transform="rotate(90)">
+                    <g >
+                        <circle cx="4.1586275" cy="-2.177424" gorn="0.2.0.0.3.0.0" stroke="none"  r="0.48199999" id="nonconn1-0" fill="#000000"/>
+                    </g>
+                </g>
+                <g  transform="rotate(90)">
+                    <g >
+                        <circle cx="1.8585478" cy="-2.1774478" gorn="0.2.0.0.4.0.0" stroke="none"  r="0.48199999" id="nonconn2-9" fill="#000000"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="rotate(-135,7.1494047,6.0970293)">
+        <g >
+            <g gorn="0.3.0.0"  id="copper0">
+                <g  transform="rotate(180,11.400779,5.1534751)">
+                    <g >
+                        <g gorn="0.3.0.0.0.0.0"  id="copper1">
+                            <circle cx="9.4823427" cy="3.9082549" gorn="0.3.0.0.0.0.0.0" stroke="#ffbf00"  stroke-width="0.508" r="0.73660004" id="connector1pin" fill="none"/>
+                            <circle cx="11.92195" cy="4.7214603" gorn="0.3.0.0.0.0.0.1" stroke="#ffbf00"  stroke-width="0.508" r="0.73660004" fill="none"/>
+                            <circle cx="10.295531" cy="6.3478451" gorn="0.3.0.0.0.0.0.2" stroke="#ffbf00"  stroke-width="0.508" r="0.73660004" id="connector0pin" fill="none"/>
+                            <g  transform="rotate(-45)">
+                                <g >
+                                    <circle cx="3.9414754" cy="9.4685822" gorn="0.3.0.0.0.0.0.3.0.0" stroke="none"  r="0.48199999" id="connector1pad" fill="#000000"/>
+                                </g>
+                            </g>
+                            <g  transform="rotate(-45)">
+                                <g >
+                                    <circle cx="5.0915155" cy="11.768668" gorn="0.3.0.0.0.0.0.4.0.0" stroke="none"  r="0.48199999" id="connector0pad" fill="#000000"/>
+                                </g>
+                            </g>
+                            <g  transform="rotate(-45)">
+                                <g >
+                                    <circle cx="2.7914357" cy="11.768644" gorn="0.3.0.0.0.0.0.5.0.0" stroke="none"  r="0.48199999" id="connector2pin" fill="#000000"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

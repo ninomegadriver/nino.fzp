@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" gorn="0"  viewBox="0 0 6.9000001 1.2" height="1.2mm" id="svg5" width="6.9000001mm">
+    <desc >
+        <referenceFile >cip-pcb.svg</referenceFile>
+    </desc>
+    <defs  id="defs2"/>
+    <g gorn="0.2"  id="layer1">
+        <g gorn="0.2.0"  id="silkscreen">
+            <path fill="black" gorn="0.2.0.0"  stroke="none" d="M 0,0 V 0.04882812 1.203125 H 6.9023437 V 0 Z M 0.09960937,0.09960937 H 6.8027344 V 1.1035156 H 0.09960937 Z" id="rect652"/>
+        </g>
+        <g gorn="0.2.1"  id="copper1">
+            <path fill="#ffc000" gorn="0.2.1.0"  stroke="none" d="M 0.10000015,0.10000002 H 2.5000003 V 1.1 H 0.10000015 Z" id="connector0pin"/>
+            <path fill="#ffc000" gorn="0.2.1.1"  stroke="none" d="M 4.3999998,0.10000002 H 6.7999999 V 1.1 H 4.3999998 Z" id="connector2pin"/>
+            <path fill="#ffc000" gorn="0.2.1.2"  stroke="none" d="M 2.8000002,0.10000002 H 4.0999998 V 1.1 H 2.8000002 Z" id="connector1pin"/>
+        </g>
+    </g>
+</svg>

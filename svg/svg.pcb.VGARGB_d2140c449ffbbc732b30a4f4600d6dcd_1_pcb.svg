@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="32mm"  gorn="0" version="1.1" viewBox="0 0 32 7.3000002" id="svg866" height="7.3000002mm">
+    <desc  id="desc2">
+        <referenceFile >VGA-Corrigido.svg</referenceFile>
+    </desc>
+    <defs  id="defs863"/>
+    <g  transform="translate(0.96813941,0.3881648)">
+        <g >
+            <g  gorn="0.2.0.0" id="silkscreen">
+                <path stroke="none" width="1.832" fill="#000000"  d="M 7.9,5.175433 Q 7.9,5.148719 7.9072,5.130441 7.9144,5.112164 7.92663,5.100915 7.93884,5.089671 7.95583,5.084043 7.97053,5.079823 7.98747,5.079823 h 1.644504 q 0.01694,0 0.03164,0.00422 0.0147,0.00563 0.02919,0.016872 0.01221,0.011244 0.01943,0.029526 0.0072,0.018277 0.0072,0.044992 0,0.025308 -0.0072,0.043585 -0.0072,0.018277 -0.01694,0.029526 -0.01221,0.012655 -0.02675,0.018277 -0.01694,0.00703 -0.03649,0.00703 H 8.975222 V 6.6573402 L 9.583396,6.447848 q 0.04623,-0.014066 0.0754,-0.016872 0.02675,-0.00281 0.04379,0.00563 0.01694,0.00985 0.02441,0.030931 0.005,0.021089 0.005,0.053427 0,0.023902 -0.0024,0.040773 -0.005,0.016872 -0.01221,0.028119 -0.0072,0.011244 -0.01943,0.019684 -0.0147,0.00844 -0.03649,0.016872 L 8.936483,6.8949552 q -0.0097,0.00422 -0.02441,0.00703 -0.0147,0.00281 -0.03649,0.00563 -0.02192,0.00281 -0.05109,0.00281 -0.0292,0.00141 -0.07299,0.00141 -0.05839,0 -0.0973,-0.00281 -0.03894,-0.00281 -0.06081,-0.00844 -0.02192,-0.00422 -0.0292,-0.012655 -0.0072,-0.00703 -0.0072,-0.015466 v -1.598614 h -0.56925 q -0.01943,0 -0.03649,-0.00703 -0.01694,-0.00563 -0.02675,-0.018277 -0.01221,-0.011244 -0.01694,-0.029526 -0.0072,-0.018277 -0.0072,-0.043585 z" gorn="0.2.0.0.0" id="path6351" height="1.832"/>
+                <g  transform="scale(-1,1)">
+                    <g >
+                        <g  gorn="0.2.0.0.1.0.0" id="g9">
+                            <g  gorn="0.2.0.0.1.0.0.0" id="g7">
+                                <circle stroke="none" cy="3.9849956" fill="#000000"  cx="-2.5258889" r="2.081389" gorn="0.2.0.0.1.0.0.0.0" id="nonconn0-6"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="scale(-1,1)">
+                    <g >
+                        <g  gorn="0.2.0.0.2.0.0" id="g14">
+                            <g  gorn="0.2.0.0.2.0.0.0" id="g12">
+                                <circle stroke="none" cy="3.9849956" fill="#000000"  cx="-27.537832" r="2.081389" gorn="0.2.0.0.2.0.0.0.0" id="nonconn1-9"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <path stroke="none" fill="black"  d="m 30.78125,-0.38867188 v 0.26562501 h 0.25 v -0.26562501 z" gorn="0.2.0.0.3" id="path1932"/>
+                <path stroke="none" fill="black"  d="m 30.251953,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.4" id="path1930"/>
+                <path stroke="none" fill="black"  d="m 29.722656,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.5" id="path1928"/>
+                <path stroke="none" fill="black"  d="m 29.193359,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.6" id="path1926"/>
+                <path stroke="none" fill="black"  d="m 28.666016,-0.38867188 v 0.26562501 h 0.263671 v -0.26562501 z" gorn="0.2.0.0.7" id="path1924"/>
+                <path stroke="none" fill="black"  d="m 28.136719,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.8" id="path1922"/>
+                <path stroke="none" fill="black"  d="m 27.607422,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.9" id="path1920"/>
+                <path stroke="none" fill="black"  d="m 27.078125,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.10" id="path1918"/>
+                <path stroke="none" fill="black"  d="m 26.548828,-0.38867188 v 0.26562501 H 26.8125 v -0.26562501 z" gorn="0.2.0.0.11" id="path1916"/>
+                <path stroke="none" fill="black"  d="m 26.019531,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.12" id="path1914"/>
+                <path stroke="none" fill="black"  d="m 25.490234,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.13" id="path1912"/>
+                <path stroke="none" fill="black"  d="m 24.960937,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.14" id="path1910"/>
+                <path stroke="none" fill="black"  d="m 24.431641,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.15" id="path1908"/>
+                <path stroke="none" fill="black"  d="m 23.902344,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.16" id="path1906"/>
+                <path stroke="none" fill="black"  d="m 23.373047,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.17" id="path1904"/>
+                <path stroke="none" fill="black"  d="m 22.84375,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.18" id="path1902"/>
+                <path stroke="none" fill="black"  d="m 22.314453,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.19" id="path1900"/>
+                <path stroke="none" fill="black"  d="m 21.785156,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.20" id="path1898"/>
+                <path stroke="none" fill="black"  d="m 21.255859,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.21" id="path1896"/>
+                <path stroke="none" fill="black"  d="m 20.728516,-0.38867188 v 0.26562501 h 0.263671 v -0.26562501 z" gorn="0.2.0.0.22" id="path1894"/>
+                <path stroke="none" fill="black"  d="m 20.199219,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.23" id="path1892"/>
+                <path stroke="none" fill="black"  d="m 19.669922,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.24" id="path1890"/>
+                <path stroke="none" fill="black"  d="m 19.140625,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.25" id="path1888"/>
+                <path stroke="none" fill="black"  d="m 18.611328,-0.38867188 v 0.26562501 H 18.875 v -0.26562501 z" gorn="0.2.0.0.26" id="path1886"/>
+                <path stroke="none" fill="black"  d="m 18.082031,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.27" id="path1884"/>
+                <path stroke="none" fill="black"  d="m 17.552734,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.28" id="path1882"/>
+                <path stroke="none" fill="black"  d="m 17.023437,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.29" id="path1880"/>
+                <path stroke="none" fill="black"  d="m 16.494141,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.30" id="path1878"/>
+                <path stroke="none" fill="black"  d="m 15.964844,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.31" id="path1876"/>
+                <path stroke="none" fill="black"  d="m 15.435547,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.32" id="path1874"/>
+                <path stroke="none" fill="black"  d="m 14.90625,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.33" id="path1872"/>
+                <path stroke="none" fill="black"  d="m 14.376953,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.34" id="path1870"/>
+                <path stroke="none" fill="black"  d="m 13.847656,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.35" id="path1868"/>
+                <path stroke="none" fill="black"  d="m 13.320313,-0.38867188 v 0.26562501 h 0.263671 v -0.26562501 z" gorn="0.2.0.0.36" id="path1866"/>
+                <path stroke="none" fill="black"  d="m 12.791016,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.37" id="path1864"/>
+                <path stroke="none" fill="black"  d="m 12.261719,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.38" id="path1862"/>
+                <path stroke="none" fill="black"  d="m 11.732422,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.39" id="path1860"/>
+                <path stroke="none" fill="black"  d="m 11.203125,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.40" id="path1858"/>
+                <path stroke="none" fill="black"  d="m 10.673828,-0.38867188 v 0.26562501 H 10.9375 v -0.26562501 z" gorn="0.2.0.0.41" id="path1856"/>
+                <path stroke="none" fill="black"  d="m 10.144531,-0.38867188 v 0.26562501 h 0.263672 v -0.26562501 z" gorn="0.2.0.0.42" id="path1854"/>
+                <path stroke="none" fill="black"  d="m 9.6152344,-0.38867188 v 0.26562501 h 0.2636719 v -0.26562501 z" gorn="0.2.0.0.43" id="path1852"/>
+                <path stroke="none" fill="black"  d="m 9.0859375,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.44" id="path1850"/>
+                <path stroke="none" fill="black"  d="m 8.5566406,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.45" id="path1848"/>
+                <path stroke="none" fill="black"  d="m 8.0273438,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.46" id="path1846"/>
+                <path stroke="none" fill="black"  d="m 7.4980469,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.47" id="path1844"/>
+                <path stroke="none" fill="black"  d="m 6.96875,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.48" id="path1842"/>
+                <path stroke="none" fill="black"  d="m 6.4394531,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.49" id="path1840"/>
+                <path stroke="none" fill="black"  d="m 5.9101562,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.50" id="path1838"/>
+                <path stroke="none" fill="black"  d="m 5.3828125,-0.38867188 v 0.26562501 h 0.2636719 v -0.26562501 z" gorn="0.2.0.0.51" id="path1836"/>
+                <path stroke="none" fill="black"  d="m 4.8535156,-0.38867188 v 0.26562501 h 0.2636719 v -0.26562501 z" gorn="0.2.0.0.52" id="path1834"/>
+                <path stroke="none" fill="black"  d="m 4.3242187,-0.38867188 v 0.26562501 h 0.2636719 v -0.26562501 z" gorn="0.2.0.0.53" id="path1832"/>
+                <path stroke="none" fill="black"  d="m 3.7949219,-0.38867188 v 0.26562501 h 0.2636718 v -0.26562501 z" gorn="0.2.0.0.54" id="path1830"/>
+                <path stroke="none" fill="black"  d="m 3.265625,-0.38867188 v 0.26562501 h 0.2636719 v -0.26562501 z" gorn="0.2.0.0.55" id="path1828"/>
+                <path stroke="none" fill="black"  d="m 2.7363281,-0.38867188 v 0.26562501 H 3 v -0.26562501 z" gorn="0.2.0.0.56" id="path1826"/>
+                <path stroke="none" fill="black"  d="m 2.2070313,-0.38867188 v 0.26562501 h 0.2636718 v -0.26562501 z" gorn="0.2.0.0.57" id="path1824"/>
+                <path stroke="none" fill="black"  d="m 1.6777344,-0.38867188 v 0.26562501 h 0.2636718 v -0.26562501 z" gorn="0.2.0.0.58" id="path1822"/>
+                <path stroke="none" fill="black"  d="m 1.1484375,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.59" id="path1820"/>
+                <path stroke="none" fill="black"  d="m 0.61914062,-0.38867188 v 0.26562501 h 0.26562501 v -0.26562501 z" gorn="0.2.0.0.60" id="path1818"/>
+                <path stroke="none" fill="black"  d="m 0.08984375,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.61" id="path1816"/>
+                <path stroke="none" fill="black"  d="m -0.43945313,-0.38867188 v 0.26562501 h 0.26562501 v -0.26562501 z" gorn="0.2.0.0.62" id="path1814"/>
+                <path stroke="none" fill="black"  d="m -0.96875,-0.38867188 v 0.26562501 h 0.265625 v -0.26562501 z" gorn="0.2.0.0.63" id="path1724"/>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0.96813941,0.3883421)">
+        <g >
+            <g  gorn="0.3.0.0" id="copper0">
+                <g  gorn="0.3.0.0.0" id="copper1">
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.0.0.0" id="g20">
+                                <g  gorn="0.3.0.0.0.0.0.0.0" id="g18">
+                                    <circle stroke="#f7bd13" cy="3.9849956" fill="none"  cx="-27.537832" r="2.081389" gorn="0.3.0.0.0.0.0.0.0.0" stroke-width="0.8" id="connector16pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.1.0.0" id="g25">
+                                <g  gorn="0.3.0.0.0.1.0.0.0" id="g23">
+                                    <circle stroke="#f7bd13" cy="0.9158287" fill="none"  cx="-20.164776" r="0.74083328" gorn="0.3.0.0.0.1.0.0.0.0" stroke-width="0.349991" id="connector15pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.2.0.0" id="g30">
+                                <g  gorn="0.3.0.0.0.2.0.0.0" id="g28">
+                                    <circle stroke="#f7bd13" cy="0.9158287" fill="none"  cx="-17.977554" r="0.74083328" gorn="0.3.0.0.0.2.0.0.0.0" stroke-width="0.349991" id="connector14pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.3.0.0" id="g35">
+                                <g  gorn="0.3.0.0.0.3.0.0.0" id="g33">
+                                    <circle stroke="#f7bd13" cy="0.9158287" fill="none"  cx="-15.790333" r="0.74083328" gorn="0.3.0.0.0.3.0.0.0.0" stroke-width="0.349991" id="connector13pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.4.0.0" id="g40">
+                                <g  gorn="0.3.0.0.0.4.0.0.0" id="g38">
+                                    <circle stroke="#f7bd13" cy="0.9158287" fill="none"  cx="-13.60311" r="0.74083328" gorn="0.3.0.0.0.4.0.0.0.0" stroke-width="0.349991" id="connector12pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.5.0.0" id="g45">
+                                <g  gorn="0.3.0.0.0.5.0.0.0" id="g43">
+                                    <circle stroke="#f7bd13" cy="0.9158287" fill="none"  cx="-11.415888" r="0.74083328" gorn="0.3.0.0.0.5.0.0.0.0" stroke-width="0.349991" id="connector11pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.6.0.0" id="g50">
+                                <g  gorn="0.3.0.0.0.6.0.0.0" id="g48">
+                                    <circle stroke="#f7bd13" cy="3.4558289" fill="none"  cx="-19.035889" r="0.74083328" gorn="0.3.0.0.0.6.0.0.0.0" stroke-width="0.349991" id="connector10pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.7.0.0" id="g55">
+                                <g  gorn="0.3.0.0.0.7.0.0.0" id="g53">
+                                    <circle stroke="#f7bd13" cy="3.4558289" fill="none"  cx="-16.848665" r="0.74083328" gorn="0.3.0.0.0.7.0.0.0.0" stroke-width="0.349991" id="connector9pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.8.0.0" id="g60">
+                                <g  gorn="0.3.0.0.0.8.0.0.0" id="g58">
+                                    <circle stroke="#f7bd13" cy="3.4558289" fill="none"  cx="-14.661444" r="0.74083328" gorn="0.3.0.0.0.8.0.0.0.0" stroke-width="0.349991" id="connector8pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.9.0.0" id="g65">
+                                <g  gorn="0.3.0.0.0.9.0.0.0" id="g63">
+                                    <circle stroke="#f7bd13" cy="3.4558289" fill="none"  cx="-12.474221" r="0.74083328" gorn="0.3.0.0.0.9.0.0.0.0" stroke-width="0.349991" id="connector7pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.10.0.0" id="g70">
+                                <g  gorn="0.3.0.0.0.10.0.0.0" id="g68">
+                                    <circle stroke="#f7bd13" cy="3.4558289" fill="none"  cx="-10.287" r="0.74083328" gorn="0.3.0.0.0.10.0.0.0.0" stroke-width="0.349991" id="connector6pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.11.0.0" id="g75">
+                                <g  gorn="0.3.0.0.0.11.0.0.0" id="g73">
+                                    <circle stroke="#f7bd13" cy="5.9958291" fill="none"  cx="-20.164776" r="0.74083328" gorn="0.3.0.0.0.11.0.0.0.0" stroke-width="0.349991" id="connector5pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.12.0.0" id="g80">
+                                <g  gorn="0.3.0.0.0.12.0.0.0" id="g78">
+                                    <circle stroke="#f7bd13" cy="5.9958291" fill="none"  cx="-17.977554" r="0.74083328" gorn="0.3.0.0.0.12.0.0.0.0" stroke-width="0.349991" id="connector4pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.13.0.0" id="g85">
+                                <g  gorn="0.3.0.0.0.13.0.0.0" id="g83">
+                                    <circle stroke="#f7bd13" cy="5.9958291" fill="none"  cx="-15.790333" r="0.74083328" gorn="0.3.0.0.0.13.0.0.0.0" stroke-width="0.349991" id="connector3pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.14.0.0" id="g90">
+                                <g  gorn="0.3.0.0.0.14.0.0.0" id="g88">
+                                    <circle stroke="#f7bd13" cy="5.9958291" fill="none"  cx="-13.60311" r="0.74083328" gorn="0.3.0.0.0.14.0.0.0.0" stroke-width="0.349991" id="connector2pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.15.0.0" id="g95">
+                                <g  gorn="0.3.0.0.0.15.0.0.0" id="g93">
+                                    <circle stroke="#f7bd13" cy="5.9958291" fill="none"  cx="-11.415888" r="0.74083328" gorn="0.3.0.0.0.15.0.0.0.0" stroke-width="0.349991" id="connector1pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.16.0.0" id="g100">
+                                <g  gorn="0.3.0.0.0.16.0.0.0" id="g98">
+                                    <circle stroke="#f7bd13" cy="3.9849956" fill="none"  cx="-2.5258889" r="2.081389" gorn="0.3.0.0.0.16.0.0.0.0" stroke-width="0.8" id="connector0pin"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.17.0.0" id="g105">
+                                <g  gorn="0.3.0.0.0.17.0.0.0" id="g103">
+                                    <circle stroke="none" cy="3.9849956" fill="#000000"  cx="-2.5258889" r="2.081389" gorn="0.3.0.0.0.17.0.0.0.0" id="nonconn0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  transform="scale(-1,1)">
+                        <g >
+                            <g  gorn="0.3.0.0.0.18.0.0" id="g110">
+                                <g  gorn="0.3.0.0.0.18.0.0.0" id="g108">
+                                    <circle stroke="none" cy="3.9849956" fill="#000000"  cx="-27.537832" r="2.081389" gorn="0.3.0.0.0.18.0.0.0.0" id="nonconn1"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

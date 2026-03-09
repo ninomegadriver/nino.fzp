@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" gorn="0" width="8.3000002mm" viewBox="0 0 8.3000002 6.5000003" id="svg1" author="ninomegadriver@gmail.com" height="6.5mm">
+    <desc >
+        <referenceFile >ZDSD08GLGEAG.svg</referenceFile>
+    </desc>
+    <defs  id="defs1"/>
+    <g  transform="translate(0.0500002)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g  gorn="0.2.0.0.0.0.0" id="root">
+                            <g  transform="translate(0.0999999,0.10000005)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0" id="silkscreen">
+                                                    <path  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0" stroke="none" id="path1-2-6" fill="#000000" d="M 3.4868327,6.1 H 0 v 0.1 h 3.4868327 z"/>
+                                                    <path  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.1" stroke="none" id="path1-2-6-4" fill="#000000" d="M 7.9890952,6.1 H 4.5022625 v 0.1 h 3.4868327 z"/>
+                                                    <path  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.2" stroke="none" id="path1-5" fill="#000000" d="M 7.9,0 V 0.7 H 8 V 0 Z"/>
+                                                    <path  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.3" stroke="none" id="path1-29" fill="#000000" d="m 0,5.4999998 v 0.7 h 0.1 v -0.7 z"/>
+                                                    <path  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.4" stroke="none" id="path1-5-3" fill="#000000" d="m 7.9,5.4999998 v 0.7 H 8 v -0.7 z"/>
+                                                    <path  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.5" stroke="none" id="path1-2" fill="#000000" d="M 7.9999996,0 H 1.2954295 v 0.1 h 6.7045701 z"/>
+                                                    <path  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.6" stroke="none" id="path1-2-3" fill="#000000" d="M 0.85042333,-0.1 H -0.15000009 V 0 h 1.00042342 z"/>
+                                                    <path  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.7" stroke="none" id="path1-2-3-2" fill="#000000" d="M -0.0500001,0.64881071 V -0.1 h -0.1 v 0.74881071 z"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="translate(0.0999999,0.10000015)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g  gorn="0.2.0.0.0.0.0.1.0.0.0.0.0" id="copper1">
+                                                    <path  gorn="0.2.0.0.0.0.0.1.0.0.0.0.0.0" stroke="none" id="nonconn1" fill="#FFc000" d="m -0.04612541,0.00125512 0,0.64030153 0.46286897,0 0.42813269,-0.64030153 z"/>
+                                                    <g  transform="translate(5.8077983,-0.298066)">
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g  gorn="0.2.0.0.0.0.0.1.0.0.0.0.0.1.0.0.0.0.0" id="second-row">
+                                                                            <path  gorn="0.2.0.0.0.0.0.1.0.0.0.0.0.1.0.0.0.0.0.0" stroke="none" id="connector7pad" fill="#ffc000" d="m 1.3422016,1.1431317 h 0.95 v 0.7 h -0.95 z"/>
+                                                                            <path  gorn="0.2.0.0.0.0.0.1.0.0.0.0.0.1.0.0.0.0.0.1" stroke="none" id="connector6pad" fill="#ffc000" d="m 1.3422016,2.4130001 h 0.95 v 0.7 h -0.95 z"/>
+                                                                            <path  gorn="0.2.0.0.0.0.0.1.0.0.0.0.0.1.0.0.0.0.0.2" stroke="none" id="connector5pad" fill="#ffc000" d="m 1.3422016,3.6830001 h 0.95 v 0.7 h -0.95 z"/>
+                                                                            <path  gorn="0.2.0.0.0.0.0.1.0.0.0.0.0.1.0.0.0.0.0.3" stroke="none" id="connector4pad" fill="#ffc000" d="m 1.3422016,4.9530001 h 0.95 v 0.7 h -0.95 z"/>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g  transform="translate(-1.4422015,-0.298066)">
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g  gorn="0.2.0.0.0.0.0.1.0.0.0.0.0.2.0.0.0.0.0" id="first_row">
+                                                                            <path  gorn="0.2.0.0.0.0.0.1.0.0.0.0.0.2.0.0.0.0.0.0" stroke="none" id="connector0pad" fill="#ffc000" d="m 1.3422016,1.1431317 h 0.95 v 0.7 h -0.95 z"/>
+                                                                            <path  gorn="0.2.0.0.0.0.0.1.0.0.0.0.0.2.0.0.0.0.0.1" stroke="none" id="connector1pad" fill="#ffc000" d="m 1.3422016,2.4130001 h 0.95 v 0.7 h -0.95 z"/>
+                                                                            <path  gorn="0.2.0.0.0.0.0.1.0.0.0.0.0.2.0.0.0.0.0.2" stroke="none" id="connector2pad" fill="#ffc000" d="m 1.3422016,3.6830001 h 0.95 v 0.7 h -0.95 z"/>
+                                                                            <path  gorn="0.2.0.0.0.0.0.1.0.0.0.0.0.2.0.0.0.0.0.3" stroke="none" id="connector3pad" fill="#ffc000" d="m 1.3422016,4.9530001 h 0.95 v 0.7 h -0.95 z"/>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <path  gorn="0.2.0.0.0.0.0.1.0.0.0.0.0.3" stroke="none" id="nonconn0" fill="#ffc000" d="m 3.525,5.3499999 h 0.95 v 0.95 h -0.95 z"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

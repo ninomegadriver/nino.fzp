@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg5" viewBox="0 0 29.527559 9.8422865" height="2.5mm" width="7.5mm" gorn="0" version="1.1" >
+    <desc >
+        <referenceFile >MC-146.svg</referenceFile>
+    </desc>
+    <g  transform="translate(-4025.2,-3031.2)">
+        <g >
+            <g >
+                <defs id="defs5" />
+                <g  transform="translate(-10.0354,-13.879057)">
+                    <g >
+                        <g id="silkscreen" gorn="0.1.0.0.1.0.0" >
+                            <path d="m 4040.6563,3052.7012 a 0.2992,0.2992 0 0 0 -0.3008,0.2988 0.2992,0.2992 0 0 0 0.3008,0.2988 H 4059.5 a 0.2992,0.2992 0 0 0 0.2988,-0.2988 0.2992,0.2992 0 0 0 -0.2988,-0.2988 z" id="gge46" stroke="none" gorn="0.1.0.0.1.0.0.0" fill="#000000" stroke-opacity="1"  style="color:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-shape-rendering:crispEdges;" fill-opacity="1"/>
+                            <path d="m 4040.6543,3046.7012 a 0.2992,0.2992 0 0 0 -0.2988,0.2988 0.2992,0.2992 0 0 0 0.2988,0.2988 H 4059.5 a 0.2992,0.2992 0 0 0 0.2988,-0.2988 0.2992,0.2992 0 0 0 -0.2988,-0.2988 z" id="gge49" stroke="none" gorn="0.1.0.0.1.0.0.1" fill="#000000" stroke-opacity="1"  style="color:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-shape-rendering:crispEdges;" fill-opacity="1"/>
+                            <path d="m 4040.6699,3047.2012 a 0.2992,0.2992 0 0 0 -0.2988,0.2988 0.2992,0.2992 0 0 0 0.2988,0.2988 h 3.0254 v 0.2012 0.5 a 0.2992,0.2992 0 0 0 0.2988,0.2988 0.2992,0.2992 0 0 0 0.2989,-0.2988 v -0.5 -0.5 a 0.29922992,0.29922992 0 0 0 -0.2989,-0.2988 z" id="gge52" stroke="none" gorn="0.1.0.0.1.0.0.2" fill="#000000" stroke-opacity="1"  style="color:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-shape-rendering:crispEdges;" fill-opacity="1"/>
+                            <path d="m 4040.6699,3052.2012 a 0.2992,0.2992 0 0 0 -0.2988,0.2988 0.2992,0.2992 0 0 0 0.2988,0.2988 H 4041 a 0.2992,0.2992 0 0 0 0.2988,-0.2988 0.2992,0.2992 0 0 0 -0.2988,-0.2988 z" id="gge55" stroke="none" gorn="0.1.0.0.1.0.0.3" fill="#000000" stroke-opacity="1"  style="color:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-shape-rendering:crispEdges;" fill-opacity="1"/>
+                            <path d="m 4044.0742,3051.2012 a 0.2992,0.2992 0 0 0 -0.2988,0.2988 v 0.7012 H 4041 a 0.2992,0.2992 0 0 0 -0.2988,0.2988 0.2992,0.2992 0 0 0 0.2988,0.2988 h 3.0742 a 0.29922992,0.29922992 0 0 0 0.2988,-0.2988 v -1 a 0.2992,0.2992 0 0 0 -0.2988,-0.2988 z" id="gge58" stroke="none" gorn="0.1.0.0.1.0.0.4" fill="#000000" stroke-opacity="1"  style="color:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-shape-rendering:crispEdges;" fill-opacity="1"/>
+                            <path d="m 4042.5,3051.2012 a 0.2992,0.2992 0 0 0 -0.2988,0.2988 0.2992,0.2992 0 0 0 0.2988,0.2988 h 3 a 0.2992,0.2992 0 0 0 0.2988,-0.2988 0.2992,0.2992 0 0 0 -0.2988,-0.2988 z" id="gge61" stroke="none" gorn="0.1.0.0.1.0.0.5" fill="#000000" stroke-opacity="1"  style="color:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-shape-rendering:crispEdges;" fill-opacity="1"/>
+                            <path d="m 4042.5,3048.2012 a 0.2992,0.2992 0 0 0 -0.2988,0.2988 0.2992,0.2992 0 0 0 0.2988,0.2988 h 3 a 0.2992,0.2992 0 0 0 0.2988,-0.2988 0.2992,0.2992 0 0 0 -0.2988,-0.2988 z" id="gge64" stroke="none" gorn="0.1.0.0.1.0.0.6" fill="#000000" stroke-opacity="1"  style="color:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-shape-rendering:crispEdges;" fill-opacity="1"/>
+                            <path d="m 4042.5,3049.2012 a 0.2992,0.2992 0 0 0 -0.2988,0.2988 v 1 a 0.29922992,0.29922992 0 0 0 0.2988,0.2988 h 3 a 0.29922992,0.29922992 0 0 0 0.2988,-0.2988 v -1 a 0.2992,0.2992 0 0 0 -0.2988,-0.2988 0.2992,0.2992 0 0 0 -0.2988,0.2988 v 0.7012 h -2.4024 V 3049.5 a 0.2992,0.2992 0 0 0 -0.2988,-0.2988 z" id="gge67" stroke="none" gorn="0.1.0.0.1.0.0.7" fill="#000000" stroke-opacity="1"  style="color:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-shape-rendering:crispEdges;" fill-opacity="1"/>
+                            <path d="m 4036.0234,3053.3457 c -0.4303,0 -0.7871,0.3587 -0.7871,0.7891 0,0.4303 0.3568,0.7871 0.7871,0.7871 0.4304,0 0.7871,-0.3568 0.7871,-0.7871 0,-0.4304 -0.3567,-0.7891 -0.7871,-0.7891 z" id="gge73" stroke="none" gorn="0.1.0.0.1.0.0.8" fill="#000000" stroke-opacity="1"  style="color:#000000;-inkscape-shape-rendering:crispEdges;" fill-opacity="1"/>
+                            <path d="m 4042.5,3049.2012 a 0.2992,0.2992 0 0 0 -0.2988,0.2988 0.2992,0.2992 0 0 0 0.2988,0.2988 h 3 a 0.2992,0.2992 0 0 0 0.2988,-0.2988 0.2992,0.2992 0 0 0 -0.2988,-0.2988 z" id="gge70" stroke="none" gorn="0.1.0.0.1.0.0.9" fill="#000000" stroke-opacity="1"  style="color:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-shape-rendering:crispEdges;" fill-opacity="1"/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="translate(-10.0354,-13.879057)">
+                    <g >
+                        <g id="copper1" gorn="0.1.0.0.2.0.0" >
+                            <path d="m 4035.2354,3050.4926 v 2.362 h 4.726 v -2.362 z" id="connector0pin" stroke="none" gorn="0.1.0.0.2.0.0.0" fill="#ffc000" />
+                            <path d="m 4064.7636,3052.8546 v -2.362 h -4.724 v 2.362 z" id="connector3pin" stroke="none" gorn="0.1.0.0.2.0.0.1" fill="#ffc000" />
+                            <path d="m 4060.0396,3047.1458 v 2.362 h 4.724 v -2.362 z" id="connector1pin" stroke="none" gorn="0.1.0.0.2.0.0.2" fill="#ffc000" />
+                            <path d="m 4039.9604,3049.5078 v -2.362 h -4.724 v 2.362 z" id="connector2pin" stroke="none" gorn="0.1.0.0.2.0.0.3" fill="#ffc000" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

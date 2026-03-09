@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   gorn="0"
+   height="9.1000004mm"
+   width="4.2270002mm"
+   viewBox="0 0 16.642371 35.827682"
+   version="1.1"
+   id="svg7"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <desc
+     id="desc1">
+    <referenceFile>Pushbutton-90C-Quadrado-C223811.svg</referenceFile>
+  </desc>
+  <g
+     transform="translate(-4044.4879,-3032.0869)"
+     id="silkscreen0">
+    <g
+       gorn="0.2.0"
+       id="silkscreen">
+      <path
+         gorn="0.2.0.0"
+         fill="#000000"
+         stroke="none"
+         d="m 4055.9043,3037.8848 a 0.5,0.5 0 0 0 -0.5,0.5 v 5.709 a 0.50005,0.50005 0 0 0 0.5,0.5 h 4.2246 v 10.8105 h -4.2246 a 0.50005,0.50005 0 0 0 -0.5,0.5 v 5.8828 a 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 v -5.3828 h 4.2246 a 0.50005,0.50005 0 0 0 0.5,-0.5 v -11.8105 a 0.50005,0.50005 0 0 0 -0.5,-0.5 h -4.2246 v -5.209 a 0.5,0.5 0 0 0 -0.5,-0.5 z"
+         id="gge82" />
+      <path
+         gorn="0.2.0.1"
+         fill="#000000"
+         stroke="none"
+         d="m 4055.9043,3043.5938 a 0.5,0.5 0 0 0 -0.5,0.5 v 12.416 a 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 v -12.416 a 0.5,0.5 0 0 0 -0.5,-0.5 z"
+         id="path11" />
+      <circle
+         gorn="0.2.0.2"
+         fill="#000000"
+         r="2.3701696"
+         stroke="none"
+         style="stroke:none;shape-rendering:crispEdges"
+         cy="3045.4719"
+         cx="4051.9685"
+         id="nonconn2-7" />
+      <circle
+         gorn="0.2.0.3"
+         fill="#000000"
+         r="2.3701696"
+         stroke="none"
+         style="stroke:none;shape-rendering:crispEdges"
+         cy="3054.5271"
+         cx="4051.9685"
+         id="nonconn3-5" />
+      <path
+         gorn="0.2.0.4"
+         fill="#000000"
+         stroke="none"
+         d="m 4046.8496,3061.0391 a 0.5,0.5 0 0 0 -0.5,0.5 v 2.2402 a 0.50005,0.50005 0 0 0 0.5,0.5 h 2.3613 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 h -1.8613 v -1.7402 a 0.5,0.5 0 0 0 -0.5,-0.5 z"
+         id="gge70" />
+      <path
+         gorn="0.2.0.5"
+         fill="#000000"
+         stroke="none"
+         d="m 4046.8496,3044.5039 a 0.5,0.5 0 0 0 -0.5,0.5 v 9.9922 a 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 v -9.9922 a 0.5,0.5 0 0 0 -0.5,-0.5 z"
+         id="gge73" />
+      <path
+         gorn="0.2.0.6"
+         fill="#000000"
+         stroke="none"
+         d="m 4046.8496,3035.7207 a 0.50005,0.50005 0 0 0 -0.5,0.5 v 2.2383 a 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 v -1.7383 h 1.8613 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z"
+         id="gge76" />
+      <path
+         stroke-width="1"
+         gorn="0.2.0.7"
+         fill="none"
+         stroke="#000000"
+         d="m 4055.9052,3038.3856 v -0.1729"
+         style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+         id="gge79" />
+    </g>
+  </g>
+  <g
+     transform="translate(-4044.4879,-3032.0869)"
+     id="g2">
+    <g
+       gorn="0.3.0"
+       id="copper0">
+      <path
+         gorn="0.3.0.0"
+         fill="#ffc000"
+         stroke="none"
+         d="m 4044.4879,3055.9054 h 4.7244 v 4.7244 h -4.7244 z"
+         id="connector2pin" />
+      <path
+         gorn="0.3.0.1"
+         fill="#ffc000"
+         stroke="none"
+         d="m 4049.2123,3044.0938 h -4.7244 v -4.7244 h 4.7244 z"
+         id="connector1pin" />
+      <g
+         gorn="0.3.0.2"
+         id="copper1">
+        <circle
+           stroke-width="0.98429"
+           gorn="0.3.0.2.0"
+           fill="none"
+           r="2.6575832"
+           stroke="#ffc000"
+           cy="3035.2361"
+           cx="4053.1494"
+           id="connector3pin" />
+        <circle
+           stroke-width="0.98429"
+           gorn="0.3.0.2.1"
+           fill="none"
+           r="2.6575832"
+           stroke="#ffc000"
+           cy="3064.7639"
+           cx="4053.1494"
+           id="connector4pin" />
+        <circle
+           gorn="0.3.0.2.2"
+           fill="none"
+           r="2.1"
+           stroke="#ffc000"
+           cy="3045.4719"
+           cx="4051.9685"
+           id="nonconn2"
+           stroke-width="0.6" />
+        <circle
+           gorn="0.3.0.2.3"
+           fill="none"
+           r="2.1"
+           stroke="#FFc000"
+           cy="3054.5271"
+           cx="4051.9685"
+           id="nonconn3"
+           stroke-width="0.6" />
+      </g>
+    </g>
+  </g>
+</svg>

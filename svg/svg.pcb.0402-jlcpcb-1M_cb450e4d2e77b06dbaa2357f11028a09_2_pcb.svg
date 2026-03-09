@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0in" height="1.15mm" id="svg9" version="1.2" width="2.0409999mm" y="0in" viewBox="0 0 2.0409987 1.1499991" gorn="0" >
+    <desc >
+        <referenceFile >0402-JLCBPCB.svg</referenceFile>
+    </desc>
+    <defs id="defs13" />
+    <g id="silkscreen" gorn="0.2" >
+        <g transform="scale(0.26458333)" >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <path stroke="none" id="rect6586" d="M 0 0 L 0 0.56640625 L 0 4.3457031 L 0.56640625 4.3457031 L 3.4785156 4.3457031 L 3.4785156 3.7792969 L 0.56640625 3.7792969 L 0.56640625 0.56640625 L 3.4785156 0.56640625 L 3.4785156 0 L 0 0 z M 4.234375 0 L 4.234375 0.56640625 L 7.1464844 0.56640625 L 7.1464844 3.7792969 L 4.234375 3.7792969 L 4.234375 4.3457031 L 7.1464844 4.3457031 L 7.7148438 4.3457031 L 7.7148438 3.7792969 L 7.7148438 0.56640625 L 7.7148438 0 L 7.1464844 0 L 4.234375 0 z " gorn="0.2.0.0.0.0.0.0.0.0"  fill="black"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(4.9114227e-5,2.0210445e-4)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g id="copper1" gorn="0.3.0.0.0.0.0.0.0" >
+                                    <rect x="0.19045076" height="0.78026074" stroke="none" id="connector0pad" width="0.73000002" y="0.18466751" gorn="0.3.0.0.0.0.0.0.0.0"  fill="#ffcc00"/>
+                                    <rect x="1.1204509" height="0.77999997" stroke="none" id="connector1pad" width="0.73000002" y="0.1847979" gorn="0.3.0.0.0.0.0.0.0.1"  fill="#FFC000"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

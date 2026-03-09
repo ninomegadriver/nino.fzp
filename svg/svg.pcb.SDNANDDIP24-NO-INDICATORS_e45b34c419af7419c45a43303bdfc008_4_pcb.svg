@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0in" width="0.72in" gorn="0" viewBox="0 0 51.84 87.84" version="1.2" id="svg26"  height="1.22in" y="0in">
+    <desc >
+        <referenceFile >Untitled Sketch 5_pcb.svg</referenceFile>
+    </desc>
+    <defs id="defs26" />
+    <g gorn="0.2" id="copper1" >
+        <g gorn="0.2.0" id="copper0" >
+            <rect fill="none" x="2.3399999" gorn="0.2.0.0" width="3.96" stroke-width="1.44" id="rect1"  height="3.96" stroke="#ffbf00" y="2.3399999"/>
+            <circle cy="4.3200002" fill="none" gorn="0.2.0.1" stroke-width="1.44" r="1.98" id="circle1"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="4.3200002" fill="none" gorn="0.2.0.2" stroke-width="1.44" r="1.98" id="circle2"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="11.52" fill="none" gorn="0.2.0.3" stroke-width="1.44" r="1.98" id="circle3"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="11.52" fill="none" gorn="0.2.0.4" stroke-width="1.44" r="1.98" id="circle4"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="18.719999" fill="none" gorn="0.2.0.5" stroke-width="1.44" r="1.98" id="circle5"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="18.719999" fill="none" gorn="0.2.0.6" stroke-width="1.44" r="1.98" id="circle6"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="25.92" fill="none" gorn="0.2.0.7" stroke-width="1.44" r="1.98" id="circle7"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="25.92" fill="none" gorn="0.2.0.8" stroke-width="1.44" r="1.98" id="circle8"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="33.119999" fill="none" gorn="0.2.0.9" stroke-width="1.44" r="1.98" id="circle9"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="33.119999" fill="none" gorn="0.2.0.10" stroke-width="1.44" r="1.98" id="circle10"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="40.32" fill="none" gorn="0.2.0.11" stroke-width="1.44" r="1.98" id="circle11"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="40.32" fill="none" gorn="0.2.0.12" stroke-width="1.44" r="1.98" id="circle12"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="47.52" fill="none" gorn="0.2.0.13" stroke-width="1.44" r="1.98" id="circle13"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="47.52" fill="none" gorn="0.2.0.14" stroke-width="1.44" r="1.98" id="circle14"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="54.720001" fill="none" gorn="0.2.0.15" stroke-width="1.44" r="1.98" id="circle15"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="54.720001" fill="none" gorn="0.2.0.16" stroke-width="1.44" r="1.98" id="circle16"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="61.919998" fill="none" gorn="0.2.0.17" stroke-width="1.44" r="1.98" id="circle17"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="61.919998" fill="none" gorn="0.2.0.18" stroke-width="1.44" r="1.98" id="circle18"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="69.120003" fill="none" gorn="0.2.0.19" stroke-width="1.44" r="1.98" id="circle19"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="69.120003" fill="none" gorn="0.2.0.20" stroke-width="1.44" r="1.98" id="circle20"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="76.32" fill="none" gorn="0.2.0.21" stroke-width="1.44" r="1.98" id="circle21"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="76.32" fill="none" gorn="0.2.0.22" stroke-width="1.44" r="1.98" id="circle22"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="83.519997" fill="none" gorn="0.2.0.23" stroke-width="1.44" r="1.98" id="circle23"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="83.519997" fill="none" gorn="0.2.0.24" stroke-width="1.44" r="1.98" id="circle24"  stroke="#ffbf00" cx="47.52"/>
+            <rect fill="none" x="2.3399999" gorn="0.2.0.25" width="3.96" stroke-width="1.44" id="square"  height="3.96" stroke="#ffbf00" y="2.3399999"/>
+            <circle cy="4.3200002" fill="none" gorn="0.2.0.26" stroke-width="1.44" r="1.98" id="connector0pin"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="4.3200002" fill="none" gorn="0.2.0.27" stroke-width="1.44" r="1.98" id="connector23pin"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="11.52" fill="none" gorn="0.2.0.28" stroke-width="1.44" r="1.98" id="connector1pin"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="11.52" fill="none" gorn="0.2.0.29" stroke-width="1.44" r="1.98" id="connector22pin"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="18.719999" fill="none" gorn="0.2.0.30" stroke-width="1.44" r="1.98" id="connector2pin"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="18.719999" fill="none" gorn="0.2.0.31" stroke-width="1.44" r="1.98" id="connector21pin"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="25.92" fill="none" gorn="0.2.0.32" stroke-width="1.44" r="1.98" id="connector3pin"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="25.92" fill="none" gorn="0.2.0.33" stroke-width="1.44" r="1.98" id="connector20pin"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="33.119999" fill="none" gorn="0.2.0.34" stroke-width="1.44" r="1.98" id="connector4pin"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="33.119999" fill="none" gorn="0.2.0.35" stroke-width="1.44" r="1.98" id="connector19pin"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="40.32" fill="none" gorn="0.2.0.36" stroke-width="1.44" r="1.98" id="connector5pin"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="40.32" fill="none" gorn="0.2.0.37" stroke-width="1.44" r="1.98" id="connector18pin"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="47.52" fill="none" gorn="0.2.0.38" stroke-width="1.44" r="1.98" id="connector6pin"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="47.52" fill="none" gorn="0.2.0.39" stroke-width="1.44" r="1.98" id="connector17pin"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="54.720001" fill="none" gorn="0.2.0.40" stroke-width="1.44" r="1.98" id="connector7pin"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="54.720001" fill="none" gorn="0.2.0.41" stroke-width="1.44" r="1.98" id="connector16pin"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="61.919998" fill="none" gorn="0.2.0.42" stroke-width="1.44" r="1.98" id="connector8pin"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="61.919998" fill="none" gorn="0.2.0.43" stroke-width="1.44" r="1.98" id="connector15pin"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="69.120003" fill="none" gorn="0.2.0.44" stroke-width="1.44" r="1.98" id="connector9pin"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="69.120003" fill="none" gorn="0.2.0.45" stroke-width="1.44" r="1.98" id="connector14pin"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="76.32" fill="none" gorn="0.2.0.46" stroke-width="1.44" r="1.98" id="connector10pin"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="76.32" fill="none" gorn="0.2.0.47" stroke-width="1.44" r="1.98" id="connector13pin"  stroke="#ffbf00" cx="47.52"/>
+            <circle cy="83.519997" fill="none" gorn="0.2.0.48" stroke-width="1.44" r="1.98" id="connector11pin"  stroke="#ffbf00" cx="4.3200002"/>
+            <circle cy="83.519997" fill="none" gorn="0.2.0.49" stroke-width="1.44" r="1.98" id="connector12pin"  stroke="#ffbf00" cx="47.52"/>
+        </g>
+    </g>
+    <g gorn="0.3" id="silkscreen" >
+        <path d="M 0.0559079,58.224 H 51.6023" gorn="0.3.0" stroke-width="0.5" id="path1"  stroke="#000000"/>
+        <path d="M 0.249023,0.249023 V 87.5918 H 51.7954 V 0.249023 H 30.8247 A 4.91065,4.91065 0 0 1 25.9204,4.91016 4.91065,4.91065 0 0 1 21.0161,0.249023 Z" fill="none" gorn="0.3.1" stroke-width="0.5" id="path12973"  stroke="#000000"/>
+    </g>
+</svg>

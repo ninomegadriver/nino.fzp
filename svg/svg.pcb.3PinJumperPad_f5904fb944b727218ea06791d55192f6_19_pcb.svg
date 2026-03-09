@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg1835" height="2mm" gorn="0" xml:space="preserve" viewBox="0 0 9.9555559 4.9733334"  xmlns:xml="http://www.w3.org/XML/1998/namespace" version="1.0" width="4mm" style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+    <desc >
+        <referenceFile >jumperpad.svg</referenceFile>
+    </desc>
+    <defs id="defs1839" />
+    <g transform="translate(0.25149631,0.38100586)" >
+        <g >
+            <g id="copper1" gorn="0.2.0.0" >
+                <path id="connector0pin" d="M 1.3185564,3.9538168 C 1.0823291,3.9238106 0.83072624,3.8041399 0.64407581,3.6330111 0.5026876,3.5033806 0.37110035,3.2986983 0.30895121,3.1117289 0.24914114,2.9317964 0.24781073,2.9075904 0.25152266,2.0668498 l 0.003408,-0.7718392 0.0284669,-0.1039362 C 0.34308947,0.97313035 0.44605655,0.79087545 0.59713682,0.6357457 0.74504725,0.48387072 0.89175537,0.38900348 1.0809107,0.3229185 1.2728684,0.25585447 1.2783479,0.25546321 2.1005334,0.25011441 L 2.850264,0.24523741 V 2.1056653 3.9660936 L 2.122031,3.9647336 C 1.721503,3.9639856 1.3599393,3.9590736 1.3185564,3.9538168 Z" gorn="0.2.0.0.0" fill="#f7bd13"  stroke-width="0.00406255" stroke="#000000" stroke-opacity="1" style="stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill" fill-opacity="1"/>
+                <path id="connector1pin" d="M 3.4844446,2.1065469 V 0.24700012 H 4.7259339 5.9674231 V 2.1065469 3.9660936 H 4.7259339 3.4844446 Z" gorn="0.2.0.0.1" fill="#f7bd13"  stroke-width="0.00406255" stroke="#000000" stroke-opacity="1" style="stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill" fill-opacity="1"/>
+                <path id="connector2pin" d="M 6.6016038,2.1011725 V 0.24700012 h 0.7402611 c 0.8140462,0 0.8367927,0.001463 1.018474,0.0655249 C 8.5454774,0.37780512 8.6958271,0.4717915 8.8299607,0.60609338 9.0454464,0.82184979 9.1663353,1.084409 9.191816,1.3920095 9.20546,1.5567042 9.20575,2.6423407 9.192192,2.8052205 9.167847,3.097749 9.0596922,3.3450486 8.864232,3.555117 8.6677413,3.7662928 8.4036806,3.9048158 8.123269,3.9438175 8.071048,3.9510775 7.7742917,3.9553445 7.3209972,3.9553445 H 6.6016038 Z" gorn="0.2.0.0.2" fill="#f7bd13"  stroke-width="0.00406255" stroke="#000000" stroke-opacity="1" style="stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill" fill-opacity="1"/>
+            </g>
+        </g>
+    </g>
+    <rect x="0.24888882" id="silkscreen" height="4.231111" y="0.37111109" gorn="0.3" ry="1.3170371" fill="none"  stroke-width="0.24888889" stroke="#000000" stroke-opacity="1" width="9.457778" style="stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill" fill-opacity="1"/>
+    <metadata id="metadata2119" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+</svg>

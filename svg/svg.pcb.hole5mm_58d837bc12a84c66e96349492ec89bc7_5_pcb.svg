@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" height="5mm"  version="1.1" width="5mm" id="svg5" viewBox="0 0 5 5" gorn="0">
+    <desc >
+        <referenceFile >PlatedHole.svg</referenceFile>
+    </desc>
+    <defs  id="defs2"/>
+    <g  id="silkscreen" gorn="0.2">
+        <circle  id="path450" stroke="none" gorn="0.2.0" cy="2.5001059" fill="#000000" cx="2.5001054" r="1.7000159"/>
+    </g>
+    <g  id="copper0" gorn="0.3">
+        <g  id="copper1" gorn="0.3.0">
+            <path  id="connector0pin" d="M 2.500106,0 A 2.5,2.5 0 0 0 0,2.5001058 2.5,2.5 0 0 0 2.500106,5.0002116 2.5,2.5 0 0 0 5.000211,2.5001058 2.5,2.5 0 0 0 2.500106,0 Z m 0,0.7203695 A 1.78,1.78 0 0 1 4.280359,2.5001058 1.78,1.78 0 0 1 2.500106,4.2803589 1.78,1.78 0 0 1 0.720369,2.5001058 1.78,1.78 0 0 1 2.500106,0.7203695 Z" stroke="none" gorn="0.3.0.0" fill="#ffc000"/>
+            <circle  id="path450-6" stroke="none" gorn="0.3.0.1" cy="2.5001059" fill="#000000" cx="2.5001054" r="1.7000159" style="stroke-width:0.500005"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" gorn="0" id="svg5" version="1.1"  viewBox="0 0 20 15" height="15mm" width="20mm">
+    <desc >
+        <referenceFile >UPC-AMP-PAD-BOTTOM.svg</referenceFile>
+    </desc>
+    <defs id="defs2" />
+    <g gorn="0.2" id="copper1" >
+        <g transform="scale(0.26458333)" >
+            <g >
+                <path gorn="0.2.0.0.0" id="nonconn0" stroke="none"  fill="#ffc000" d="M 14.353516,0 0,12.587891 v 6.292968 h 3.828125 v 7.25586 27.009765 h 67.935547 v -27.009765 -7.25586 h 3.826172 V 12.587891 L 61.238281,0 Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg"  version="1.2" x="0in" width="25.907999mm" id="svg21" gorn="0" height="20.827999mm" y="0in" viewBox="0 0 73.439999 59.039998">
+    <desc >
+        <referenceFile >tampa-impressao3d.svg</referenceFile>
+    </desc>
+    <defs  id="defs21"/>
+    <g  id="copper1" gorn="0.2">
+        <g  id="copper0" gorn="0.2.0">
+            <circle cx="4.0433073"  fill="none" stroke-width="1" id="connector3pin" stroke="#ffc000" cy="54.996693" gorn="0.2.0.0" r="3.5433071"/>
+            <circle cx="69.39669"  fill="none" stroke-width="1" id="connector2pin" stroke="#ffc000" cy="54.996693" gorn="0.2.0.1" r="3.5433071"/>
+            <circle cx="69.39669"  fill="none" stroke-width="1" id="connector1pin" stroke="#ffc000" cy="4.0433073" gorn="0.2.0.2" r="3.5433071"/>
+            <circle cx="4.0433073"  fill="none" stroke-width="1" id="connector0pin" stroke="#ffc000" cy="4.0433073" gorn="0.2.0.3" r="3.5433071"/>
+        </g>
+    </g>
+    <g  id="silkscreen" gorn="0.3">
+        <path d="M 0 0 L 0 2.8344727 L 0 59.040529 L 2.8344727 59.040529 L 73.439943 59.040529 L 73.439943 56.206056 L 73.439943 2.8344727 L 73.439943 0 L 70.605471 0 L 2.8344727 0 L 0 0 z M 2.8344727 2.8344727 L 70.605471 2.8344727 L 70.605471 56.206056 L 2.8344727 56.206056 L 2.8344727 2.8344727 z "  fill="black" id="rect21" stroke="none" gorn="0.3.0"/>
+        <circle cx="4.0433073"  fill="black" stroke-width="1" id="nonconn1" stroke="none" cy="54.996693" gorn="0.3.1" r="3.5433071"/>
+        <circle cx="69.39669"  fill="black" stroke-width="1" id="nonconash" stroke="none" cy="54.996693" gorn="0.3.2" r="3.5433071"/>
+        <circle cx="69.39669"  fill="black" stroke-width="1" id="nonconasdas" stroke="none" cy="4.0433073" gorn="0.3.3" r="3.5433071"/>
+        <circle cx="4.0433073"  fill="black" stroke-width="1" id="connector0pin-3" stroke="none" cy="4.0433073" gorn="0.3.4" r="3.5433071"/>
+    </g>
+</svg>

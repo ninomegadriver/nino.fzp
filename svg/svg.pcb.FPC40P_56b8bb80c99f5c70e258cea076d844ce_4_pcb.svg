@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24.879999mm" id="svg43"  version="1.1" viewBox="0 0 97.952752 25.570865" gorn="0" height="6.4949999mm">
+    <desc >
+        <referenceFile >fpc-pcb.svg</referenceFile>
+    </desc>
+    <g transform="translate(-3991,-3025.5)" >
+        <g >
+            <g >
+                <defs id="defs43" />
+                <g transform="translate(-10.0239,-16.4782)" >
+                    <g >
+                        <g id="copper1"  gorn="0.1.0.0.1.0.0">
+                            <path fill="#ffc000" id="nonconn0"  stroke="none" gorn="0.1.0.0.1.0.0.0" d="m 4098.9767,3059.9903 h -7.874 v -9.8426 h 7.874 z"/>
+                            <path fill="#ffc000" id="nonconn1"  stroke="none" gorn="0.1.0.0.1.0.0.1" d="m 4008.8979,3059.9903 h -7.874 v -9.8426 h 7.874 z"/>
+                            <path fill="#ffc000" id="connector39pad"  stroke="none" gorn="0.1.0.0.1.0.0.2" d="m 4088.9771,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector38pad"  stroke="none" gorn="0.1.0.0.1.0.0.3" d="m 4087.0081,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector37pad"  stroke="none" gorn="0.1.0.0.1.0.0.4" d="m 4085.0401,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector36pad"  stroke="none" gorn="0.1.0.0.1.0.0.5" d="m 4083.0711,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector35pad"  stroke="none" gorn="0.1.0.0.1.0.0.6" d="m 4081.1031,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector34pad"  stroke="none" gorn="0.1.0.0.1.0.0.7" d="m 4079.1341,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector33pad"  stroke="none" gorn="0.1.0.0.1.0.0.8" d="m 4077.1661,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector32pad"  stroke="none" gorn="0.1.0.0.1.0.0.9" d="m 4075.1971,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector31pad"  stroke="none" gorn="0.1.0.0.1.0.0.10" d="m 4073.2291,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector30pad"  stroke="none" gorn="0.1.0.0.1.0.0.11" d="m 4071.2601,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector29pad"  stroke="none" gorn="0.1.0.0.1.0.0.12" d="m 4069.2921,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector28pad"  stroke="none" gorn="0.1.0.0.1.0.0.13" d="m 4067.3231,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector27pad"  stroke="none" gorn="0.1.0.0.1.0.0.14" d="m 4065.3551,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector26pad"  stroke="none" gorn="0.1.0.0.1.0.0.15" d="m 4063.3861,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector25pad"  stroke="none" gorn="0.1.0.0.1.0.0.16" d="m 4061.4181,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector24pad"  stroke="none" gorn="0.1.0.0.1.0.0.17" d="m 4059.4491,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector23pad"  stroke="none" gorn="0.1.0.0.1.0.0.18" d="M 4057.4811,3047.8838 H 4056.3 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector22pad"  stroke="none" gorn="0.1.0.0.1.0.0.19" d="m 4055.5121,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector21pad"  stroke="none" gorn="0.1.0.0.1.0.0.20" d="m 4053.5441,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector20pad"  stroke="none" gorn="0.1.0.0.1.0.0.21" d="m 4051.5751,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector19pad"  stroke="none" gorn="0.1.0.0.1.0.0.22" d="m 4049.6071,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector18pad"  stroke="none" gorn="0.1.0.0.1.0.0.23" d="m 4047.6381,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector17pad"  stroke="none" gorn="0.1.0.0.1.0.0.24" d="m 4045.6701,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector16pad"  stroke="none" gorn="0.1.0.0.1.0.0.25" d="m 4043.7011,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector15pad"  stroke="none" gorn="0.1.0.0.1.0.0.26" d="m 4041.7331,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector14pad"  stroke="none" gorn="0.1.0.0.1.0.0.27" d="m 4039.7641,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector13pad"  stroke="none" gorn="0.1.0.0.1.0.0.28" d="m 4037.7961,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector12pad"  stroke="none" gorn="0.1.0.0.1.0.0.29" d="m 4035.8271,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector11pad"  stroke="none" gorn="0.1.0.0.1.0.0.30" d="m 4033.8591,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector10pad"  stroke="none" gorn="0.1.0.0.1.0.0.31" d="m 4031.8901,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector9pad"  stroke="none" gorn="0.1.0.0.1.0.0.32" d="m 4029.9221,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector8pad"  stroke="none" gorn="0.1.0.0.1.0.0.33" d="m 4027.9531,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector7pad"  stroke="none" gorn="0.1.0.0.1.0.0.34" d="m 4025.9851,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector6pad"  stroke="none" gorn="0.1.0.0.1.0.0.35" d="m 4024.0161,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector5pad"  stroke="none" gorn="0.1.0.0.1.0.0.36" d="m 4022.0481,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector4pad"  stroke="none" gorn="0.1.0.0.1.0.0.37" d="m 4020.0791,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector3pad"  stroke="none" gorn="0.1.0.0.1.0.0.38" d="m 4018.1111,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector2pad"  stroke="none" gorn="0.1.0.0.1.0.0.39" d="m 4016.1421,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector1pad"  stroke="none" gorn="0.1.0.0.1.0.0.40" d="m 4014.1741,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                            <path fill="#ffc000" id="connector0pad"  stroke="none" gorn="0.1.0.0.1.0.0.41" d="m 4012.2051,3047.8838 h -1.1811 v -5.9056 h 1.1811 z"/>
+                        </g>
+                    </g>
+                </g>
+                <g transform="translate(-10.0239,-16.4782)" >
+                    <g >
+                        <g id="silkscreen"  gorn="0.1.0.0.2.0.0">
+                            <path fill="#000000" id="gge46"  stroke="none" gorn="0.1.0.0.2.0.0.0" d="m 4001.9688,3067.0234 h 96.063"/>
+                            <path fill="#000000" id="gge49"  stroke="none" gorn="0.1.0.0.2.0.0.1" d="m 4009.2365,3043.9467 a 1.9685039,1.9685039 0 0 1 -1.9685,1.9685 1.9685039,1.9685039 0 0 1 -1.9685,-1.9685 1.9685039,1.9685039 0 0 1 1.9685,-1.9685 1.9685039,1.9685039 0 0 1 1.9685,1.9685 z"/>
+                            <path fill="black" id="path1"  stroke="none" gorn="0.1.0.0.2.0.0.2" d="m 4001.0239,3066.5648 v 0.9843 h 97.9528 v -0.9843 z"/>
+                            <path fill="#000000" id="path1-5"  stroke="none" gorn="0.1.0.0.2.0.0.3" d="m 4001.0239,3063.6121 v 3.937 h 0.9843 v -3.937 z"/>
+                            <path fill="#000000" id="path1-5-2"  stroke="none" gorn="0.1.0.0.2.0.0.4" d="m 4097.9924,3063.6121 v 3.937 h 0.9843 v -3.937 z"/>
+                            <path fill="black" id="path1-6"  stroke="none" gorn="0.1.0.0.2.0.0.5" d="m 4001.024,3047.6361 v 0.9843 h 8.6525 v -0.9843 z"/>
+                            <path fill="black" id="path1-6-5"  stroke="none" gorn="0.1.0.0.2.0.0.6" d="m 4090.3242,3047.6361 v 0.9843 h 8.6525 v -0.9843 z"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

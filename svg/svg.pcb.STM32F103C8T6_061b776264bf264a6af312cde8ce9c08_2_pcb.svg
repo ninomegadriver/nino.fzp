@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="10.5mm" viewBox="0 0 41.339142 41.339086"  id="svg257" width="10.5mm" version="1.1" gorn="0">
+    <desc >
+        <referenceFile >STM32F103C8T6-PCB.svg</referenceFile>
+    </desc>
+    <g  transform="translate(-4020.8,-3014.5)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <defs  id="defs261"/>
+                            <g  id="silkscreen" gorn="0.1.0.0.0.0.0.1">
+                                <path stroke="none"  stroke-width="none" id="path10478" d="m 4026.314,3051.9022 a 1.5767462,1.5787704 0 0 0 -1.5768,-1.5788 1.5767462,1.5787704 0 0 0 -1.5768,1.5788 1.5767462,1.5787704 0 0 0 1.5768,1.5787 1.5767462,1.5787704 0 0 0 1.5768,-1.5787 z" fill="black" gorn="0.1.0.0.0.0.0.1.0"/>
+                                <g  id="g10155" gorn="0.1.0.0.0.0.0.1.1">
+                                    <path stroke="none"  stroke-width="0" id="path10475" d="m 4020.8,3014.5 h 1.9686 v 7.8741 H 4020.8 Z" fill="black" gorn="0.1.0.0.0.0.0.1.1.0"/>
+                                    <path stroke="none"  stroke-width="0" id="path10472" d="m 4020.8,3014.5 h 7.8742 v 1.9685 H 4020.8 Z" fill="black" gorn="0.1.0.0.0.0.0.1.1.1"/>
+                                </g>
+                                <g  id="g10167" gorn="0.1.0.0.0.0.0.1.2">
+                                    <path stroke="0"  stroke-width="0" id="path10469" d="m 4020.8,3047.9651 h 1.9686 v 7.8741 H 4020.8 Z" fill="black" gorn="0.1.0.0.0.0.0.1.2.0"/>
+                                    <path stroke="none"  stroke-width="0" id="path10466" d="m 4020.8003,3053.8706 h 7.8741 v 1.9685 h -7.8741 z" gorn="0.1.0.0.0.0.0.1.2.1"/>
+                                </g>
+                                <g  id="g10159" gorn="0.1.0.0.0.0.0.1.3">
+                                    <path stroke="none"  stroke-width="0" id="path10463" d="m 4060.1707,3014.5 h 1.9685 v 7.8741 h -1.9685 z" fill="black" gorn="0.1.0.0.0.0.0.1.3.0"/>
+                                    <path stroke="none"  stroke-width="0" id="path10460" d="m 4054.2651,3014.5 h 7.8742 v 1.9685 h -7.8742 z" fill="black" gorn="0.1.0.0.0.0.0.1.3.1"/>
+                                </g>
+                                <g  id="g10163" gorn="0.1.0.0.0.0.0.1.4">
+                                    <path stroke="none"  stroke-width="0" id="path10457" d="m 4060.1707,3047.9651 h 1.9685 v 7.8741 h -1.9685 z" fill="black" gorn="0.1.0.0.0.0.0.1.4.0"/>
+                                    <path stroke="none"  stroke-width="0" id="path10454" d="m 4054.2651,3053.8706 h 7.8742 v 1.9685 h -7.8742 z" fill="black" gorn="0.1.0.0.0.0.0.1.4.1"/>
+                                </g>
+                            </g>
+                            <g  transform="rotate(-90,4041.4696,3035.1695)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g  id="copper1" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0">
+                                                    <g  transform="translate(-8.5304677,-14.830609)">
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g  id="fila1" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0">
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector0pad" d="m 3038.5823,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector1pad" d="m 3040.5508,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector2pad" d="m 3042.5195,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector3pad" d="m 3044.488,-4037.2046 h 1.1812 v 7.8741 h -1.1812 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector4pad" d="m 3046.4565,-4037.2046 h 1.1812 v 7.8741 h -1.1812 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.4.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector5pad" d="m 3048.425,-4037.2046 h 1.1812 v 7.8741 h -1.1812 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.5.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector6pad" d="m 3050.3938,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.6.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector7pad" d="m 3052.3623,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.7.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector8pad" d="m 3054.3308,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector9pad" d="m 3056.2993,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.9.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector10pad" d="m 3058.2681,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.10.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector11pad" d="m 3060.2366,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.11.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g  transform="translate(-8.5304677,18.634164)">
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g  id="fila2" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0">
+                                                                            <path stroke="none"  stroke-width="0" id="connector12pad" d="m 4038.5823,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0.0"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector13pad" d="m 4040.5508,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0.1"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector14pad" d="m 4042.5195,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0.2"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector15pad" d="m 4044.488,3029.3306 h 1.1812 v 7.8741 h -1.1812 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0.3"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector16pad" d="m 4046.4565,3029.3306 h 1.1812 v 7.8741 h -1.1812 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0.4"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector17pad" d="m 4048.425,3029.3306 h 1.1812 v 7.8741 h -1.1812 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0.5"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector18pad" d="m 4050.3938,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0.6"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector19pad" d="m 4052.3623,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0.7"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector20pad" d="m 4054.3308,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0.8"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector21pad" d="m 4056.2993,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0.9"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector22pad" d="m 4058.2681,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0.10"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector23pad" d="m 4060.2366,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0.11"/>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g  transform="matrix(1,0,0,-1,24.934403,6085.1694)">
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g  id="fila3" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0">
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector24pad" d="m 3038.5823,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector25pad" d="m 3040.5508,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0.1.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector26pad" d="m 3042.5195,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector27pad" d="m 3044.488,-4037.2046 h 1.1812 v 7.8741 h -1.1812 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector28pad" d="m 3046.4565,-4037.2046 h 1.1812 v 7.8741 h -1.1812 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0.4.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector29pad" d="m 3048.425,-4037.2046 h 1.1812 v 7.8741 h -1.1812 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0.5.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector30pad" d="m 3050.3938,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0.6.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector31pad" d="m 3052.3623,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0.7.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector32pad" d="m 3054.3308,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0.8.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector33pad" d="m 3056.2993,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0.9.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector34pad" d="m 3058.2681,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0.10.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                            <g  transform="rotate(90)">
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <path stroke="none"  stroke-width="0" id="connector35pad" d="m 3060.2366,-4037.2046 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2.0.0.0.0.0.11.0.0.0.0.0"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g  transform="matrix(-1,0,0,1,8091.4695,-14.830609)">
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g  id="fila4" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0">
+                                                                            <path stroke="none"  stroke-width="0" id="connector36pad" d="m 4038.5823,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0.0"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector37pad" d="m 4040.5508,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0.1"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector38pad" d="m 4042.5195,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0.2"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector39pad" d="m 4044.488,3029.3306 h 1.1812 v 7.8741 h -1.1812 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0.3"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector40pad" d="m 4046.4565,3029.3306 h 1.1812 v 7.8741 h -1.1812 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0.4"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector41pad" d="m 4048.425,3029.3306 h 1.1812 v 7.8741 h -1.1812 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0.5"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector42pad" d="m 4050.3938,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0.6"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector43pad" d="m 4052.3623,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0.7"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector44pad" d="m 4054.3308,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0.8"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector45pad" d="m 4056.2993,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0.9"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector46pad" d="m 4058.2681,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0.10"/>
+                                                                            <path stroke="none"  stroke-width="0" id="connector47pad" d="m 4060.2366,3029.3306 h 1.1811 v 7.8741 h -1.1811 z" fill="#ffc000" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3.0.0.0.0.0.11"/>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Creator: CorelDRAW 2018 -->
+<svg xmlns="http://www.w3.org/2000/svg" height="6.0968mm" text-rendering="geometricPrecision" id="svg4727" fill-rule="evenodd" xml:space="preserve" version="1.0" shape-rendering="geometricPrecision"  xmlns:xml="http://www.w3.org/XML/1998/namespace" width="81.9999mm" image-rendering="optimizeQuality" clip-rule="evenodd" viewBox="0 0 3192.5 237.37" gorn="0">
+    <desc>
+        <referenceFile>Sega_Genesis_Cartridge_Edge_Male_fee993eec98117cb6decaf7fb4210e49_1_pcb.svg</referenceFile>
+    </desc>
+    <metadata id="metadata4733" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs4731" />
+    <g id="silkscreen"  gorn="0.2">
+        <path id="silke" stroke="none" d="m 3192.5,0 v 217.89 c 0,10.71 -8.76,19.47 -19.47,19.47 H 19.46 c -10.71,0 -19.47,-8.76 -19.47,-19.47 V 0 h 3192.5 z m -3.89,217.89 V 3.89 H 3.89 v 214 c 0,4.29 1.75,8.18 4.56,10.99 l 0.02,0.02 c 2.81,2.81 6.71,4.56 10.99,4.56 h 3153.57 c 4.29,0 8.18,-1.75 10.99,-4.56 v -0.02 c 2.82,-2.82 4.58,-6.72 4.58,-10.99 z"  fill="black" gorn="0.2.0"/>
+    </g>
+    <g id="copper1"  gorn="0.3">
+        <path id="connector0pin" stroke="none" d="m 28.827978,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.3.0"/>
+        <path id="connector1pin" stroke="none" d="m 127.75539,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.3.1"/>
+        <path id="connector2pin" stroke="none" d="m 226.64256,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.3.2"/>
+        <path id="connector3pin" stroke="none" d="m 325.50961,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.3.3"/>
+        <path id="connector4pin" stroke="none" d="M 424.45714,0 V 237.36945 H 493.6681 V 0 Z"  fill="#ffc000" gorn="0.3.4"/>
+        <path id="connector5pin" stroke="none" d="m 523.32419,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.3.5"/>
+        <path id="connector6pin" stroke="none" d="m 622.15101,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.3.6"/>
+        <path id="connector7pin" stroke="none" d="m 721.09853,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.3.7"/>
+        <path id="connector8pin" stroke="none" d="m 819.96559,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.3.8"/>
+        <path id="connector9pin" stroke="none" d="M 918.83264,0 V 237.36945 H 988.0436 V 0 Z"  fill="#ffc000" gorn="0.3.9"/>
+        <path id="connector10pin" stroke="none" d="m 1017.7802,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.3.10"/>
+        <path id="connector11pin" stroke="none" d="m 1116.6673,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.3.11"/>
+        <path id="connector12pin" stroke="none" d="m 1215.5344,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.3.12"/>
+        <path id="connector13pin" stroke="none" d="m 1314.4618,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.3.13"/>
+        <path id="connector14pin" stroke="none" d="m 1413.349,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.3.14"/>
+        <path id="connector15pin" stroke="none" d="m 1512.216,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.3.15"/>
+        <path id="connector16pin" stroke="none" d="m 1611.1636,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.3.16"/>
+        <path id="connector17pin" stroke="none" d="m 1710.0306,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.3.17"/>
+        <path id="connector18pin" stroke="none" d="m 1808.8775,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.3.18"/>
+        <path id="connector19pin" stroke="none" d="m 1907.8049,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.3.19"/>
+        <path id="connector20pin" stroke="none" d="m 2006.672,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.3.20"/>
+        <path id="connector21pin" stroke="none" d="M 2105.5592,0 V 237.36945 H 2174.75 V 0 Z"  fill="#ffc000" gorn="0.3.21"/>
+        <path id="connector22pin" stroke="none" d="m 2204.4866,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.3.22"/>
+        <path id="connector23pin" stroke="none" d="m 2303.3738,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.3.23"/>
+        <path id="connector24pin" stroke="none" d="m 2402.1804,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.3.24"/>
+        <path id="connector25pin" stroke="none" d="m 2501.128,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.3.25"/>
+        <path id="connector26pin" stroke="none" d="m 2599.995,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.3.26"/>
+        <path id="connector27pin" stroke="none" d="m 2698.8822,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.3.27"/>
+        <path id="connector28pin" stroke="none" d="m 2797.8297,0 v 237.36945 h 69.1909 V 0 Z"  fill="#ffc000" gorn="0.3.28"/>
+        <path id="connector29pin" stroke="none" d="m 2896.6968,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.3.29"/>
+        <path id="connector30pin" stroke="none" d="m 2995.5236,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.3.30"/>
+        <path id="connector31pin" stroke="none" d="m 3094.451,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.3.31"/>
+    </g>
+    <g id="copper0"  gorn="0.4">
+        <path id="connector32pin" stroke="none" d="m 28.827978,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.4.0"/>
+        <path id="connector33pin" stroke="none" d="m 127.75539,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.4.1"/>
+        <path id="connector34pin" stroke="none" d="m 226.64256,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.4.2"/>
+        <path id="connector35pin" stroke="none" d="m 325.50961,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.4.3"/>
+        <path id="connector36pin" stroke="none" d="M 424.45714,0 V 237.36945 H 493.6681 V 0 Z"  fill="#ffc000" gorn="0.4.4"/>
+        <path id="connector37pin" stroke="none" d="m 523.32419,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.4.5"/>
+        <path id="connector38pin" stroke="none" d="m 622.15101,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.4.6"/>
+        <path id="connector39pin" stroke="none" d="m 721.09853,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.4.7"/>
+        <path id="connector40pin" stroke="none" d="m 819.96559,0 v 237.36945 h 69.21096 V 0 Z"  fill="#ffc000" gorn="0.4.8"/>
+        <path id="connector41pin" stroke="none" d="M 918.83264,0 V 237.36945 H 988.0436 V 0 Z"  fill="#ffc000" gorn="0.4.9"/>
+        <path id="connector42pin" stroke="none" d="m 1017.7802,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.4.10"/>
+        <path id="connector43pin" stroke="none" d="m 1116.6673,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.4.11"/>
+        <path id="connector44pin" stroke="none" d="m 1215.5344,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.4.12"/>
+        <path id="connector45pin" stroke="none" d="m 1314.4618,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.4.13"/>
+        <path id="connector46pin" stroke="none" d="m 1413.349,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.4.14"/>
+        <path id="connector47pin" stroke="none" d="m 1512.216,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.4.15"/>
+        <path id="connector48pin" stroke="none" d="m 1611.1636,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.4.16"/>
+        <path id="connector49pin" stroke="none" d="m 1710.0306,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.4.17"/>
+        <path id="connector50pin" stroke="none" d="m 1808.8775,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.4.18"/>
+        <path id="connector51pin" stroke="none" d="m 1907.8049,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.4.19"/>
+        <path id="connector52pin" stroke="none" d="m 2006.672,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.4.20"/>
+        <path id="connector53pin" stroke="none" d="M 2105.5592,0 V 237.36945 H 2174.75 V 0 Z"  fill="#ffc000" gorn="0.4.21"/>
+        <path id="connector54pin" stroke="none" d="m 2204.4866,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.4.22"/>
+        <path id="connector55pin" stroke="none" d="m 2303.3738,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.4.23"/>
+        <path id="connector56pin" stroke="none" d="m 2402.1804,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.4.24"/>
+        <path id="connector57pin" stroke="none" d="m 2501.128,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.4.25"/>
+        <path id="connector58pin" stroke="none" d="m 2599.995,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.4.26"/>
+        <path id="connector59pin" stroke="none" d="m 2698.8822,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.4.27"/>
+        <path id="connector60pin" stroke="none" d="m 2797.8297,0 v 237.36945 h 69.1909 V 0 Z"  fill="#ffc000" gorn="0.4.28"/>
+        <path id="connector61pin" stroke="none" d="m 2896.6968,0 v 237.36945 h 69.2109 V 0 Z"  fill="#ffc000" gorn="0.4.29"/>
+        <path id="connector62pin" stroke="none" d="m 2995.5236,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.4.30"/>
+        <path id="connector63pin" stroke="none" d="m 3094.451,0 v 237.36945 h 69.211 V 0 Z"  fill="#ffc000" gorn="0.4.31"/>
+    </g>
+</svg>

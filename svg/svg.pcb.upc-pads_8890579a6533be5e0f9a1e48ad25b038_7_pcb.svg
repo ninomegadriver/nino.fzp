@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 2" width="20mm" height="2mm" version="1.1"  gorn="0" id="svg5">
+    <desc >
+        <referenceFile >UPC-AMP-PADS.svg</referenceFile>
+    </desc>
+    <defs  id="defs2"/>
+    <g transform="translate(0.11000005,-11.887)" >
+        <g >
+            <g >
+                <g  gorn="0.2.0.0.0" id="silkscreen">
+                    <g transform="matrix(0.26458333,0,0,0.26458333,-0.11000005,11.887)" >
+                        <g >
+                            <g >
+                                <path  d="m 74.986328,0 v 7.5585938 h 0.603516 V 0 Z" gorn="0.2.0.0.0.0.0.0.0" id="path7268" fill="#000000" stroke="none"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.26458333,0,0,0.26458333,-0.11000005,11.887)" >
+                        <g >
+                            <g >
+                                <path  d="m 65.386719,0 v 7.5585938 h 2.417969 V 0 Z" gorn="0.2.0.0.0.1.0.0.0" id="path7266" fill="#000000" stroke="none"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.26458333,0,0,0.26458333,-0.11000005,11.887)" >
+                        <g >
+                            <g >
+                                <path  d="m 55.785156,0 v 7.5585938 h 2.419922 V 0 Z" gorn="0.2.0.0.0.2.0.0.0" id="path7264" fill="#000000" stroke="none"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.26458333,0,0,0.26458333,-0.11000005,11.887)" >
+                        <g >
+                            <g >
+                                <path  d="m 46.185547,0 v 7.5585938 h 2.419922 V 0 Z" gorn="0.2.0.0.0.3.0.0.0" id="path7262" fill="#000000" stroke="none"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.26458333,0,0,0.26458333,-0.11000005,11.887)" >
+                        <g >
+                            <g >
+                                <path  d="m 36.585938,0 v 7.5585938 h 2.417968 V 0 Z" gorn="0.2.0.0.0.4.0.0.0" id="path7260" fill="#000000" stroke="none"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.26458333,0,0,0.26458333,-0.11000005,11.887)" >
+                        <g >
+                            <g >
+                                <path  d="m 26.986328,0 v 7.5585938 h 2.417969 V 0 Z" gorn="0.2.0.0.0.5.0.0.0" id="path7258" fill="#000000" stroke="none"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.26458333,0,0,0.26458333,-0.11000005,11.887)" >
+                        <g >
+                            <g >
+                                <path  d="m 17.386719,0 v 7.5585938 h 2.417969 V 0 Z" gorn="0.2.0.0.0.6.0.0.0" id="path7256" fill="#000000" stroke="none"/>
+                            </g>
+                        </g>
+                    </g>
+                    <rect width="0.64027101" height="1.9993612" y="11.887" x="1.9619999"  gorn="0.2.0.0.0.7" id="rect8017" fill="#000000" stroke="none"/>
+                    <rect width="0.16019695" height="1.9993612" y="11.887" x="-0.11000005"  gorn="0.2.0.0.0.8" id="rect8121" fill="#000000" stroke="none"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0.11000005,-11.887)" >
+        <g >
+            <g >
+                <g  style="display:inline" gorn="0.3.0.0.0" id="copper1">
+                    <rect width="1.9" height="2" y="11.887428" x="0.050000008"  gorn="0.3.0.0.0.0" id="connector0pin" fill="#ffc000" stroke="none"/>
+                    <rect width="1.9" height="2" y="11.887" x="2.5899999"  gorn="0.3.0.0.0.1" id="connector1pin" fill="#ffc000" stroke="none"/>
+                    <rect width="1.9" height="2" y="11.887" x="5.1300001"  gorn="0.3.0.0.0.2" id="connector2pin" fill="#ffc000" stroke="none"/>
+                    <rect width="1.9" height="2" y="11.887" x="7.6700001"  gorn="0.3.0.0.0.3" id="connector3pin" fill="#ffc000" stroke="none"/>
+                    <rect width="1.9" height="2" y="11.887" x="10.21"  gorn="0.3.0.0.0.4" id="connector4pin" fill="#ffc000" stroke="none"/>
+                    <rect width="1.9" height="2" y="11.887" x="12.75"  gorn="0.3.0.0.0.5" id="connector5pin" fill="#ffc000" stroke="none"/>
+                    <rect width="1.9" height="2" y="11.887" x="15.29"  gorn="0.3.0.0.0.6" id="connector6pin" fill="#ffc000" stroke="none"/>
+                    <rect width="1.9" height="2" y="11.887" x="17.83"  gorn="0.3.0.0.0.7" id="connector8pin" fill="#ffc000" stroke="none"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

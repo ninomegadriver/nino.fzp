@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="12.601mm" gorn="0" viewBox="0 0 49.611376 65.808414" version="1.1" id="svg4914"  height="16.715mm">
+    <desc >
+        <referenceFile >TF-104.svg</referenceFile>
+    </desc>
+    <g transform="translate(-3802.6,-2892.8)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <defs id="defs4918" />
+                        <g style="display:inline" gorn="0.1.0.0.0.0.1" id="copper1" >
+                            <g transform="translate(-9.6041648,-15.700092)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <polygon style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#fdde68" points="3840.3266,2915.744 3840.3266,2909.8384 3852.5313,2909.8384 3852.5313,2915.744 " gorn="0.1.0.0.0.0.1.0.0.0.0.0" fill-opacity="1" stroke-width="0" layerid="1" id="connector9pad"  stroke="#000000" c_etype="pad_shell"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(-9.6041648,-15.700092)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <polygon style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#fdde68" points="3816.4683,2915.744 3816.4683,2909.8384 3828.6731,2909.8384 3828.6731,2915.744 " gorn="0.1.0.0.0.0.1.1.0.0.0.0" fill-opacity="1" stroke-width="0" layerid="1" id="connector8pad"  stroke="#000000" c_etype="pad_shell"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(-9.6041648,-15.700092)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <polygon style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#fdde68" points="3817.7674,2952.1613 3817.7674,2946.2557 3820.917,2946.2557 3820.917,2952.1613 " gorn="0.1.0.0.0.0.1.2.0.0.0.0" fill-opacity="1" stroke-width="0" layerid="1" id="connector7pad"  stroke="#000000" c_etype="pad_shell"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(-9.6041648,-15.700092)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <polygon style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#fdde68" points="3822.0978,2952.1613 3822.0978,2946.2557 3825.2474,2946.2557 3825.2474,2952.1613 " gorn="0.1.0.0.0.0.1.3.0.0.0.0" fill-opacity="1" stroke-width="0" layerid="1" id="connector6pad"  stroke="#000000" c_etype="pad_shell"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(-9.6041648,-15.700092)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <polygon style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#fdde68" points="3826.4284,2952.1613 3826.4284,2946.2557 3829.578,2946.2557 3829.578,2952.1613 " gorn="0.1.0.0.0.0.1.4.0.0.0.0" fill-opacity="1" stroke-width="0" layerid="1" id="connector5pad"  stroke="#000000" c_etype="pad_shell"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(-9.6041648,-15.700092)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <polygon style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#fdde68" points="3830.7597,2952.1613 3830.7597,2946.2557 3833.9093,2946.2557 3833.9093,2952.1613 " gorn="0.1.0.0.0.0.1.5.0.0.0.0" fill-opacity="1" stroke-width="0" layerid="1" id="connector4pad"  stroke="#000000" c_etype="pad_shell"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(-9.6041648,-15.700092)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <polygon style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#fdde68" points="3835.0901,2952.1613 3835.0901,2946.2557 3838.2397,2946.2557 3838.2397,2952.1613 " gorn="0.1.0.0.0.0.1.6.0.0.0.0" fill-opacity="1" stroke-width="0" layerid="1" id="connector3pad"  stroke="#000000" c_etype="pad_shell"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(-9.6041648,-15.700092)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <polygon style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#fdde68" points="3839.4205,2952.1613 3839.4205,2946.2557 3842.5701,2946.2557 3842.5701,2952.1613 " gorn="0.1.0.0.0.0.1.7.0.0.0.0" fill-opacity="1" stroke-width="0" layerid="1" id="connector2pad"  stroke="#000000" c_etype="pad_shell"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(-9.6041648,-15.700092)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <polygon style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#fdde68" points="3843.752,2952.1613 3843.752,2946.2557 3846.9016,2946.2557 3846.9016,2952.1613 " gorn="0.1.0.0.0.0.1.8.0.0.0.0" fill-opacity="1" stroke-width="0" layerid="1" id="connector1pad"  stroke="#000000" c_etype="pad_shell"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(-9.6041648,-15.700092)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <polygon style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="#fdde68" points="3848.0824,2952.1613 3848.0824,2946.2557 3851.232,2946.2557 3851.232,2952.1613 " gorn="0.1.0.0.0.0.1.9.0.0.0.0" fill-opacity="1" stroke-width="0" layerid="1" id="connector0pad"  stroke="#000000" c_etype="pad_shell"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g style="display:inline" gorn="0.1.0.0.0.0.2" id="silkscreen" >
+                            <g transform="translate(-9.4585,-15.700092)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <polyline style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="none" points="3837.0867 2939.5611 3834.9207 2941.7271 3834.9207 2941.7259 3832.7556 2939.5611 3830.5906 2937.3961 3832.7556 2937.3961 3832.7556 2930.9 3837.0867 2930.9 3837.0867 2937.3961 3839.2515 2937.3961 3837.0867 2939.5611" gorn="0.1.0.0.0.0.2.0.0.0.0.0" stroke-linecap="round" stroke-width="1" locked="0" layerid="3" id="gge612"  stroke="#000000" net=""/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(-9.4585,-15.700092)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <polyline style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="none" points="3812.5585 2909.0015 3812.5585 2960.8215 3861.1585 2960.8215 3861.1585 2957.4915" gorn="0.1.0.0.0.0.2.1.0.0.0.0" stroke-linecap="round" stroke-width="1" locked="0" layerid="3" id="gge615"  stroke="#000000" net=""/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="translate(-9.4585,-15.700092)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <polyline style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="none" points="3812.5588 2909 3856.0588 2909 3856.0588 2931.5 3861.0588 2936.5 3861.1688 2957.4915" gorn="0.1.0.0.0.0.2.2.0.0.0.0" stroke-linecap="round" stroke-width="1" locked="0" layerid="3" id="gge618"  stroke="#000000" net=""/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <path d="m 3827.2505,2900.3338 h -3.76 m 0,0 v 2.15 m 3.76,2.25 -0.18,-0.36 -0.36,-0.35 -0.36,-0.18 -0.53,-0.18 h -0.9 l -0.54,0.18 -0.35,0.18 -0.36,0.35 -0.18,0.36 v 0.72 l 0.18,0.36 0.36,0.35 0.35,0.18 0.54,0.18 h 0.9 l 0.53,-0.18 0.36,-0.18 0.36,-0.35 0.18,-0.36 v -0.72 m -0.9,5.66 0.36,-0.18 0.36,-0.36 0.18,-0.36 v -0.71 l -0.18,-0.36 -0.36,-0.36 -0.36,-0.18 -0.53,-0.18 h -0.9 l -0.54,0.18 -0.35,0.18 -0.36,0.36 -0.18,0.36 v 0.71 l 0.18,0.36 0.36,0.36 0.35,0.18 m 2.87,1.18 h -3.76 m 3.76,2.5 -2.51,-2.5 m 0.9,0.89 -2.15,1.61" style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" fill="none" gorn="0.1.0.0.0.0.2.3" c_text="LOCK" stroke-width="0.3937" id="path4911"  c_fontfamily="" stroke="#000000" c_fontsize="3.937"/>
+                            <rect style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.30000019;stroke-dasharray:2.96933189,2.96933189;stroke-dashoffset:6.16136368;paint-order:markers stroke fill" fill="none" x="3803.1267" width="48.563072" gorn="0.1.0.0.0.0.2.4" fill-opacity="1" stroke-width="0.74233298" ry="0.67316699" id="rect6421"  height="13.034478" stroke="#000000" y="2945.1411"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.590552 13.708662" height="3.4820001mm"  width="4.2140002mm" gorn="0" version="1.1" id="svg36">
+    <desc >
+        <referenceFile >xtal-smd.svg</referenceFile>
+    </desc>
+    <g  transform="translate(-4031,-3027.5)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <defs  id="defs40"/>
+                            <g  transform="translate(-10.71,-15.698991)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g  gorn="0.1.0.0.0.0.0.1.0.0.0.0.0" id="g1230">
+                                                    <g  gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.0" id="silkscreen">
+                                                        <rect stroke="none" x="4048.4304" style="stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:12.548;paint-order:markers stroke fill" stroke-opacity="1" fill="#000000" y="3055.9236" height="0.98425198"  width="9.870079" fill-opacity="1" gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.0.0" stroke-width="0.954215" id="rect1975"/>
+                                                        <rect stroke="none" x="4041.71" style="stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:12.548;paint-order:markers stroke fill" stroke-opacity="1" fill="#000000" y="3043.199" height="7.9370079"  width="0.98425198" fill-opacity="1" gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.0.1" stroke-width="0.984252" id="rect1871"/>
+                                                        <rect stroke="none" x="4041.71" style="stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:12.548;paint-order:markers stroke fill" stroke-opacity="1" fill="#000000" y="3043.199" height="0.98425198"  width="16.590551" fill-opacity="1" gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.0.2" stroke-width="1.07191" id="rect1623"/>
+                                                        <rect stroke="none" x="4057.3396" style="stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:12.548;paint-order:markers stroke fill" stroke-opacity="1" fill="#000000" y="3043.199" height="13.708661"  width="0.96094561" fill-opacity="1" gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.0.3" stroke-width="0.984252" id="rect1767"/>
+                                                        <rect stroke="none" x="4041.71" style="stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:12.548;paint-order:markers stroke fill" stroke-opacity="1" fill="#000000" y="3053.7935" height="3.1157973"  width="0.98425198" fill-opacity="1" gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.0.4" stroke-width="0.984252" id="rect2082"/>
+                                                        <g  transform="rotate(90)">
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <rect stroke="none" x="3055.925" style="stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:12.548;paint-order:markers stroke fill" stroke-opacity="1" fill="#000000" y="-4044.8257" height="3.1157973"  width="0.98425198" fill-opacity="1" gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.0.5.0.0.0.0.0" stroke-width="0.984252" id="rect2082-6"/>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g  transform="translate(0.0052759,0.05382182)">
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g  gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.1.0.0.0.0.0" id="copper1">
+                                                                            <polygon stroke="none" stroke-opacity="1" fill="#d4aa00" layerid="1" c_etype="pad_shell"  gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.1.0.0.0.0.0.0" stroke-width="0" points="4048.4252,3051.0823 4048.4252,3055.8067 4042.9134,3055.8067 4042.9134,3051.0823 " id="connector0pin"/>
+                                                                            <polygon stroke="none" stroke-opacity="1" fill="#d4aa00" layerid="1" c_etype="pad_shell"  gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.1.0.0.0.0.0.1" stroke-width="0" points="4057.0866,3051.0823 4057.0866,3055.8067 4051.5748,3055.8067 4051.5748,3051.0823 " id="connector3pin"/>
+                                                                            <polygon stroke="none" stroke-opacity="1" fill="#d4aa00" layerid="1" c_etype="pad_shell"  gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.1.0.0.0.0.0.2" stroke-width="0" points="4057.0866,3044.1923 4057.0866,3048.9167 4051.5748,3048.9167 4051.5748,3044.1923 " id="connector2pin"/>
+                                                                            <polygon stroke="none" stroke-opacity="1" fill="#d4aa00" layerid="1" c_etype="pad_shell"  gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.1.0.0.0.0.0.3" stroke-width="0" points="4048.4252,3044.1925 4048.4252,3048.9169 4042.9134,3048.9169 4042.9134,3044.1925 " id="connector1pin"/>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

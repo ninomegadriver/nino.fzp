@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg970" height="11.3509mm" gorn="0" xml:space="preserve" viewBox="0 0 163.32 145.66"  xmlns:xml="http://www.w3.org/XML/1998/namespace" fill-rule="evenodd" text-rendering="geometricPrecision" image-rendering="optimizeQuality" version="1.0" width="12.7277mm" clip-rule="evenodd" shape-rendering="geometricPrecision">
+    <desc >
+        <referenceFile >LS245LARGE.svg</referenceFile>
+    </desc>
+    <metadata id="metadata976" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs974" />
+    <g id="copper1" gorn="0.3" >
+        <rect x="4.8600001" id="connector19pin" height="26.309999" y="0" gorn="0.3.0"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="21.17" id="connector18pin" height="26.309999" y="0" gorn="0.3.1"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="37.450001" id="connector17pin" height="26.309999" y="0" gorn="0.3.2"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="53.740002" id="connector16pin" height="26.309999" y="0" gorn="0.3.3"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="70.040001" id="connector15pin" height="26.309999" y="0" gorn="0.3.4"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="86.349998" id="connector14pin" height="26.309999" y="0" gorn="0.3.5"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="102.63" id="connector13pin" height="26.309999" y="0" gorn="0.3.6"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="118.94" id="connector12pin" height="26.309999" y="0" gorn="0.3.7"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="135.22" id="connector11pin" height="26.309999" y="0" gorn="0.3.8"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="151.55" id="connector10pin" height="26.309999" y="0" gorn="0.3.9"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="4.8600001" id="connector0pin" height="26.309999" y="119.34" gorn="0.3.10"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="21.17" id="connector1pin" height="26.309999" y="119.34" gorn="0.3.11"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="37.450001" id="connector2pin" height="26.309999" y="119.34" gorn="0.3.12"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="53.740002" id="connector3pin" height="26.309999" y="119.34" gorn="0.3.13"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="70.040001" id="connector4pin" height="26.309999" y="119.34" gorn="0.3.14"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="86.349998" id="connector5pin" height="26.309999" y="119.34" gorn="0.3.15"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="102.63" id="connector6pin" height="26.309999" y="119.34" gorn="0.3.16"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="118.94" id="connector7pin" height="26.309999" y="119.34" gorn="0.3.17"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="135.22" id="connector8pin" height="26.309999" y="119.34" gorn="0.3.18"  width="7.71" style="fill:#f7bd13"/>
+        <rect x="151.55" id="connector9pin" height="26.309999" y="119.34" gorn="0.3.19"  width="7.71" style="fill:#f7bd13"/>
+    </g>
+    <g id="silkscreen" gorn="0.4" >
+        <path id="path960" d="M 1.28,118.06 H 162.04 V 27.59 H 1.28 Z M 0,119.34 H 163.32 V 26.31 H 0 Z" gorn="0.4.0"  style="fill:#000000"/>
+        <path id="path964" d="m 19.11,104.62 v 0 c 0.87,-1.68 0.98,-3.56 0.45,-5.24 -0.53,-1.67 -1.7,-3.15 -3.39,-4.02 l -0.01,-0.01 c -1.68,-0.87 -3.56,-0.97 -5.23,-0.44 -1.68,0.53 -3.15,1.7 -4.02,3.38 v 0 c -0.87,1.68 -0.98,3.56 -0.45,5.24 0.53,1.67 1.7,3.15 3.39,4.02 l 0.01,0.01 c 1.68,0.87 3.56,0.97 5.23,0.44 1.68,-0.53 3.15,-1.7 4.02,-3.38 z m 1.14,0.59 c -2.07,4 -7,5.55 -10.99,3.48 -4,-2.07 -5.56,-7 -3.48,-10.99 2.07,-4 7,-5.55 10.99,-3.48 4,2.07 5.56,7 3.48,10.99 z" gorn="0.4.1"  style="fill:#000000"/>
+    </g>
+</svg>

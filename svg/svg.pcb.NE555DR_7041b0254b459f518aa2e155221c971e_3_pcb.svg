@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0in" viewBox="0 0 13.3776 25.3368" width="4.7193198mm" id="svg90" gorn="0" version="1.2" y="0in"  height="8.9382601mm">
+    <desc >
+        <referenceFile >SOIC8.svg</referenceFile>
+    </desc>
+    <defs id="defs94" />
+    <g id="silkscreen" gorn="0.2" >
+        <path style="stroke-width:2.48561" d="M 1.8346524,17.847239 A 0.7086614,0.7086614 0 0 1 1.125991,18.555901 0.7086614,0.7086614 0 0 1 0.41732962,17.847239 0.7086614,0.7086614 0 0 1 1.125991,17.138578 0.7086614,0.7086614 0 0 1 1.8346524,17.847239 Z" id="path1216" fill="#000000" gorn="0.2.0" stroke="none" />
+        <rect x="0.1074345" stroke-width="0.2" id="rect1244" width="13.16273" fill="none" gorn="0.2.1" y="6.4315171" stroke="#000000"  height="12.473765"/>
+    </g>
+    <g id="copper1" gorn="0.3" >
+        <rect x="0.42480001" stroke-width="0" id="connector0pad" fill="#ffbf00" width="1.728" gorn="0.3.0" y="19.08" connectorname="1"  height="6.2568002"/>
+        <rect x="4.0247998" stroke-width="0" id="connector1pad" fill="#ffbf00" width="1.728" gorn="0.3.1" y="19.08" connectorname="2"  height="6.2568002"/>
+        <rect x="7.6248002" stroke-width="0" id="connector2pad" fill="#ffbf00" width="1.728" gorn="0.3.2" y="19.08" connectorname="3"  height="6.2568002"/>
+        <rect x="11.2248" stroke-width="0" id="connector3pad" fill="#ffbf00" width="1.728" gorn="0.3.3" y="19.08" connectorname="4"  height="6.2568002"/>
+        <rect x="11.2248" stroke-width="0" id="connector4pad" fill="#ffbf00" width="1.728" gorn="0.3.4" y="0" connectorname="5"  height="6.2568002"/>
+        <rect x="7.6248002" stroke-width="0" id="connector5pad" fill="#ffbf00" width="1.728" gorn="0.3.5" y="0" connectorname="6"  height="6.2568002"/>
+        <rect x="4.0247998" stroke-width="0" id="connector6pad" fill="#ffbf00" width="1.728" gorn="0.3.6" y="0" connectorname="7"  height="6.2568002"/>
+        <rect x="0.42480001" stroke-width="0" id="connector7pad" fill="#ffbf00" width="1.728" gorn="0.3.7" y="0" connectorname="8"  height="6.2568002"/>
+    </g>
+</svg>

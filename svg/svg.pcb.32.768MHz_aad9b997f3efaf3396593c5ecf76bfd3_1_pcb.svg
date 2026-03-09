@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg36" version="1.1" width="4.2140002mm" gorn="0"  viewBox="0 0 16.590552 13.708662" height="3.4820001mm">
+    <desc >
+        <referenceFile >xtal-smd.svg</referenceFile>
+    </desc>
+    <g  transform="translate(-4031,-3027.5)">
+        <g >
+            <g >
+                <g >
+                    <defs id="defs40" />
+                    <g  transform="translate(-10.71,-15.698991)">
+                        <g >
+                            <g >
+                                <g id="g1230" gorn="0.1.0.0.0.1.0.0.0" >
+                                    <g id="silkscreen" gorn="0.1.0.0.0.1.0.0.0.0" >
+                                        <rect id="rect1975" y="3055.9236" width="9.870079" stroke-width="0.954215" gorn="0.1.0.0.0.1.0.0.0.0.0"  fill-opacity="1" x="4048.4304" style="stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:12.548;paint-order:markers stroke fill" height="0.98425198" stroke-opacity="1" stroke="none" fill="#000000"/>
+                                        <rect id="rect1871" y="3043.199" width="0.98425198" stroke-width="0.984252" gorn="0.1.0.0.0.1.0.0.0.0.1"  fill-opacity="1" x="4041.71" style="stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:12.548;paint-order:markers stroke fill" height="7.9370079" stroke-opacity="1" stroke="none" fill="#000000"/>
+                                        <rect id="rect1623" y="3043.199" width="16.590551" stroke-width="1.07191" gorn="0.1.0.0.0.1.0.0.0.0.2"  fill-opacity="1" x="4041.71" style="stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:12.548;paint-order:markers stroke fill" height="0.98425198" stroke-opacity="1" stroke="none" fill="#000000"/>
+                                        <rect id="rect1767" y="3043.199" width="0.96094561" stroke-width="0.984252" gorn="0.1.0.0.0.1.0.0.0.0.3"  fill-opacity="1" x="4057.3396" style="stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:12.548;paint-order:markers stroke fill" height="13.708661" stroke-opacity="1" stroke="none" fill="#000000"/>
+                                        <rect id="rect2082" y="3053.7935" width="0.98425198" stroke-width="0.984252" gorn="0.1.0.0.0.1.0.0.0.0.4"  fill-opacity="1" x="4041.71" style="stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:12.548;paint-order:markers stroke fill" height="3.1157973" stroke-opacity="1" stroke="none" fill="#000000"/>
+                                        <g  transform="rotate(90)">
+                                            <g >
+                                                <g >
+                                                    <rect id="rect2082-6" y="-4044.8257" width="0.98425198" stroke-width="0.984252" gorn="0.1.0.0.0.1.0.0.0.0.5.0.0.0"  fill-opacity="1" x="3055.925" style="stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:12.548;paint-order:markers stroke fill" height="3.1157973" stroke-opacity="1" stroke="none" fill="#000000"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(0.0052759,0.05382182)">
+                                        <g >
+                                            <g >
+                                                <g id="copper1" gorn="0.1.0.0.0.1.0.0.0.1.0.0.0" >
+                                                    <polygon layerid="1" id="connector0pin" stroke-width="0" gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.0"  c_etype="pad_shell" points="4048.4252,3051.0823 4048.4252,3055.8067 4042.9134,3055.8067 4042.9134,3051.0823 " stroke-opacity="1" stroke="none" fill="#d4aa00"/>
+                                                    <polygon layerid="1" id="connector3pin" stroke-width="0" gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.1"  c_etype="pad_shell" points="4057.0866,3051.0823 4057.0866,3055.8067 4051.5748,3055.8067 4051.5748,3051.0823 " stroke-opacity="1" stroke="none" fill="#d4aa00"/>
+                                                    <polygon layerid="1" id="connector2pin" stroke-width="0" gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.2"  c_etype="pad_shell" points="4057.0866,3044.1923 4057.0866,3048.9167 4051.5748,3048.9167 4051.5748,3044.1923 " stroke-opacity="1" stroke="none" fill="#d4aa00"/>
+                                                    <polygon layerid="1" id="connector1pin" stroke-width="0" gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.3"  c_etype="pad_shell" points="4048.4252,3044.1925 4048.4252,3048.9169 4042.9134,3048.9169 4042.9134,3044.1925 " stroke-opacity="1" stroke="none" fill="#d4aa00"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Creator: CorelDRAW 2018 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="svg4727" width="81.9999mm" gorn="0" height="6.0968mm" text-rendering="geometricPrecision" fill-rule="evenodd" clip-rule="evenodd"  version="1.0" shape-rendering="geometricPrecision" viewBox="0 0 3192.5 237.37" xml:space="preserve" image-rendering="optimizeQuality">
+    <desc >
+        <referenceFile >GenesisCartEdge.svg</referenceFile>
+    </desc>
+    <metadata id="metadata4733" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs4731" />
+    <path d="m 3192.5,0 v 217.89 c 0,10.71 -8.76,19.47 -19.47,19.47 H 19.46 c -10.71,0 -19.47,-8.76 -19.47,-19.47 V 0 h 3192.5 z m -3.89,217.89 V 3.89 H 3.89 v 214 c 0,4.29 1.75,8.18 4.56,10.99 l 0.02,0.02 c 2.81,2.81 6.71,4.56 10.99,4.56 h 3153.57 c 4.29,0 8.18,-1.75 10.99,-4.56 v -0.02 c 2.82,-2.82 4.58,-6.72 4.58,-10.99 z" id="silkscreen" style="fill:#000000" gorn="0.3" />
+    <g id="copper1" gorn="0.4" >
+        <rect x="28.82" id="connector0pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.0" height="237.36" />
+        <rect x="127.76" id="connector1pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.1" height="237.36" />
+        <rect x="226.64" id="connector2pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.2" height="237.36" />
+        <rect x="325.51001" id="connector3pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.3" height="237.36" />
+        <rect x="424.45001" id="connector4pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.4" height="237.36" />
+        <rect x="523.32001" id="connector5pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.5" height="237.36" />
+        <rect x="622.15997" id="connector6pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.6" height="237.36" />
+        <rect x="721.09003" id="connector7pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.7" height="237.36" />
+        <rect x="819.96997" id="connector8pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.8" height="237.36" />
+        <rect x="918.84003" id="connector9pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.9" height="237.36" />
+        <rect x="1017.78" id="connector10pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.10" height="237.36" />
+        <rect x="1116.66" id="connector11pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.11" height="237.36" />
+        <rect x="1215.53" id="connector12pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.12" height="237.36" />
+        <rect x="1314.47" id="connector13pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.13" height="237.36" />
+        <rect x="1413.35" id="connector14pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.14" height="237.36" />
+        <rect x="1512.22" id="connector15pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.15" height="237.36" />
+        <rect x="1611.16" id="connector16pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.16" height="237.36" />
+        <rect x="1710.03" id="connector17pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.17" height="237.36" />
+        <rect x="1808.87" id="connector18pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.18" height="237.36" />
+        <rect x="1907.8" id="connector19pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.19" height="237.36" />
+        <rect x="2006.6801" id="connector20pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.20" height="237.36" />
+        <rect x="2105.55" id="connector21pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.21" height="237.36" />
+        <rect x="2204.49" id="connector22pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.22" height="237.36" />
+        <rect x="2303.3701" id="connector23pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.23" height="237.36" />
+        <rect x="2402.1899" id="connector24pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.24" height="237.36" />
+        <rect x="2501.1299" id="connector25pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.25" height="237.36" />
+        <rect x="2600" id="connector26pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.26" height="237.36" />
+        <rect x="2698.8799" id="connector27pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.27" height="237.36" />
+        <rect x="2797.8201" id="connector28pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.28" height="237.36" />
+        <rect x="2896.6899" id="connector29pin" width="69.209999" y="0" style="fill:#f7bd13" gorn="0.4.29" height="237.36" />
+        <rect x="2995.53" id="connector30pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.30" height="237.36" />
+        <rect x="3094.46" id="connector31pin" width="69.209999" y="0.0099999998" style="fill:#f7bd13" gorn="0.4.31" height="237.36" />
+    </g>
+</svg>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   version="1.2"
+   x="0in"
+   y="0in"
+   gorn="0"
+   width="0.72000003in"
+   viewBox="0 0 51.84 87.84"
+   height="1.22in"
+   id="svg29"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <desc
+     id="desc1">
+    <referenceFile>sdnand24pcb.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs29" />
+  <g
+     gorn="0.2"
+     id="copper1">
+    <g
+       gorn="0.2.0"
+       id="copper0">
+      <rect
+         x="2.3399999"
+         y="2.3399999"
+         gorn="0.2.0.0"
+         width="3.96"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         id="square"
+         fill="none"
+         height="3.96" />
+      <circle
+         cx="4.3200002"
+         r="1.98"
+         gorn="0.2.0.1"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="4.3200002"
+         fill="none"
+         id="connector0pin" />
+      <circle
+         cx="47.52"
+         r="1.98"
+         gorn="0.2.0.2"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="4.3200002"
+         fill="none"
+         id="connector23pin" />
+      <circle
+         cx="4.3200002"
+         r="1.98"
+         gorn="0.2.0.3"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="11.52"
+         fill="none"
+         id="connector1pin" />
+      <circle
+         cx="47.52"
+         r="1.98"
+         gorn="0.2.0.4"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="11.52"
+         fill="none"
+         id="connector22pin" />
+      <circle
+         cx="4.3200002"
+         r="1.98"
+         gorn="0.2.0.5"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="18.719999"
+         fill="none"
+         id="connector2pin" />
+      <circle
+         cx="47.52"
+         r="1.98"
+         gorn="0.2.0.6"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="18.719999"
+         fill="none"
+         id="connector21pin" />
+      <circle
+         cx="4.3200002"
+         r="1.98"
+         gorn="0.2.0.7"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="25.92"
+         fill="none"
+         id="connector3pin" />
+      <circle
+         cx="47.52"
+         r="1.98"
+         gorn="0.2.0.8"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="25.92"
+         fill="none"
+         id="connector20pin" />
+      <circle
+         cx="4.3200002"
+         r="1.98"
+         gorn="0.2.0.9"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="33.119999"
+         fill="none"
+         id="connector4pin" />
+      <circle
+         cx="47.52"
+         r="1.98"
+         gorn="0.2.0.10"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="33.119999"
+         fill="none"
+         id="connector19pin" />
+      <circle
+         cx="4.3200002"
+         r="1.98"
+         gorn="0.2.0.11"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="40.32"
+         fill="none"
+         id="connector5pin" />
+      <circle
+         cx="47.52"
+         r="1.98"
+         gorn="0.2.0.12"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="40.32"
+         fill="none"
+         id="connector18pin" />
+      <circle
+         cx="4.3200002"
+         r="1.98"
+         gorn="0.2.0.13"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="47.52"
+         fill="none"
+         id="connector6pin" />
+      <circle
+         cx="47.52"
+         r="1.98"
+         gorn="0.2.0.14"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="47.52"
+         fill="none"
+         id="connector17pin" />
+      <circle
+         cx="4.3200002"
+         r="1.98"
+         gorn="0.2.0.15"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="54.720001"
+         fill="none"
+         id="connector7pin" />
+      <circle
+         cx="47.52"
+         r="1.98"
+         gorn="0.2.0.16"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="54.720001"
+         fill="none"
+         id="connector16pin" />
+      <circle
+         cx="4.3200002"
+         r="1.98"
+         gorn="0.2.0.17"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="61.919998"
+         fill="none"
+         id="connector8pin" />
+      <circle
+         cx="47.52"
+         r="1.98"
+         gorn="0.2.0.18"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="61.919998"
+         fill="none"
+         id="connector15pin" />
+      <circle
+         cx="4.3200002"
+         r="1.98"
+         gorn="0.2.0.19"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="69.120003"
+         fill="none"
+         id="connector9pin" />
+      <circle
+         cx="47.52"
+         r="1.98"
+         gorn="0.2.0.20"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="69.120003"
+         fill="none"
+         id="connector14pin" />
+      <circle
+         cx="4.3200002"
+         r="1.98"
+         gorn="0.2.0.21"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="76.32"
+         fill="none"
+         id="connector10pin" />
+      <circle
+         cx="47.52"
+         r="1.98"
+         gorn="0.2.0.22"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="76.32"
+         fill="none"
+         id="connector13pin" />
+      <circle
+         cx="4.3200002"
+         r="1.98"
+         gorn="0.2.0.23"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="83.519997"
+         fill="none"
+         id="connector11pin" />
+      <circle
+         cx="47.52"
+         r="1.98"
+         gorn="0.2.0.24"
+         stroke="#ffbf00"
+         stroke-width="1.44"
+         cy="83.519997"
+         fill="none"
+         id="connector12pin" />
+    </g>
+  </g>
+  <g
+     gorn="0.3"
+     id="silkscreen">
+    <path
+       d="M 0.05590785,58.22397 H 51.602294"
+       id="path1"
+       stroke="#000000"
+       stroke-width="0.5" />
+    <path
+       d="M 0.24902343,0.24902343 V 87.591794 H 51.795409 V 0.24902343 H 30.824706 A 4.9106531,4.9106531 0 0 1 25.920409,4.9101561 4.9106531,4.9106531 0 0 1 21.016113,0.24902343 Z"
+       gorn="0.3.0"
+       stroke="#000000"
+       stroke-width="0.5"
+       id="path12973"
+       fill="none" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.6px;line-height:7.2px;font-family:OCRA;-inkscape-font-specification:OCRA;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.354331;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       x="9.0842342"
+       y="5.52"
+       id="text19"><tspan
+         id="tspan19"
+         style="font-size:3.6px;line-height:7.2px;text-align:start;text-anchor:start;stroke-width:0.354331"
+         x="9.0842342"
+         y="5.52">DAT2</tspan><tspan
+         style="font-size:3.6px;line-height:7.2px;text-align:start;text-anchor:start;stroke-width:0.354331"
+         x="9.0842342"
+         y="12.719999"
+         id="tspan20">DAT3</tspan><tspan
+         style="font-size:3.6px;line-height:7.2px;text-align:start;text-anchor:start;stroke-width:0.354331"
+         x="9.0842342"
+         y="19.92"
+         id="tspan21">CMD</tspan><tspan
+         style="font-size:3.6px;line-height:7.2px;text-align:start;text-anchor:start;stroke-width:0.354331"
+         x="9.0842342"
+         y="27.119999"
+         id="tspan22">Vdd</tspan><tspan
+         style="font-size:3.6px;line-height:7.2px;text-align:start;text-anchor:start;stroke-width:0.354331"
+         x="9.0842342"
+         y="34.32"
+         id="tspan23">CLK</tspan><tspan
+         style="font-size:3.6px;line-height:7.2px;text-align:start;text-anchor:start;stroke-width:0.354331"
+         x="9.0842342"
+         y="41.52"
+         id="tspan24">Vss</tspan><tspan
+         style="font-size:3.6px;line-height:7.2px;text-align:start;text-anchor:start;stroke-width:0.354331"
+         x="9.0842342"
+         y="48.719997"
+         id="tspan25">DAT0</tspan><tspan
+         style="font-size:3.6px;line-height:7.2px;text-align:start;text-anchor:start;stroke-width:0.354331"
+         x="9.0842342"
+         y="55.919998"
+         id="tspan26">DAT1</tspan></text>
+  </g>
+</svg>

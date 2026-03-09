@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Creator: CorelDRAW 2018 -->
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" xmlns:xml="http://www.w3.org/XML/1998/namespace" clip-rule="evenodd" height="80mm" gorn="0" text-rendering="geometricPrecision"  shape-rendering="geometricPrecision" fill-rule="evenodd" image-rendering="optimizeQuality" xml:space="preserve" width="70mm" version="1.0" viewBox="0 0 6979.74 7976.84">
+    <desc >
+        <referenceFile >Modulo-AY-Taito_PART.svg</referenceFile>
+    </desc>
+    <defs id="defs2" />
+    <g id="Layer_x0020_1" gorn="0.2" >
+        <g id="silkscreen" gorn="0.2.0" >
+            <path id="path2" stroke-miterlimit="2.61313" stroke="#111111" stroke-width="20.26" gorn="0.2.0.0"  d="M 5972.49,10.13 H 1007.24 c -550.59,0 -997.11,446.51 -997.11,997.11 l -0.01,5962.37 c 0.01,550.58 446.52,997.1 997.12,997.1 l 4965.25,0.01 c 550.58,-0.01 997.1,-446.52 997.1,-997.12 l 0.02,-5962.36 C 6969.59,456.65 6523.08,10.13 5972.48,10.13 Z" fill="none"/>
+        </g>
+        <g id="copper1" gorn="0.2.1" >
+            <g id="copper0" gorn="0.2.1.0" >
+                <circle id="nonconn0" stroke="none" r="159.53685" cx="239.28999" cy="1675.13" gorn="0.2.1.0.0"  fill="#000000"/>
+                <circle id="nonconn1" stroke="none" r="159.53685" cx="6740.4302" cy="1675.13" gorn="0.2.1.0.1"  fill="#000000"/>
+                <path id="nonconn3" stroke="none" gorn="0.2.1.0.2"  d="m 1746.62,7425.4502 h 495.18 c 61.699,0 111.37,48.9173 111.37,109.68 v 239.31 c 0,60.7627 -49.671,109.68 -111.37,109.68 h -495.18 c -61.699,0 -111.37,-48.9173 -111.37,-109.68 v -239.31 c 0,-60.7627 49.671,-109.68 111.37,-109.68 z" fill="#fff000"/>
+                <g  transform="matrix(0 -1 -1 0 5286.64 7781.42)">
+                    <g >
+                        <circle id="connector0pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.3.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 5033.38 7781.42)">
+                    <g >
+                        <circle id="connector1pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.4.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 4780.11 7781.42)">
+                    <g >
+                        <circle id="connector2pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.5.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 4526.86 7781.42)">
+                    <g >
+                        <circle id="connector3pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.6.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 4273.59 7781.42)">
+                    <g >
+                        <circle id="connector4pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.7.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 4020.33 7781.42)">
+                    <g >
+                        <circle id="connector5pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.8.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 3767.07 7781.42)">
+                    <g >
+                        <circle id="connector6pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.9.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 3513.8 7781.42)">
+                    <g >
+                        <circle id="connector7pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.10.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 3260.54 7781.42)">
+                    <g >
+                        <circle id="connector8pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.11.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 3007.27 7781.42)">
+                    <g >
+                        <circle id="connector9pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.12.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 2754.01 7781.42)">
+                    <g >
+                        <circle id="connector10pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.13.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 2500.74 7781.42)">
+                    <g >
+                        <circle id="connector11pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.14.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0,-1,-1,0,0,0)">
+                    <g >
+                        <circle id="connector12pin" stroke-miterlimit="2.61313" stroke="#ffbf00" stroke-width="50.65" r="73.449997" cx="-7781.4199" cy="-2247.48" gorn="0.2.1.0.15.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0,-1,-1,0,0,0)">
+                    <g >
+                        <circle id="connector13pin" stroke-miterlimit="2.61313" stroke="#ffbf00" stroke-width="50.65" r="73.449997" cx="-7781.4199" cy="-1994.21" gorn="0.2.1.0.16.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0,-1,-1,0,0,0)">
+                    <g >
+                        <circle id="connector14pin" stroke-miterlimit="2.61313" stroke="#ffbf00" stroke-width="50.65" r="73.449997" cx="-7781.4199" cy="-1740.95" gorn="0.2.1.0.17.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0,-1,-1,0,0,0)">
+                    <g >
+                        <circle id="connector15pin" stroke-miterlimit="2.61313" stroke="#ffbf00" stroke-width="50.65" r="73.449997" cx="-7528.1499" cy="-1740.95" gorn="0.2.1.0.18.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0,-1,-1,0,0,0)">
+                    <g >
+                        <circle id="connector16pin" stroke-miterlimit="2.61313" stroke="#ffbf00" stroke-width="50.65" r="73.449997" cx="-7528.1499" cy="-1994.21" gorn="0.2.1.0.19.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0,-1,-1,0,0,0)">
+                    <g >
+                        <circle id="connector17pin" stroke-miterlimit="2.61313" stroke="#ffbf00" stroke-width="50.65" r="73.449997" cx="-7528.1499" cy="-2247.48" gorn="0.2.1.0.20.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 2500.74 7528.15)">
+                    <g >
+                        <circle id="connector18pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.21.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 2754.01 7528.15)">
+                    <g >
+                        <circle id="connector19pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.22.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 3007.27 7528.15)">
+                    <g >
+                        <circle id="connector20pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.23.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 3260.54 7528.15)">
+                    <g >
+                        <circle id="connector21pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.24.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 3513.8 7528.15)">
+                    <g >
+                        <circle id="connector22pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.25.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 3767.07 7528.15)">
+                    <g >
+                        <circle id="connector23pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.26.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 4020.33 7528.15)">
+                    <g >
+                        <circle id="connector24pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.27.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 4273.59 7528.15)">
+                    <g >
+                        <circle id="connector25pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.28.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 4526.86 7528.15)">
+                    <g >
+                        <circle id="connector26pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.29.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 4780.11 7528.15)">
+                    <g >
+                        <circle id="connector27pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.30.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 5033.38 7528.15)">
+                    <g >
+                        <circle id="connector28pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.31.0.0"  fill="none"/>
+                    </g>
+                </g>
+                <g  transform="matrix(0 -1 -1 0 5286.64 7528.15)">
+                    <g >
+                        <circle id="connector29pin" stroke-miterlimit="2.61313" stroke="#FFBF00" stroke-width="50.65" r="73.45" gorn="0.2.1.0.32.0.0"  fill="none"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

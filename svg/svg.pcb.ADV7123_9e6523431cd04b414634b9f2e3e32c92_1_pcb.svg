@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" height="0.379799in" width="0.379598in" gorn="0" x="0in" id="svg80"  y="0in" viewBox="0 0 379.598 379.799">
+    <defs id="defs84" />
+    <desc id="desc2" >
+        <referenceFile >LQFP-48_pcb.svg</referenceFile>
+    </desc>
+    <g gorn="0.2" stroke-width="0" id="copper1" >
+        <rect height="45.000004" width="31.496002" gorn="0.2.0" style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.550808;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" x="272.47552" id="nonconn3"  y="2.7755576e-17"/>
+        <rect height="45" width="31.495972" gorn="0.2.1" style="fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:0.550808;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" x="193.73567" id="nonconn4"  y="2.7755576e-17"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.2" fill="#f7bd13" stroke-width="0" x="75.625893" id="connector0pad"  y="334.79901"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.3" fill="#f7bd13" stroke-width="0" x="95.31086" id="connector1pad"  y="334.79901"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.4" fill="#f7bd13" stroke-width="0" x="114.99581" id="connector2pad"  y="334.79901"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.5" fill="#f7bd13" stroke-width="0" x="134.68079" id="connector3pad"  y="334.79901"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.6" fill="#f7bd13" stroke-width="0" x="154.36574" id="connector4pad"  y="334.79901"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.7" fill="#f7bd13" stroke-width="0" x="174.0507" id="connector5pad"  y="334.79901"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.8" fill="#f7bd13" stroke-width="0" x="193.73567" id="connector6pad"  y="334.79901"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.9" fill="#f7bd13" stroke-width="0" x="213.42062" id="connector7pad"  y="334.79901"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.10" fill="#f7bd13" stroke-width="0" x="233.10561" id="connector8pad"  y="334.79901"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.11" fill="#f7bd13" stroke-width="0" x="252.79057" id="connector9pad"  y="334.79901"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.12" fill="#f7bd13" stroke-width="0" x="272.47552" id="connector10pad"  y="334.79901"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.13" fill="#f7bd13" stroke-width="0" x="292.16049" id="connector11pad"  y="334.79901"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.14" fill="#f7bd13" stroke-width="0" x="334.59808" id="connector12pad"  y="292.36249"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.15" fill="#f7bd13" stroke-width="0" x="334.59808" id="connector13pad"  y="272.67743"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.16" fill="#f7bd13" stroke-width="0" x="334.59808" id="connector14pad"  y="252.9924"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.17" fill="#f7bd13" stroke-width="0" x="334.59808" id="connector15pad"  y="233.30733"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.18" fill="#f7bd13" stroke-width="0" x="334.59808" id="connector16pad"  y="213.62228"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.19" fill="#f7bd13" stroke-width="0" x="334.59808" id="connector17pad"  y="193.93723"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.20" fill="#f7bd13" stroke-width="0" x="334.59808" id="connector18pad"  y="174.25217"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.21" fill="#f7bd13" stroke-width="0" x="334.59808" id="connector19pad"  y="154.56711"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.22" fill="#f7bd13" stroke-width="0" x="334.59808" id="connector20pad"  y="134.88205"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.23" fill="#f7bd13" stroke-width="0" x="334.59808" id="connector21pad"  y="115.197"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.24" fill="#f7bd13" stroke-width="0" x="334.59808" id="connector22pad"  y="95.511948"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.25" fill="#f7bd13" stroke-width="0" x="334.59808" id="connector23pad"  y="75.826889"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.26" fill="#f7bd13" stroke-width="0" x="292.16049" id="connector24pad"  y="0"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.27" fill="#f7bd13" stroke-width="0" x="272.47552" id="connector25pad"  y="2.7755576e-17"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.28" fill="#f7bd13" stroke-width="0" x="252.79057" id="connector26pad"  y="2.7755576e-17"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.29" fill="#f7bd13" stroke-width="0" x="233.10561" id="connector27pad"  y="2.7755576e-17"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.30" fill="#f7bd13" stroke-width="0" x="213.42062" id="connector28pad"  y="2.7755576e-17"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.31" fill="#f7bd13" stroke-width="0" x="193.73567" id="connector29pad"  y="2.7755576e-17"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.32" fill="#f7bd13" stroke-width="0" x="174.0507" id="connector30pad"  y="2.7755576e-17"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.33" fill="#f7bd13" stroke-width="0" x="154.36574" id="connector31pad"  y="2.7755576e-17"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.34" fill="#f7bd13" stroke-width="0" x="134.68079" id="connector32pad"  y="2.7755576e-17"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.35" fill="#f7bd13" stroke-width="0" x="114.99581" id="connector33pad"  y="2.7755576e-17"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.36" fill="#f7bd13" stroke-width="0" x="95.31086" id="connector34pad"  y="2.7755576e-17"/>
+        <rect stroke="none" height="45" width="11.811024" gorn="0.2.37" fill="#f7bd13" stroke-width="0" x="75.625893" id="connector35pad"  y="2.7755576e-17"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.38" fill="#f7bd13" stroke-width="0" x="-3.469447e-18" id="connector36pad"  y="75.826889"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.39" fill="#f7bd13" stroke-width="0" x="-3.469447e-18" id="connector37pad"  y="95.511948"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.40" fill="#f7bd13" stroke-width="0" x="-3.469447e-18" id="connector38pad"  y="115.197"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.41" fill="#f7bd13" stroke-width="0" x="-3.469447e-18" id="connector39pad"  y="134.88205"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.42" fill="#f7bd13" stroke-width="0" x="-3.469447e-18" id="connector40pad"  y="154.56711"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.43" fill="#f7bd13" stroke-width="0" x="-3.469447e-18" id="connector41pad"  y="174.25217"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.44" fill="#f7bd13" stroke-width="0" x="-3.469447e-18" id="connector42pad"  y="193.93723"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.45" fill="#f7bd13" stroke-width="0" x="-3.469447e-18" id="connector43pad"  y="213.62228"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.46" fill="#f7bd13" stroke-width="0" x="-3.469447e-18" id="connector44pad"  y="233.30733"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.47" fill="#f7bd13" stroke-width="0" x="-3.469447e-18" id="connector45pad"  y="252.9924"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.48" fill="#f7bd13" stroke-width="0" x="-3.469447e-18" id="connector46pad"  y="272.67743"/>
+        <rect stroke="none" height="11.811024" width="44.999901" gorn="0.2.49" fill="#f7bd13" stroke-width="0" x="-3.469447e-18" id="connector47pad"  y="292.36249"/>
+    </g>
+    <g gorn="0.3" style="stroke:#000000;stroke-opacity:1" stroke-width="0" id="silkscreen" >
+        <g gorn="0.3.0" style="stroke:#000000;stroke-opacity:1" stroke-width="0" id="g77" >
+            <title id="title53" >element:E$1</title>
+            <g gorn="0.3.0.1" style="stroke:#000000;stroke-opacity:1" stroke-width="0" id="g75" >
+                <title id="title55" >package:LQFP-48</title>
+                <line stroke="white" x2="67.7518" x1="56.925" gorn="0.3.0.1.1" style="stroke:#000000;stroke-opacity:1" stroke-width="10" y1="67.9528" id="line57"  stroke-linecap="round" y2="57.126"/>
+                <line stroke="white" x2="311.845" x1="67.7518" gorn="0.3.0.1.2" style="stroke:#000000;stroke-opacity:1" stroke-width="10" y1="57.126" id="line59"  stroke-linecap="round" y2="57.126"/>
+                <line stroke="white" x2="322.673" x1="311.845" gorn="0.3.0.1.3" style="stroke:#000000;stroke-opacity:1" stroke-width="10" y1="57.126" id="line61"  stroke-linecap="round" y2="67.9528"/>
+                <line stroke="white" x2="322.673" x1="322.673" gorn="0.3.0.1.4" style="stroke:#000000;stroke-opacity:1" stroke-width="10" y1="67.9528" id="line63"  stroke-linecap="round" y2="312.048"/>
+                <line stroke="white" x2="311.845" x1="322.673" gorn="0.3.0.1.5" style="stroke:#000000;stroke-opacity:1" stroke-width="10" y1="312.048" id="line65"  stroke-linecap="round" y2="322.874"/>
+                <line stroke="white" x2="67.7518" x1="311.845" gorn="0.3.0.1.6" style="stroke:#000000;stroke-opacity:1" stroke-width="10" y1="322.874" id="line67"  stroke-linecap="round" y2="322.874"/>
+                <line stroke="white" x2="56.925" x1="67.7518" gorn="0.3.0.1.7" style="stroke:#000000;stroke-opacity:1" stroke-width="10" y1="322.874" id="line69"  stroke-linecap="round" y2="312.048"/>
+                <line stroke="white" x2="56.925" x1="56.925" gorn="0.3.0.1.8" style="stroke:#000000;stroke-opacity:1" stroke-width="10" y1="312.048" id="line71"  stroke-linecap="round" y2="67.9528"/>
+                <path gorn="0.3.0.1.9" style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.8776" id="circle73-6"  d="M 61.794182,335.02575 A 16.246238,16.246236 0 0 1 45.547944,351.27199 16.246238,16.246236 0 0 1 29.301706,335.02575 16.246238,16.246236 0 0 1 45.547944,318.77951 16.246238,16.246236 0 0 1 61.794182,335.02575 Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

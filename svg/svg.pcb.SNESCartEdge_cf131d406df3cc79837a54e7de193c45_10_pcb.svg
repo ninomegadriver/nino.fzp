@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg3134" y="0in" width="2.36219in"  version="1.2" height="0.417425in" viewBox="0 0 170.078 30.0546" x="0in" gorn="0">
+    <desc >
+        <referenceFile >SNESCartEdge-bruto.svg</referenceFile>
+    </desc>
+    <metadata id="metadata3140" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs3138" />
+    <g id="silkscreen"  partID="878864841" gorn="0.3">
+        <g  transform="matrix(0.998351,0,0,0.990625,0.140622,0.141732)">
+            <g >
+                <g >
+                    <g id="g3130"  gorn="0.3.0.0.0.0">
+                        <g id="g3142"  gorn="0.3.0.0.0.0.0">
+                            <g id="g3127" stroke="#000000"  stroke-width="0.28346601" fill="none" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:4;stroke-dasharray:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" fill-opacity="1" stroke-opacity="1" gorn="0.3.0.0.0.0.0.0">
+                                <g id="Layer_x0020_1" stroke="#000000"  stroke-width="0.28346601" fill="none" style="stroke-miterlimit:4;stroke-dasharray:none;" fill-opacity="1" stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.0">
+                                    <g id="g2104" stroke="#000000"  stroke-width="0.28346601" fill="none" style="stroke-miterlimit:4;stroke-dasharray:none;" fill-opacity="1" stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.0.0">
+                                        <path id="path2101" stroke="#000000"  stroke-width="0.28346601" fill="none" style="stroke-miterlimit:4;stroke-dasharray:none;" fill-opacity="1" stroke-opacity="1" d="m 0,0 h 170.078 v 27.2198 c 0,1.55915 -1.27567,2.83444 -2.83446,2.83444 L 2.83483,30.0542 c -1.55916,0 -2.834457975,-1.2756 -2.834457975,-2.8344 V 0 Z" gorn="0.3.0.0.0.0.0.0.0.0.0"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="copper1"  gorn="0.4">
+        <rect id="connector1pin" width="5.66817" y="7.37498"  style="fill:#fdde68" height="19.8437" x="3.5427999" gorn="0.4.0"/>
+        <rect id="connector2pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="12.0387" gorn="0.4.1"/>
+        <rect id="connector3pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="19.1325" gorn="0.4.2"/>
+        <rect id="connector4pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="26.2185" gorn="0.4.3"/>
+        <rect id="connector5pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="33.300301" gorn="0.4.4"/>
+        <rect id="connector6pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="40.386299" gorn="0.4.5"/>
+        <rect id="connector7pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="47.480099" gorn="0.4.6"/>
+        <rect id="connector8pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="54.562302" gorn="0.4.7"/>
+        <rect id="connector9pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="61.6483" gorn="0.4.8"/>
+        <rect id="connector10pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="68.733902" gorn="0.4.9"/>
+        <rect id="connector11pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="75.823898" gorn="0.4.10"/>
+        <rect id="connector12pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="82.909897" gorn="0.4.11"/>
+        <rect id="connector13pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="89.995499" gorn="0.4.12"/>
+        <rect id="connector14pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="97.085197" gorn="0.4.13"/>
+        <rect id="connector15pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="104.1707" gorn="0.4.14"/>
+        <rect id="connector16pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="111.257" gorn="0.4.15"/>
+        <rect id="connector17pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="118.339" gorn="0.4.16"/>
+        <rect id="connector18pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="125.433" gorn="0.4.17"/>
+        <rect id="connector19pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="132.519" gorn="0.4.18"/>
+        <rect id="connector20pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="139.601" gorn="0.4.19"/>
+        <rect id="connector21pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="146.687" gorn="0.4.20"/>
+        <rect id="connector22pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="153.78101" gorn="0.4.21"/>
+        <rect id="connector23pin" width="5.66817" y="7.37498"  style="fill:#fdde68" height="19.8437" x="160.86301" gorn="0.4.22"/>
+    </g>
+    <g id="copper0"  gorn="0.5">
+        <rect id="connector24pin" width="5.66817" y="7.37498"  style="fill:#fdde68" height="19.8437" x="3.5427999" gorn="0.5.0"/>
+        <rect id="connector25pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="12.0387" gorn="0.5.1"/>
+        <rect id="connector26pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="19.1325" gorn="0.5.2"/>
+        <rect id="connector27pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="26.2185" gorn="0.5.3"/>
+        <rect id="connector28pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="33.300301" gorn="0.5.4"/>
+        <rect id="connector29pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="40.386299" gorn="0.5.5"/>
+        <rect id="connector30pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="47.480099" gorn="0.5.6"/>
+        <rect id="connector31pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="54.562302" gorn="0.5.7"/>
+        <rect id="connector32pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="61.6483" gorn="0.5.8"/>
+        <rect id="connector33pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="68.733902" gorn="0.5.9"/>
+        <rect id="connector34pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="75.823898" gorn="0.5.10"/>
+        <rect id="connector35pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="82.909897" gorn="0.5.11"/>
+        <rect id="connector36pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="89.995499" gorn="0.5.12"/>
+        <rect id="connector37pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="97.085197" gorn="0.5.13"/>
+        <rect id="connector38pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="104.1707" gorn="0.5.14"/>
+        <rect id="connector39pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="111.257" gorn="0.5.15"/>
+        <rect id="connector40pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="118.339" gorn="0.5.16"/>
+        <rect id="connector41pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="125.433" gorn="0.5.17"/>
+        <rect id="connector42pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="132.519" gorn="0.5.18"/>
+        <rect id="connector43pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="139.601" gorn="0.5.19"/>
+        <rect id="connector44pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="146.687" gorn="0.5.20"/>
+        <rect id="connector45pin" width="4.2541099" y="7.37498"  style="fill:#fdde68" height="19.8437" x="153.78101" gorn="0.5.21"/>
+        <rect id="connector46pin" width="5.66817" y="7.37498"  style="fill:#fdde68" height="19.8437" x="160.86301" gorn="0.5.22"/>
+    </g>
+</svg>

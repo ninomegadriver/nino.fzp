@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="2.8800001mm" version="1.1"  viewBox="0 0 28.861276 11.338346" width="7.3309999mm" id="svg31" gorn="0">
+    <desc >
+        <referenceFile >SS14-Shotty-Diode.svg</referenceFile>
+    </desc>
+    <g  transform="translate(-4025.6,-3028)">
+        <g >
+            <g >
+                <g >
+                    <defs  id="defs35"/>
+                    <g  transform="translate(-9.9694752,-16.331)">
+                        <g >
+                            <g >
+                                <g  id="g1291" gorn="0.1.0.0.0.1.0.0.0">
+                                    <g  id="copper1" gorn="0.1.0.0.0.1.0.0.0.0">
+                                        <polygon  stroke="#000000" fill="#d4aa00" points="4035.5692,3046.6534 4044.2306,3046.6534 4044.2306,3053.3464 4035.5692,3053.3464 " id="connector0pin" layerid="1" stroke-opacity="1" stroke-width="0" gorn="0.1.0.0.0.1.0.0.0.0.0" c_etype="pad_shell"/>
+                                        <polygon  stroke="#000000" fill="#d4aa00" points="4055.7692,3046.6534 4064.4306,3046.6534 4064.4306,3053.3464 4055.7692,3053.3464 " id="connector1pin" layerid="1" stroke-opacity="1" stroke-width="0" gorn="0.1.0.0.0.1.0.0.0.0.1" c_etype="pad_shell"/>
+                                    </g>
+                                    <g  id="silkscreen" gorn="0.1.0.0.0.1.0.0.0.1">
+                                        <polyline net="" locked="0"  stroke="#000000" fill="none" points="4039.3654 3044.631 4060.6344 3044.631" id="gge46" layerid="3" stroke-linecap="round" stroke-opacity="1" stroke-width="0.6" gorn="0.1.0.0.0.1.0.0.0.1.0"/>
+                                        <polyline net="" locked="0"  stroke="#000000" fill="none" points="4039.3654 3055.3688 4060.6344 3055.3688" id="gge49" layerid="3" stroke-linecap="round" stroke-opacity="1" stroke-width="0.6" gorn="0.1.0.0.0.1.0.0.0.1.1"/>
+                                        <polyline net="" locked="0"  stroke="#000000" fill="none" points="4044.7284 3044.631 4044.7284 3055.3688" id="gge52" layerid="3" stroke-linecap="round" stroke-opacity="1" stroke-width="0.6" gorn="0.1.0.0.0.1.0.0.0.1.2"/>
+                                        <polyline net="" locked="0"  stroke="#000000" fill="none" points="4060.6344 3044.631 4060.6344 3046.0109" id="gge55" layerid="3" stroke-linecap="round" stroke-opacity="1" stroke-width="0.6" gorn="0.1.0.0.0.1.0.0.0.1.3"/>
+                                        <polyline net="" locked="0"  stroke="#000000" fill="none" points="4060.6344 3055.3688 4060.6344 3053.9889" id="gge58" layerid="3" stroke-linecap="round" stroke-opacity="1" stroke-width="0.6" gorn="0.1.0.0.0.1.0.0.0.1.4"/>
+                                        <path net="" locked="0"  stroke="#000000" id="gge61" d="m 4039.6654,3055.6689 v -1.8799 h -1.8 v 1.8799 z" layerid="3" c_targetpad="" stroke-opacity="1" stroke-width="0" c_teardrop="" c_targetwire="" gorn="0.1.0.0.0.1.0.0.0.1.5" type="solid"/>
+                                        <path net="" locked="0"  stroke="#000000" id="gge64" d="m 4039.6654,3044.3311 v 1.8799 h -1.8 v -1.8799 z" layerid="3" c_targetpad="" stroke-opacity="1" stroke-width="0" c_teardrop="" c_targetwire="" gorn="0.1.0.0.0.1.0.0.0.1.6" type="solid"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

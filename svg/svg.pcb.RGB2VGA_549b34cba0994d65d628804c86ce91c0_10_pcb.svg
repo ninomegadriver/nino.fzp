@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Creator: CorelDRAW 2018 -->
+<svg xmlns="http://www.w3.org/2000/svg" text-rendering="geometricPrecision" xmlns:xml="http://www.w3.org/XML/1998/namespace" clip-rule="evenodd" viewBox="0 0 2872.26 3135.35" image-rendering="optimizeQuality" id="svg1048" gorn="0" width="29.4764mm" xml:space="preserve" version="1.0" shape-rendering="geometricPrecision" height="32.1764mm"  fill-rule="evenodd">
+    <desc >
+        <referenceFile >RGB2VGA.svg</referenceFile>
+    </desc>
+    <defs id="defs1052" />
+    <g transform="matrix(1,0,0,-1,9.4604491e-6,3135.3199)" >
+        <g >
+            <g id="g1117" gorn="0.2.0.0" >
+                <g id="silkscreen" gorn="0.2.0.0.0" >
+                    <rect y="8.5799999" stroke="#373435" rx="82.790001" ry="106.43" fill="none" stroke-miterlimit="2.61313" id="rect956" gorn="0.2.0.0.0.0" width="2855.0701" x="8.6000004" height="3118.1599"  stroke-width="17.19"/>
+                </g>
+                <g id="copper0" gorn="0.2.0.0.1" >
+                    <g id="copper1" gorn="0.2.0.0.1.0" >
+                        <circle stroke="FFF000" cx="564.09583" id="connector4pin" gorn="0.2.0.0.1.0.0" cy="2003.8091" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="564.09583" id="connector3pin" gorn="0.2.0.0.1.0.1" cy="1780.6896" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="564.09583" id="connector2pin" gorn="0.2.0.0.1.0.2" cy="1557.5702" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="564.09583" id="connector1pin" gorn="0.2.0.0.1.0.3" cy="1334.4509" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="564.09583" id="connector0pin" gorn="0.2.0.0.1.0.4" cy="1111.3314" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="371.15921" id="nonconn1" gorn="0.2.0.0.1.0.5" cy="2799.5261" r="214.0634"  stroke-width="78.5752"/>
+                        <circle stroke="FFF000" cx="988.26385" id="nonconn2" gorn="0.2.0.0.1.0.6" cy="209.10945" r="148.19775"  stroke-width="54.3982"/>
+                        <circle stroke="FFF000" cx="2663.2063" id="nonconn5" gorn="0.2.0.0.1.0.7" cy="2931.6584" r="148.19775"  stroke-width="54.3982"/>
+                        <circle stroke="FFF000" cx="2663.2063" id="nonconn4" gorn="0.2.0.0.1.0.8" cy="209.10945" r="148.19775"  stroke-width="54.3982"/>
+                        <circle stroke="FFF000" cx="988.26385" id="nonconn3" gorn="0.2.0.0.1.0.9" cy="2931.6584" r="148.19775"  stroke-width="54.3982"/>
+                        <circle stroke="FFF000" cx="371.15921" id="nonconn0" gorn="0.2.0.0.1.0.10" cy="364.43311" r="214.0634"  stroke-width="78.5752"/>
+                        <circle stroke="FFF000" cx="371.15924" id="connector9pin" gorn="0.2.0.0.1.0.11" cy="1907.2434" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="371.15924" id="connector8pin" gorn="0.2.0.0.1.0.12" cy="1684.1239" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="371.15924" id="connector7pin" gorn="0.2.0.0.1.0.13" cy="1461.0045" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="371.15924" id="connector6pin" gorn="0.2.0.0.1.0.14" cy="1237.8853" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="371.15924" id="connector5pin" gorn="0.2.0.0.1.0.15" cy="1014.7657" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="178.22272" id="connector14pin" gorn="0.2.0.0.1.0.16" cy="2003.8091" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="178.22272" id="connector13pin" gorn="0.2.0.0.1.0.17" cy="1780.6896" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="178.22272" id="connector12pin" gorn="0.2.0.0.1.0.18" cy="1557.5702" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="178.22272" id="connector11pin" gorn="0.2.0.0.1.0.19" cy="1334.4509" r="65.865677"  stroke-width="24.177"/>
+                        <circle stroke="FFF000" cx="178.22272" id="connector10pin" gorn="0.2.0.0.1.0.20" cy="1111.3314" r="65.865677"  stroke-width="24.177"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

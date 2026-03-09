@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.2179999mm" id="svg36" version="1.1" height="3.4820001mm"  viewBox="0 0 16.606299 13.708662" gorn="0">
+    <desc >
+        <referenceFile >X322512MSB4SI-C9002.svg</referenceFile>
+    </desc>
+    <g transform="translate(-4031,-3027.5)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <defs id="defs3713" />
+                        <g transform="translate(-10.785666,-6.2573494)" >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g id="silkscreen"  gorn="0.1.0.0.0.0.1.0.0.0.0">
+                                            <g transform="matrix(1.0416667,0,0,1.0416667,4041.786,3033.7573)" >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <path id="rect2691" stroke="none" d="M 0,0 V 0.26367188 6.7304688 H 0.5234375 V 0.5234375 H 15.417969 V 12.636719 H 7.6484375 v 0.523437 H 15.941406 V 0 Z"  fill="#000000" gorn="0.1.0.0.0.0.1.0.0.0.0.0.0.0.0.0"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <rect width="0.51256448" id="rect3578" y="3043.5291" height="3.9370079" stroke="none" x="4041.7861"  fill="#000000" gorn="0.1.0.0.0.0.1.0.0.0.0.1"/>
+                                            <g transform="rotate(90)" >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <rect width="0.51225251" id="rect3578-0" y="-4045.7207" height="3.9346118" stroke="none" x="3046.9536"  fill="#000000" gorn="0.1.0.0.0.0.1.0.0.0.0.2.0.0.0.0"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g transform="translate(-10.696653,-15.801453)" >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g id="copper1"  gorn="0.1.0.0.0.0.2.0.0.0.0">
+                                            <rect width="5.5118113" id="connector0pin" y="3051.3948" height="4.7244096" style="stroke-width:1.32341" stroke="none" x="4042.9131"  fill="#ffc000" gorn="0.1.0.0.0.0.2.0.0.0.0.0"/>
+                                            <rect width="5.5118113" id="connector1pin" y="3051.0823" height="4.7244096" style="stroke-width:1.32341;shape-rendering:crispEdges" stroke="none" x="4051.5747"  fill="#ffc000" gorn="0.1.0.0.0.0.2.0.0.0.0.1"/>
+                                            <rect width="5.5118113" id="connector2pin" y="3044.1924" height="4.7244096" style="stroke-width:1.32341;shape-rendering:crispEdges" stroke="none" x="4051.5747"  fill="#ffc000" gorn="0.1.0.0.0.0.2.0.0.0.0.2"/>
+                                            <rect width="5.5118113" id="connector3pin" y="3044.1924" height="4.7244096" style="stroke-width:1.32341;shape-rendering:crispEdges" stroke="none" x="4042.9133"  fill="#ffc000" gorn="0.1.0.0.0.0.2.0.0.0.0.3"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

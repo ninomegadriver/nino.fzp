@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0in" version="1.2" viewBox="0 0 14.4567 6.51969" baseProfile="tiny" width="0.200787in"  y="0in" height="0.0905512in">
+    <desc >
+        <referenceFile >findme.svg</referenceFile>
+    </desc>
+    <g partID="883960530" >
+        <g id="copper1"  gorn="0.1.0">
+            <rect stroke-width="0" fill-opacity="1" x="0.566929" id="connector0pad" stroke="none" width="4.53543"  y="0.566929" gorn="0.1.0.0" fill="#f7bf13" height="5.38583"/>
+            <rect stroke-width="0" fill-opacity="1" x="9.35433" id="connector1pad" stroke="none" width="4.53543"  y="0.566929" gorn="0.1.0.1" fill="#f7bf13" height="5.38583"/>
+        </g>
+    </g>
+    <g partID="883960531" >
+        <g id="silkscreen"  gorn="0.2.0">
+            <rect stroke-opacity="1" stroke-width="0.283465" x="0.141732" id="silkscreen" stroke="#ffffff" width="14.1732"  y="0.141732" gorn="0.2.0.0" fill="none" height="6.23622"/>
+        </g>
+    </g>
+</svg>

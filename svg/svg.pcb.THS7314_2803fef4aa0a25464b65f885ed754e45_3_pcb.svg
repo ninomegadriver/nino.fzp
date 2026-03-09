@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" x="0in" id="svg36"  width="0.1858in" gorn="0" height="0.3519in" viewBox="0 0 13.3776 25.3368" y="0in">
+    <desc >
+        <referenceFile >THS7314_pcb.svg</referenceFile>
+    </desc>
+    <defs id="defs36" />
+    <g id="copper1"  gorn="0.2">
+        <rect fill="#ffbf00" x="0.42480001" id="connector0pad"  connectorname="1" width="1.728" gorn="0.2.0" stroke-width="0" height="6.2568002" y="19.08"/>
+        <rect fill="#ffbf00" x="4.0247998" id="connector1pad"  connectorname="2" width="1.728" gorn="0.2.1" stroke-width="0" height="6.2568002" y="19.08"/>
+        <rect fill="#ffbf00" x="7.6248002" id="connector2pad"  connectorname="3" width="1.728" gorn="0.2.2" stroke-width="0" height="6.2568002" y="19.08"/>
+        <rect fill="#ffbf00" x="11.2248" id="connector3pad"  connectorname="4" width="1.728" gorn="0.2.3" stroke-width="0" height="6.2568002" y="19.08"/>
+        <rect fill="#ffbf00" x="11.2248" id="connector4pad"  connectorname="5" width="1.728" gorn="0.2.4" stroke-width="0" height="6.2568002" y="0"/>
+        <rect fill="#ffbf00" x="7.6248002" id="connector5pad"  connectorname="6" width="1.728" gorn="0.2.5" stroke-width="0" height="6.2568002" y="0"/>
+        <rect fill="#ffbf00" x="4.0247998" id="connector6pad"  connectorname="7" width="1.728" gorn="0.2.6" stroke-width="0" height="6.2568002" y="0"/>
+        <rect fill="#ffbf00" x="0.42480001" id="connector7pad"  connectorname="8" width="1.728" gorn="0.2.7" stroke-width="0" height="6.2568002" y="0"/>
+    </g>
+    <g id="silkscreen"  gorn="0.3">
+        <path fill="black" stroke="none" id="path2"  d="M 2.1528,17.784 A 0.86400002,0.86400002 0 0 1 1.2888,18.648 0.86400002,0.86400002 0 0 1 0.42479998,17.784 0.86400002,0.86400002 0 0 1 1.2888,16.92 a 0.86400002,0.86400002 0 0 1 0.864,0.864 z" gorn="0.3.0"/>
+        <path fill="black" stroke="none" id="rect1"  d="M 0,6.2558594 V 19.080078 H 13.376953 V 6.2558594 Z M 0.51757812,6.7734375 H 12.861328 V 18.5625 H 0.51757812 Z" gorn="0.3.1"/>
+    </g>
+</svg>

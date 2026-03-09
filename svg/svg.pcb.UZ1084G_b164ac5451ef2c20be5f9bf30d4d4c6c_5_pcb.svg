@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="7.5349998mm" viewBox="0 0 29.664644 46.32216" id="svg1902"  height="11.766mm" gorn="0">
+    <desc >
+        <referenceFile >UZ1084G.svg</referenceFile>
+    </desc>
+    <g transform="translate(-3752,-2907.3)" >
+        <g >
+            <g >
+                <defs id="defs1906" />
+                <g id="copper1"  gorn="0.1.0.0.1">
+                    <path style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:72;stroke-dasharray:none;" stroke-width="0.402772" fill="#fdde68" id="connector1pad" fill-opacity="1" stroke="#fdde68"  stroke-opacity="1" gorn="0.1.0.0.1.0" d="m 3756.7569,2933.0913 v -25.59 h 22.8344 v 25.59 z"/>
+                    <path style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:72;stroke-dasharray:none;" stroke-width="0.402772" fill="#fdde68" id="connector0pad" fill-opacity="1" stroke="#fdde68"  stroke-opacity="1" gorn="0.1.0.0.1.1" d="m 3756.3236,2953.4201 v -11.8109 h 5.9055 v 11.8109 z"/>
+                    <path style="fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:72;stroke-dasharray:none;" stroke-width="0.402772" fill="#fdde68" id="connector2pad" fill-opacity="1" stroke="#fdde68"  stroke-opacity="1" gorn="0.1.0.0.1.2" d="m 3774.1178,2953.4201 v -11.8109 h 5.9055 v 11.8109 z"/>
+                </g>
+                <g id="silkscreen"  gorn="0.1.0.0.2">
+                    <path style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:72;stroke-dasharray:none;" stroke-width="0.999986" fill="none" id="path2535" stroke="#000000"  stroke-opacity="1" gorn="0.1.0.0.2.0" d="m 3775.5747,2938.0662 v 1.8111 0.1569 h 2.9528 v -2.6763 h -0.075"/>
+                    <path style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:72;stroke-dasharray:none;" stroke-width="0.999986" fill="none" id="path2537" stroke="#000000"  stroke-opacity="1" gorn="0.1.0.0.2.1" d="m 3757.7805,2938.0662 v 1.8111 0.1569 h 2.9528 v -2.6763 h -0.074"/>
+                    <path style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:72;stroke-dasharray:none;" stroke-width="0.999986" fill="none" id="path2539" stroke="#000000"  stroke-opacity="1" gorn="0.1.0.0.2.2" d="m 3755.182,2914.5235 v 22.8344 h 25.9829 v -22.8344"/>
+                    <path style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:72;stroke-dasharray:none;" stroke-width="1.56942" fill="none" id="path2543" stroke="#000000"  stroke-opacity="1" gorn="0.1.0.0.2.3" d="m 3754.3556,2940.5856 c 0,-0.4306 -0.3625,-0.7917 -0.7931,-0.7778 -0.4305,0 -0.7916,0.3472 -0.7777,0.7917 0,0.4305 0.3472,0.7777 0.7916,0.7777 0.4306,0 0.7778,-0.3472 0.7778,-0.7777"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

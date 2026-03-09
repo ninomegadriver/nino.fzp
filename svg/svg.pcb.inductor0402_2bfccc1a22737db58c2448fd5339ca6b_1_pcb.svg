@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="2.0409999mm" x="0in" viewBox="0 0 5.7855067 3.2598385" id="svg15" version="1.2" height="1.15mm"  gorn="0" y="0in">
+    <defs id="defs19" />
+    <desc id="desc2" >
+        <referenceFile >findme.svg</referenceFile>
+    </desc>
+    <g transform="matrix(2.8346429,0,0,2.8346429,1.392e-4,5.7289e-4)" >
+        <g >
+            <g id="copper1"  gorn="0.2.0.0">
+                <rect width="0.73000002" x="0.19045076" fill="#ffcc00" id="connector0pad" stroke="none" height="0.78026074"  gorn="0.2.0.0.0" y="0.18466751"/>
+                <rect width="0.73000002" x="1.1204509" fill="#ffc000" id="connector1pad" stroke="none" height="0.77999997"  gorn="0.2.0.0.1" y="0.1847979"/>
+            </g>
+        </g>
+    </g>
+    <g transform="scale(2.8346429)" >
+        <g >
+            <g id="silkscreen"  gorn="0.3.0.0">
+                <g transform="scale(0.26458333)" >
+                    <g >
+                        <path fill="#000000" id="rect6586" stroke="none" d="M 0,0 V 0.56640625 4.3457031 H 0.56640625 3.4785156 V 3.7792969 H 0.56640625 V 0.56640625 H 3.4785156 V 0 Z M 4.234375,0 V 0.56640625 H 7.1464844 V 3.7792969 H 4.234375 V 4.3457031 H 7.1464844 7.7148438 V 3.7792969 0.56640625 0 H 7.1464844 Z"  gorn="0.3.0.0.0.0.0"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.079567 28.015748" width="5.3540001mm" height="7.1160002mm" version="1.1"  gorn="0" id="svg60">
+    <desc >
+        <referenceFile >SOP-8-EP-PCB.svg</referenceFile>
+    </desc>
+    <g transform="translate(-4030,-3019.5)" >
+        <g >
+            <g >
+                <defs  id="defs64"/>
+                <g  gorn="0.1.0.0.1" id="copper1">
+                    <g transform="translate(-0.31691602,5.4979735e-4)" >
+                        <g >
+                            <g  gorn="0.1.0.0.1.0.0.0" id="g2131">
+                                <path  d="m 4049.3786,3027.3734 v -7.8744 h -2.2836 v 7.8744 z" style="stroke-width:1" gorn="0.1.0.0.1.0.0.0.0" id="connector0pad" fill="#ffc000" stroke="none"/>
+                                <path  d="m 4044.3786,3019.499 v 7.8744 h -2.2836 v -7.8744 z" style="stroke-width:1" gorn="0.1.0.0.1.0.0.0.1" id="connector1pad" fill="#ffc000" stroke="none"/>
+                                <path  d="m 4039.3786,3019.499 v 7.8744 h -2.2836 v -7.8744 z" style="stroke-width:1" gorn="0.1.0.0.1.0.0.0.2" id="connector2pad" fill="#ffc000" stroke="none"/>
+                                <path  d="m 4034.6184,3019.4989 v 7.8744 h -2.2836 v -7.8744 z" style="stroke-width:1" gorn="0.1.0.0.1.0.0.0.3" id="connector3pad" fill="#ffc000" stroke="none"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(-0.31691602,-2.6758017)" >
+                        <g >
+                            <g  gorn="0.1.0.0.1.1.0.0" id="g2137">
+                                <path  d="m 4034.6184,3042.3178 v 7.8743 h -2.2836 v -7.8743 z" style="stroke-width:1" gorn="0.1.0.0.1.1.0.0.0" id="connector4pad" fill="#ffc000" stroke="none"/>
+                                <path  d="m 4039.3786,3042.3177 v 7.8744 h -2.2836 v -7.8744 z" style="stroke-width:1" gorn="0.1.0.0.1.1.0.0.1" id="connector5pad" fill="#ffc000" stroke="none"/>
+                                <path  d="m 4044.3786,3042.3178 v 7.8743 h -2.2836 v -7.8743 z" style="stroke-width:1" gorn="0.1.0.0.1.1.0.0.2" id="connector6pad" fill="#ffc000" stroke="none"/>
+                                <path  d="m 4049.3786,3042.3177 v 7.8744 h -2.2836 v -7.8744 z" style="stroke-width:1" gorn="0.1.0.0.1.1.0.0.3" id="connector7pad" fill="#ffc000" stroke="none"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="translate(7.3397717e-4,0.15632403)" >
+                    <g >
+                        <g  gorn="0.1.0.0.2.0.0" id="silkscreen">
+                            <path  d="m 4030.502,3027.7695 a 0.499998,0.499998 0 0 0 -0.5,0.5 v 10.3301 a 0.499998,0.499998 0 0 0 0.5,0.5 0.499998,0.499998 0 0 0 0.5,-0.5 v -10.3301 a 0.499998,0.499998 0 0 0 -0.5,-0.5 z" gorn="0.1.0.0.2.0.0.0" id="gge28" fill="#000000" stroke="none"/>
+                            <path  d="m 4030.5,3038.1328 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 h 20.0781 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z" gorn="0.1.0.0.2.0.0.1" id="gge31" fill="#000000" stroke="none"/>
+                            <path  d="m 4030.5,3027.5703 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 h 20.0781 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z" gorn="0.1.0.0.2.0.0.2" id="gge34" fill="#000000" stroke="none"/>
+                            <path  d="m 4050.5781,3036.1582 a 0.49999851,0.49999851 0 0 0 -0.5,0.5 v 1.9746 a 0.49999851,0.49999851 0 0 0 0.5,0.5 0.49999851,0.49999851 0 0 0 0.5,-0.5 v -1.9746 a 0.49999851,0.49999851 0 0 0 -0.5,-0.5 z" style="color:#000000;stroke-linecap:round;-inkscape-" gorn="0.1.0.0.2.0.0.3" id="gge40" stroke="none" fill="#000000"/>
+                            <path  d="m 4050.5781,3027.5703 a 0.5,0.5 0 0 0 -0.5,0.5 v 2.2871 a 0.5,0.5 0 0 0 0.5,0.5 0.5,0.5 0 0 0 0.5,-0.5 v -2.2871 a 0.5,0.5 0 0 0 -0.5,-0.5 z" gorn="0.1.0.0.2.0.0.4" id="gge43" fill="#000000" stroke="none"/>
+                            <path  d="m 4050.3828,3029.8574 c -1.175,0 -2.1197,0.4587 -2.7363,1.1524 -0.6167,0.6937 -0.9141,1.5994 -0.9141,2.498 0,0.8986 0.2974,1.8043 0.9141,2.4981 0.6166,0.6937 1.5613,1.1523 2.7363,1.1523 v -1 c -0.925,0 -1.5569,-0.3289 -1.9902,-0.8164 -0.4334,-0.4875 -0.6602,-1.1576 -0.6602,-1.834 0,-0.6764 0.2268,-1.3464 0.6602,-1.834 0.4333,-0.4875 1.0652,-0.8164 1.9902,-0.8164 z" gorn="0.1.0.0.2.0.0.5" id="gge46" fill="#000000" stroke="none"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

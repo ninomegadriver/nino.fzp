@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg1182"
+   viewBox="0 0 62.8937 54.105766"
+   version="1.1"
+   gorn="0"
+   width="15.975mm"
+   height="13.743mm"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs82">
+    <defs
+       id="defs1186" />
+    <style
+       id="style1051"
+       type="text/css">path, polyline, polygon, line { stroke-linecap:round; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] { fill:#000000; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] { fill:#000000; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] { stroke:#000000; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] { fill:#000000; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] { fill:#000000; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] { stroke:#000000; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] { fill:#000000; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] { fill:#000000; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] { stroke:#000000; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] { fill:#FFFFFF; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] { stroke:#FFFFFF; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;ELLIPSE&quot;] { stroke:#FFFFFF; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;RECT&quot;] { stroke:#FFFFFF; }
+.g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;POLYGON&quot;] { stroke:#FFFFFF; }
+.g[c_partid=&quot;part_hole&quot;] { fill: #FFFFFF; }
+path, polyline, polygon { stroke-linejoin:round; }
+rect, circle, ellipse, polyline, line, polygon, path { shape-rendering:crispEdges; }
+</style>
+  </defs>
+  <g
+     id="silkscreen"
+     gorn="0.1.0.0.0.4.0.0.0.0"
+     transform="translate(-4018.5709,-3028.3538)">
+    <g
+       transform="matrix(1.0416667,0,0,1.0416667,4008.5,3012.1996)"
+       id="g3">
+      <g
+         id="g2">
+        <g
+           id="g1">
+          <path
+             stroke-opacity="1"
+             d="m 57.442938,18.245616 c -0.372594,-0.227202 -0.673814,-0.659339 -0.738821,-1.05993 -0.07497,-0.461982 0.191128,-1.091352 0.590081,-1.395648 0.274821,-0.209616 0.418066,-0.249813 0.890232,-0.249813 0.472166,0 0.615411,0.0402 0.890232,0.249813 0.402252,0.306812 0.665118,0.933251 0.588843,1.403278 -0.06458,0.397952 -0.432108,0.90243 -0.793663,1.089398 -0.372565,0.19266 -1.08029,0.17426 -1.426904,-0.0371 z m 1.152851,-0.831423 c 0.520149,-0.520149 -0.134007,-1.372665 -0.719437,-0.937593 -0.315307,0.234326 -0.366595,0.674279 -0.108671,0.932203 0.23866,0.23866 0.592535,0.240963 0.828108,0.0054 z"
+             fill-opacity="1"
+             style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.3;stroke-dasharray:0.260572, 0.260572;stroke-dashoffset:0.540688;paint-order:markers stroke fill"
+             id="path2669"
+             stroke-width="0.0651431"
+             fill="#000000"
+             stroke="none"
+             gorn="0.1.0.0.0.4.0.0.0.0.0.0.0.0" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(1.0416667,0,0,1.0416667,4008.5,3012.1996)"
+       id="g6">
+      <g
+         id="g5">
+        <g
+           id="g4">
+          <path
+             stroke-opacity="1"
+             d="m 57.93603,19.463888 c -0.07637,-0.167608 -0.07952,-0.279763 -0.01093,-0.388505 0.08774,-0.139093 0.457121,-0.152874 4.097494,-0.152874 3.929883,0 4.003272,0.0033 4.12527,0.187066 0.105925,0.159532 0.10344,0.216715 -0.01689,0.388505 l -0.141094,0.20144 h -3.973246 -3.973245 z"
+             fill-opacity="1"
+             style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.3;stroke-dasharray:0.260572, 0.260572;stroke-dashoffset:0.540688;paint-order:markers stroke fill"
+             id="path2784"
+             stroke-width="0.0651431"
+             fill="#000000"
+             stroke="none"
+             gorn="0.1.0.0.0.4.0.0.0.0.1.0.0.0" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(1.0416667,0,0,1.0416667,4008.5,3012.1996)"
+       id="g9">
+      <g
+         id="g8">
+        <g
+           id="g7">
+          <path
+             stroke-opacity="1"
+             d="m 67.831727,44.112824 c -0.062,-0.115845 -0.09463,-1.941853 -0.09463,-5.295429 0,-4.531401 0.01648,-5.135093 0.143649,-5.262263 0.198579,-0.198579 0.561353,-0.180776 0.675852,0.03317 0.130457,0.24376 0.130457,10.280764 0,10.524524 -0.0605,0.113043 -0.191221,0.176817 -0.362436,0.176817 -0.171215,0 -0.301937,-0.06377 -0.362436,-0.176817 z"
+             fill-opacity="1"
+             style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.3;stroke-dasharray:0.260572, 0.260572;stroke-dashoffset:0.540688;paint-order:markers stroke fill"
+             id="path2862"
+             stroke-width="0.0651431"
+             fill="#000000"
+             stroke="none"
+             gorn="0.1.0.0.0.4.0.0.0.0.2.0.0.0" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(1.0416667,0,0,1.0416667,4008.5,3012.1996)"
+       id="g12">
+      <g
+         id="g11">
+        <g
+           id="g10">
+          <path
+             stroke-opacity="1"
+             d="m 11.212271,67.249981 c -0.137177,-0.151579 -0.151287,-0.670339 -0.151287,-5.56203 0,-5.110359 0.0088,-5.402838 0.16717,-5.546148 0.229112,-0.207343 0.435494,-0.189636 0.604657,0.05188 0.124629,0.177933 0.142303,0.830764 0.142303,5.256253 v 5.053086 h 27.880992 27.880992 v -5.053086 c 0,-4.425489 0.01767,-5.07832 0.142302,-5.256253 0.172806,-0.246713 0.417023,-0.26088 0.620541,-0.03599 0.137177,0.151579 0.151287,0.670339 0.151287,5.56203 0,5.110359 -0.0088,5.402838 -0.16717,5.546147 -0.154802,0.140093 -2.274281,0.151288 -28.643835,0.151288 -27.471636,0 -28.482004,-0.0059 -28.627952,-0.167171 z"
+             fill-opacity="1"
+             style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.3;stroke-dasharray:0.260572, 0.260572;stroke-dashoffset:0.540688;paint-order:markers stroke fill"
+             id="path2940"
+             stroke-width="0.0651431"
+             fill="#000000"
+             stroke="none"
+             gorn="0.1.0.0.0.4.0.0.0.0.3.0.0.0" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(1.0416667,0,0,1.0416667,4008.5,3012.1996)"
+       id="g15">
+      <g
+         id="g14">
+        <g
+           id="g13">
+          <path
+             stroke-opacity="1"
+             d="m 11.155613,44.112824 c -0.130457,-0.24376 -0.130457,-10.280764 0,-10.524524 0.114499,-0.213944 0.477273,-0.231747 0.675852,-0.03317 0.12717,0.12717 0.143649,0.730862 0.143649,5.262263 0,3.353576 -0.03263,5.179584 -0.09463,5.295429 -0.0605,0.113043 -0.191221,0.176817 -0.362436,0.176817 -0.171215,0 -0.301937,-0.06377 -0.362436,-0.176817 z"
+             fill-opacity="1"
+             style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.3;stroke-dasharray:0.260572, 0.260572;stroke-dashoffset:0.540688;paint-order:markers stroke fill"
+             id="path3018"
+             stroke-width="0.0651431"
+             fill="#000000"
+             stroke="none"
+             gorn="0.1.0.0.0.4.0.0.0.0.4.0.0.0" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(1.0416667,0,0,1.0416667,4008.5,3012.1996)"
+       id="g18">
+      <g
+         id="g17">
+        <g
+           id="g16">
+          <path
+             stroke-opacity="1"
+             d="m 13.581236,19.49808 c -0.120316,-0.171775 -0.122806,-0.228987 -0.01691,-0.388505 0.121293,-0.182714 0.210868,-0.187622 3.850379,-0.210955 2.674628,-0.01715 3.76144,0.0054 3.851079,0.07975 0.154211,0.127984 0.162557,0.464079 0.01518,0.611452 -0.08173,0.08173 -1.05924,0.109695 -3.834166,0.109695 H 13.72233 Z"
+             fill-opacity="1"
+             style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4.3;stroke-dasharray:0.260572, 0.260572;stroke-dashoffset:0.540688;paint-order:markers stroke fill"
+             id="path3096"
+             stroke-width="0.0651431"
+             fill="#000000"
+             stroke="none"
+             gorn="0.1.0.0.0.4.0.0.0.0.5.0.0.0" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="copper1"
+     gorn="0.1.0.0.0.4.0.0.0.1"
+     transform="translate(-4018.5709,-3028.3538)">
+    <path
+       stroke-opacity="1"
+       d="m 4020.9081,3046.8334 c -0.7824,-0.095 -1.4799,-0.5015 -1.9631,-1.148 l -0.283,-0.3784 -0.045,-5.2657 -0.046,-5.2657 0.2475,-0.3969 c 0.5356,-0.8594 1.1613,-1.2447 2.2123,-1.3631 0.7126,-0.079 1.0989,-0.022 1.6259,0.2537 0.4354,0.226 1.0429,0.8231 1.2531,1.2313 0.1726,0.3353 0.173,0.3466 0.173,5.4287 v 5.0929 l -0.2192,0.4005 c -0.4042,0.7384 -1.3647,1.362 -2.2016,1.4294 -0.1966,0.015 -0.5358,0.011 -0.7541,-0.019 z"
+       id="connector23pin"
+       stroke-width="0.787402"
+       fill="none"
+       stroke="#fdde68"
+       gorn="0.1.0.0.0.4.0.0.0.1.21" />
+    <path
+       stroke-opacity="1"
+       d="m 4020.5722,3069.1238 c -0.7448,-0.2583 -1.4465,-0.9372 -1.8212,-1.7613 -0.1761,-0.3879 -0.1801,-0.4622 -0.1801,-3.2989 v -2.9031 l 0.2232,-0.4924 c 0.2901,-0.6412 0.952,-1.2998 1.5492,-1.5422 0.6135,-0.2487 1.4351,-0.2483 2.0509,0 0.5565,0.2262 1.2092,0.8876 1.4924,1.5137 l 0.1961,0.4334 v 2.9457 2.9454 l -0.2226,0.4923 c -0.285,0.6295 -1.0256,1.385 -1.5491,1.5807 -0.5682,0.2124 -1.2715,0.247 -1.7388,0.082 z"
+       id="connector22pin"
+       style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;shape-rendering:crispEdges"
+       fill="none"
+       stroke="#fdde68"
+       gorn="0.1.0.0.0.4.0.0.0.1.24" />
+    <path
+       stroke-opacity="1"
+       d="m 4077.94,3069.1228 c -0.7448,-0.2583 -1.4465,-0.9372 -1.8212,-1.7613 -0.1761,-0.3879 -0.1801,-0.4622 -0.1801,-3.2989 v -2.9031 l 0.2232,-0.4924 c 0.2901,-0.6412 0.952,-1.2998 1.5492,-1.5422 0.6135,-0.2487 1.4351,-0.2483 2.0509,0 0.5565,0.2262 1.2092,0.8876 1.4924,1.5137 l 0.1961,0.4334 v 2.9457 2.9454 l -0.2226,0.4923 c -0.285,0.6295 -1.0256,1.385 -1.5491,1.5807 -0.5682,0.2124 -1.2715,0.247 -1.7388,0.082 z"
+       id="connector21pin"
+       stroke-width="0.787402"
+       fill="none"
+       stroke="#fdde68"
+       gorn="0.1.0.0.0.4.0.0.0.1.25" />
+    <path
+       stroke-opacity="1"
+       d="m 4078.2948,3046.8343 c -0.7824,-0.095 -1.4799,-0.5015 -1.9631,-1.148 l -0.283,-0.3784 -0.045,-5.2657 -0.046,-5.2657 0.2475,-0.3969 c 0.5356,-0.8594 1.1613,-1.2447 2.2123,-1.3631 0.7126,-0.079 1.0989,-0.022 1.6259,0.2537 0.4354,0.226 1.0429,0.8231 1.2531,1.2313 0.1726,0.3353 0.173,0.3466 0.173,5.4287 v 5.0929 l -0.2192,0.4005 c -0.4042,0.7384 -1.3647,1.362 -2.2016,1.4294 -0.1966,0.015 -0.5358,0.011 -0.7541,-0.019 z"
+       id="connector20pin"
+       fill="none"
+       stroke="#fdde68"
+       gorn="0.1.0.0.0.4.0.0.0.1.20" />
+    <path
+       stroke-opacity="1"
+       d="m 4031.7342,3036.7669 v -5.0944 h 0.5713 0.5713 v 5.0944 5.0943 h -0.5713 -0.5713 z"
+       fill-opacity="1"
+       id="connector19pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.0.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4033.7338,3036.7669 v -5.0944 h 0.5237 0.5238 v 5.0944 5.0943 h -0.5238 -0.5237 z"
+       fill-opacity="1"
+       id="connector18pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.1.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4035.7335,3036.7669 v -5.0944 h 0.5237 0.5237 v 5.0944 5.0943 h -0.5237 -0.5237 z"
+       fill-opacity="1"
+       id="connector17pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.2.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4037.6379,3036.7669 v -5.0944 h 0.5714 0.5713 v 5.0944 5.0943 h -0.5713 -0.5714 z"
+       fill-opacity="1"
+       id="connector16pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.3.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4039.6376,3036.7669 v -5.0944 h 0.5237 0.5237 v 5.0944 5.0943 h -0.5237 -0.5237 z"
+       fill-opacity="1"
+       id="connector15pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.4.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4041.6372,3036.7669 v -5.0944 h 0.5238 0.5237 v 5.0944 5.0943 h -0.5237 -0.5238 z"
+       fill-opacity="1"
+       id="connector14pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.5.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4043.5417,3036.7669 v -5.0944 h 0.5713 0.5713 v 5.0944 5.0943 h -0.5713 -0.5713 z"
+       fill-opacity="1"
+       id="connector13pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.6.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4045.5413,3036.7669 v -5.0944 h 0.5238 0.5237 v 5.0944 5.0943 h -0.5237 -0.5238 z"
+       fill-opacity="1"
+       id="connector12pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.7.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4047.541,3036.7669 v -5.0944 h 0.5237 0.5237 v 5.0944 5.0943 h -0.5237 -0.5237 z"
+       fill-opacity="1"
+       id="connector11pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.8.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4049.4454,3036.7669 v -5.0944 h 0.5714 0.5713 v 5.0944 5.0943 h -0.5713 -0.5714 z"
+       fill-opacity="1"
+       id="connector10pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.9.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4051.4451,3036.7669 v -5.0944 h 0.5237 0.5237 v 5.0944 5.0943 h -0.5237 -0.5237 z"
+       fill-opacity="1"
+       id="connector9pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.10.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4053.4448,3036.7669 v -5.0944 h 0.5237 0.5237 v 5.0944 5.0943 h -0.5237 -0.5237 z"
+       fill-opacity="1"
+       id="connector8pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.11.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4055.3492,3036.7669 v -5.0944 h 0.5713 0.5714 v 5.0944 5.0943 h -0.5714 -0.5713 z"
+       fill-opacity="1"
+       id="connector7pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.12.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4057.3489,3036.7669 v -5.0944 h 0.5237 0.5237 v 5.0944 5.0943 h -0.5237 -0.5237 z"
+       fill-opacity="1"
+       id="connector6pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.13.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4059.3485,3036.7669 v -5.0944 h 0.5238 0.5237 v 5.0944 5.0943 h -0.5237 -0.5238 z"
+       fill-opacity="1"
+       id="connector5pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.14.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4061.253,3036.7669 v -5.0944 h 0.5713 0.5713 v 5.0944 5.0943 h -0.5713 -0.5713 z"
+       fill-opacity="1"
+       id="connector4pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.15.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4063.2526,3036.7669 v -5.0944 h 0.5238 0.5237 v 5.0944 5.0943 h -0.5237 -0.5238 z"
+       fill-opacity="1"
+       id="connector3pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.16.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4065.2523,3036.7669 v -5.0944 h 0.5237 0.5237 v 5.0944 5.0943 h -0.5237 -0.5237 z"
+       fill-opacity="1"
+       id="connector2pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.17.0.0.0" />
+    <path
+       stroke-opacity="1"
+       d="m 4067.1567,3036.7669 v -5.0944 h 0.5714 0.5713 v 5.0944 5.0943 h -0.5713 -0.5714 z"
+       fill-opacity="1"
+       id="connector1pin"
+       stroke-width="0.0678574"
+       fill="#fdde68"
+       stroke="none"
+       gorn="0.1.0.0.0.4.0.0.0.1.18.0.0.0" />
+    <g
+       id="g82"
+       transform="translate(-0.06348078)">
+      <circle
+         id="nonconn0"
+         cx="4021.3904"
+         cy="3044.2424"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214" />
+      <circle
+         id="nonconn0-6"
+         cx="4021.3904"
+         cy="3035.6863"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5"
+         cx="4021.3904"
+         cy="3036.9087"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5"
+         cx="4021.3904"
+         cy="3038.1309"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-2"
+         cx="4021.3904"
+         cy="3039.3533"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-2-1"
+         cx="4021.3904"
+         cy="3040.5754"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-2-1-7"
+         cx="4021.3904"
+         cy="3041.7979"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-2-1-7-9"
+         cx="4021.3904"
+         cy="3043.02"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+    </g>
+    <g
+       id="g82-6"
+       transform="translate(-0.06358086,25.950995)">
+      <circle
+         id="nonconn0-6-6"
+         cx="4021.3904"
+         cy="3035.6863"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-2"
+         cx="4021.3904"
+         cy="3036.9087"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-6"
+         cx="4021.3904"
+         cy="3038.1309"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-2-18"
+         cx="4021.3904"
+         cy="3039.3533"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-2-1-79"
+         cx="4021.3904"
+         cy="3040.5754"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+    </g>
+    <g
+       id="g82-6-3"
+       transform="translate(57.304219,25.949868)">
+      <circle
+         id="nonconn0-6-6-7"
+         cx="4021.3904"
+         cy="3035.6863"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-2-5"
+         cx="4021.3904"
+         cy="3036.9087"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-6-9"
+         cx="4021.3904"
+         cy="3038.1309"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-2-18-2"
+         cx="4021.3904"
+         cy="3039.3533"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-2-1-79-2"
+         cx="4021.3904"
+         cy="3040.5754"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+    </g>
+    <g
+       id="g82-9"
+       transform="translate(57.323219,-0.03852792)">
+      <circle
+         id="nonconn0-7"
+         cx="4021.3904"
+         cy="3044.2424"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-3"
+         cx="4021.3904"
+         cy="3035.6863"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-6"
+         cx="4021.3904"
+         cy="3036.9087"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-1"
+         cx="4021.3904"
+         cy="3038.1309"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-2-2"
+         cx="4021.3904"
+         cy="3039.3533"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-2-1-9"
+         cx="4021.3904"
+         cy="3040.5754"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-2-1-7-3"
+         cx="4021.3904"
+         cy="3041.7979"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+      <circle
+         id="nonconn0-6-5-5-2-1-7-9-1"
+         cx="4021.3904"
+         cy="3043.02"
+         r="2.4794133"
+         stroke="none"
+         fill="#000000"
+         style="stroke-width:0.787214;shape-rendering:crispEdges" />
+    </g>
+  </g>
+</svg>

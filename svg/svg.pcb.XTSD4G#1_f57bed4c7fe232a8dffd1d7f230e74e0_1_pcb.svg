@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg"  id="svg122" version="1.1" width="6.3049998mm" viewBox="0 0 24.822391 38.310557" height="9.7309999mm" gorn="0">
+    <desc >
+        <referenceFile >XTSD.svg</referenceFile>
+    </desc>
+    <g  transform="translate(-4027.9,-3014.5)">
+        <g >
+            <g >
+                <g >
+                    <defs  id="defs126"/>
+                    <g  transform="translate(0,-0.2)">
+                        <g >
+                            <g >
+                                <g  id="silkscreen" gorn="0.1.0.0.0.1.0.0.0">
+                                    <g  transform="translate(-9.6891264,-16.1441)">
+                                        <g >
+                                            <g >
+                                                <polyline  fill="none" points="4040.35 3066.0475 4037.889 3066.0475 4037.889 3066.0475 4037.889 3033.9515 4037.889 3033.9515 4040.35 3033.9515" stroke-linecap="round" id="gge58" stroke-width="0.6" net="" locked="0" stroke="#000000" gorn="0.1.0.0.0.1.0.0.0.0.0.0.0" stroke-opacity="1" layerid="3"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g  transform="translate(-9.6891264,-16.1441)">
+                                        <g >
+                                            <g >
+                                                <polyline  fill="none" points="4059.65 3066.0475 4062.111 3066.0475 4062.111 3066.0475 4062.111 3033.9515 4062.111 3033.9515 4059.65 3033.9515" stroke-linecap="round" id="gge61" stroke-width="0.6" net="" locked="0" stroke="#000000" gorn="0.1.0.0.0.1.0.0.0.1.0.0.0" stroke-opacity="1" layerid="3"/>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <circle  fill="none" id="gge64" r="0.49200001" stroke-width="0.9843" locked="0" cy="3051.3564" stroke="#000000" cx="4029.8108" gorn="0.1.0.0.0.1.0.0.0.2" stroke-opacity="1" layerid="3"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g  id="copper1" gorn="0.1.0.0.0.2">
+                        <g  transform="translate(-9.6891264,-16.3441)">
+                            <g >
+                                <g >
+                                    <g c_width="2.8" stroke-opacity="1" c_origin="4042.5,3065.7295" gorn="0.1.0.0.0.2.0.0.0.0" plated="Y" stroke="none" solderexpansion="0.2000" number="1" c_rotation="0" title="" locked="0" net="" c_height="6.8528" c_etype="pinpart" fill="#aa8800" id="connection0pad" layerid="1" c_shape="RECT" c_partid="part_pad"  pasteexpansion="0.0000">
+                                        <polygon  fill="#aa8800" points="4043.9,3062.3031 4043.9,3069.1559 4041.1,3069.1559 4041.1,3062.3031 " id="connector0pad" stroke-width="0.4" stroke="none" gorn="0.1.0.0.0.2.0.0.0.0.0" c_etype="pad_outer" stroke-opacity="1" layerid="7"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="translate(-9.6891264,-16.3441)">
+                            <g >
+                                <g >
+                                    <g c_width="2.8" stroke-opacity="1" c_origin="4047.5,3065.7295" gorn="0.1.0.0.0.2.1.0.0.0" plated="Y" stroke="none" solderexpansion="0.2000" number="2" c_rotation="0" title="" locked="0" net="" c_height="6.8528" c_etype="pinpart" fill="#aa8800" id="connection1pad" layerid="1" c_shape="RECT" c_partid="part_pad"  pasteexpansion="0.0000">
+                                        <polygon  fill="#aa8800" points="4048.9,3062.3031 4048.9,3069.1559 4046.1,3069.1559 4046.1,3062.3031 " id="connector1pad" stroke-width="0.4" stroke="none" gorn="0.1.0.0.0.2.1.0.0.0.0" c_etype="pad_outer" stroke-opacity="1" layerid="7"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="translate(-9.6891264,-16.3441)">
+                            <g >
+                                <g >
+                                    <g c_width="2.8" stroke-opacity="1" c_origin="4052.5,3065.7295" gorn="0.1.0.0.0.2.2.0.0.0" plated="Y" stroke="none" solderexpansion="0.2000" number="3" c_rotation="0" title="" locked="0" net="" c_height="6.8528" c_etype="pinpart" fill="#aa8800" id="connection2pad" layerid="1" c_shape="RECT" c_partid="part_pad"  pasteexpansion="0.0000">
+                                        <polygon  fill="#aa8800" points="4053.9,3062.3031 4053.9,3069.1559 4051.1,3069.1559 4051.1,3062.3031 " id="connector2pad" stroke-width="0.4" stroke="none" gorn="0.1.0.0.0.2.2.0.0.0.0" c_etype="pad_outer" stroke-opacity="1" layerid="7"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="translate(-9.6891264,-16.3441)">
+                            <g >
+                                <g >
+                                    <g c_width="2.8" stroke-opacity="1" c_origin="4057.5,3065.7295" gorn="0.1.0.0.0.2.3.0.0.0" plated="Y" stroke="none" solderexpansion="0.2000" number="4" c_rotation="0" locked="0" net="" c_height="6.8528" c_etype="pinpart" fill="#aa8800" id="connection3pad" layerid="1" c_shape="RECT" c_partid="part_pad"  pasteexpansion="0.0000">
+                                        <polygon  fill="#aa8800" points="4058.9,3062.3031 4058.9,3069.1559 4056.1,3069.1559 4056.1,3062.3031 " id="connector3pad" stroke-width="0.4" stroke="none" gorn="0.1.0.0.0.2.3.0.0.0.0" c_etype="pad_outer" stroke-opacity="1" layerid="7"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="translate(-9.6891264,-16.3441)">
+                            <g >
+                                <g >
+                                    <g c_width="2.8" stroke-opacity="1" c_origin="4057.5,3034.2705" gorn="0.1.0.0.0.2.4.0.0.0" plated="Y" stroke="none" solderexpansion="0.2000" number="5" c_rotation="0" title="" locked="0" net="" c_height="6.8528" c_etype="pinpart" fill="#aa8800" id="connection4pad" layerid="1" c_shape="RECT" c_partid="part_pad"  pasteexpansion="0.0000">
+                                        <polygon  fill="#aa8800" points="4058.9,3030.8441 4058.9,3037.6969 4056.1,3037.6969 4056.1,3030.8441 " id="connector4pad" stroke-width="0.4" stroke="none" gorn="0.1.0.0.0.2.4.0.0.0.0" c_etype="pad_outer" stroke-opacity="1" layerid="7"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="translate(-9.6891264,-16.3441)">
+                            <g >
+                                <g >
+                                    <g c_width="2.8" stroke-opacity="1" c_origin="4052.5,3034.2705" gorn="0.1.0.0.0.2.5.0.0.0" plated="Y" stroke="none" solderexpansion="0.2000" number="6" c_rotation="0" title="" locked="0" net="" c_height="6.8528" c_etype="pinpart" fill="#aa8800" id="connection5pad" layerid="1" c_shape="RECT" c_partid="part_pad"  pasteexpansion="0.0000">
+                                        <polygon  fill="#aa8800" points="4053.9,3030.8441 4053.9,3037.6969 4051.1,3037.6969 4051.1,3030.8441 " id="connector5pad" stroke-width="0.4" stroke="none" gorn="0.1.0.0.0.2.5.0.0.0.0" c_etype="pad_outer" stroke-opacity="1" layerid="7"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="translate(-9.6891264,-16.3441)">
+                            <g >
+                                <g >
+                                    <g c_width="2.8" stroke-opacity="1" c_origin="4047.5,3034.2705" gorn="0.1.0.0.0.2.6.0.0.0" plated="Y" stroke="none" solderexpansion="0.2000" number="7" c_rotation="0" title="" locked="0" net="" c_height="6.8528" c_etype="pinpart" fill="#aa8800" id="connection6pad" layerid="1" c_shape="RECT" c_partid="part_pad"  pasteexpansion="0.0000">
+                                        <polygon  fill="#aa8800" points="4048.9,3030.8441 4048.9,3037.6969 4046.1,3037.6969 4046.1,3030.8441 " id="connector6pad" stroke-width="0.4" stroke="none" gorn="0.1.0.0.0.2.6.0.0.0.0" c_etype="pad_outer" stroke-opacity="1" layerid="7"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="translate(-9.6891264,-16.3441)">
+                            <g >
+                                <g >
+                                    <g c_width="2.8" stroke-opacity="1" c_origin="4042.5,3034.2705" gorn="0.1.0.0.0.2.7.0.0.0" plated="Y" stroke="none" solderexpansion="0.2000" number="8" c_rotation="0" title="" locked="0" net="" c_height="6.8528" c_etype="pinpart" fill="#aa8800" id="connection7pad" layerid="1" c_shape="RECT" c_partid="part_pad"  pasteexpansion="0.0000">
+                                        <polygon  fill="#aa8800" points="4043.9,3030.8441 4043.9,3037.6969 4041.1,3037.6969 4041.1,3030.8441 " id="connector7pad" stroke-width="0.4" stroke="none" gorn="0.1.0.0.0.2.7.0.0.0.0" c_etype="pad_outer" stroke-opacity="1" layerid="7"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

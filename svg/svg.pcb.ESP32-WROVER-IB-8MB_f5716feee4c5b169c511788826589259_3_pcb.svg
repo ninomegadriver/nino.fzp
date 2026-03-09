@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="31.622999mm" width="20.299999mm" gorn="0"  version="1.1" id="svg215" viewBox="0 0 79.92126 124.49999">
+    <desc >
+        <referenceFile >ESP-WROVER-C529593.svg</referenceFile>
+    </desc>
+    <g  transform="translate(-3999.5,-2958.6)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <defs  id="defs2604"/>
+                            <g  transform="translate(-10.539307,-16.534)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g gorn="0.1.0.0.0.0.0.1.0.0.0.0.0"  id="silkscreen">
+                                                    <polyline locked="0" stroke-opacity="1" points="4022 2997.634 4022 2980.634 4034 2980.634 4034 2993.634 4043 2993.634 4043 2980.634 4080 2980.634" gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.0"  stroke="#000000" fill="none" stroke-width="1" stroke-linecap="round" layerid="3" net="" id="gge187"/>
+                                                    <polyline locked="0" stroke-opacity="1" points="4014.5 3002.1216 4014.5 3001.506" gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.1"  stroke="#000000" fill="none" stroke-width="1" stroke-linecap="round" layerid="3" net="" id="gge190"/>
+                                                    <polyline locked="0" stroke-opacity="1" points="4085.5 3097.8786 4085.5 3099.134 4014.5 3099.134 4014.5 3097.8786" gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.2"  stroke="#000000" fill="none" stroke-width="1" stroke-linecap="round" layerid="3" net="" id="gge193"/>
+                                                    <polyline locked="0" stroke-opacity="1" points="4014.5 3000.634 4014.5 2975.634 4085.5 2975.634 4085.5 3002.1216" gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.3"  stroke="#000000" fill="none" stroke-width="1" stroke-linecap="round" layerid="3" net="" id="gge199"/>
+                                                    <polyline locked="0" stroke-opacity="1" points="4014.5 3000.7248 4014.5 3002.134" gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.4"  stroke="#000000" fill="none" stroke-width="1" stroke-linecap="round" layerid="3" net="" id="gge202"/>
+                                                    <polyline locked="0" stroke-opacity="1" points="4085.5 3002.134 4085.5 3000.634 4014.5 3000.634" gorn="0.1.0.0.0.0.0.1.0.0.0.0.0.5"  stroke="#000000" fill="none" stroke-width="1" stroke-linecap="round" layerid="3" net="" id="gge205"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="translate(-10.539307,-16.534)">
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g gorn="0.1.0.0.0.0.0.2.0.0.0.0.0"  id="copper1">
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.0"  stroke="none" fill="#ffc000" y="3003.033" x="4010.0393" id="connector0pad"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.1"  stroke="none" fill="#ffc000" y="3008.033" x="4010.0393" id="connector1pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.2"  stroke="none" fill="#ffc000" y="3013.033" x="4010.0393" id="connector2pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.3"  stroke="none" fill="#ffc000" y="3018.033" x="4010.0393" id="connector3pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.4"  stroke="none" fill="#ffc000" y="3023.033" x="4010.0393" id="connector4pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.5"  stroke="none" fill="#ffc000" y="3028.033" x="4010.0393" id="connector5pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.6"  stroke="none" fill="#ffc000" y="3033.033" x="4010.0393" id="connector6pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.7"  stroke="none" fill="#ffc000" y="3038.033" x="4010.0393" id="connector7pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.8"  stroke="none" fill="#ffc000" y="3043.033" x="4010.0393" id="connector8pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.9"  stroke="none" fill="#ffc000" y="3048.033" x="4010.0393" id="connector9pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.10"  stroke="none" fill="#ffc000" y="3053.033" x="4010.0393" id="connector10pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.11"  stroke="none" fill="#ffc000" y="3058.033" x="4010.0393" id="connector11pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.12"  stroke="none" fill="#ffc000" y="3063.033" x="4010.0393" id="connector12pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.13"  stroke="none" fill="#ffc000" y="3068.033" x="4010.0393" id="connector13pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.14"  stroke="none" fill="#ffc000" y="3073.033" x="4010.0393" id="connector14pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.15"  stroke="none" fill="#ffc000" y="3078.033" x="4010.0393" id="connector15pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.16"  stroke="none" fill="#ffc000" y="3083.033" x="4010.0393" id="connector16pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.17"  stroke="none" fill="#ffc000" y="3088.033" x="4010.0393" id="connector17pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.18"  stroke="none" fill="#ffc000" y="3093.033" x="4010.0393" id="connector18pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.19"  stroke="none" fill="#ffc000" y="3093.033" x="4080.9055" id="connector19pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.20"  stroke="none" fill="#ffc000" y="3088.033" x="4080.9055" id="connector20pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.21"  stroke="none" fill="#ffc000" y="3083.033" x="4080.9055" id="connector21pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.22"  stroke="none" fill="#ffc000" y="3078.033" x="4080.9055" id="connector22pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.23"  stroke="none" fill="#ffc000" y="3073.033" x="4080.9055" id="connector23pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.24"  stroke="none" fill="#ffc000" y="3068.033" x="4080.9055" id="connector24pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.25"  stroke="none" fill="#ffc000" y="3063.033" x="4080.9055" id="connector25pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.26"  stroke="none" fill="#ffc000" y="3058.033" x="4080.9055" id="connector26pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.27"  stroke="none" fill="#ffc000" y="3053.033" x="4080.9055" id="connector27pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.28"  stroke="none" fill="#ffc000" y="3048.033" x="4080.9055" id="connector28pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.29"  stroke="none" fill="#ffc000" y="3043.033" x="4080.9055" id="connector29pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.30"  stroke="none" fill="#ffc000" y="3038.033" x="4080.9055" id="connector30pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.31"  stroke="none" fill="#ffc000" y="3033.033" x="4080.9055" id="connector31pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.32"  stroke="none" fill="#ffc000" y="3028.033" x="4080.9055" id="connector32pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.33"  stroke="none" fill="#ffc000" y="3023.033" x="4080.9055" id="connector33pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.34"  stroke="none" fill="#ffc000" y="3018.033" x="4080.9055" id="connector34pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.35"  stroke="none" fill="#ffc000" y="3013.033" x="4080.9055" id="connector35pad" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.36"  stroke="none" fill="#ffc000" y="3008.033" x="4080.9055" id="connector37pin" style="shape-rendering:crispEdges"/>
+                                                    <rect height="3.9370077" width="9.0551176" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.37"  stroke="none" fill="#ffc000" y="3003.033" x="4080.9055" id="connector38pin"/>
+                                                    <rect height="19.68504" width="19.68504" gorn="0.1.0.0.0.0.0.2.0.0.0.0.0.38"  stroke="none" fill="#ffc000" y="3025.907" x="4034.252" id="connector39pin"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

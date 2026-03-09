@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2.49mm"  height="1.15mm" version="1.1" id="svg34" gorn="0" viewBox="0 0 9.8031498 4.5275589">
+    <desc >
+        <referenceFile >0402-jumper_pcb.svg</referenceFile>
+    </desc>
+    <defs  id="defs46"/>
+    <g  id="silkscreen" gorn="0.2">
+        <path  fill="none" stroke="black" d="M 0,0 H 9.8031502 V 4.5275588 H 0 Z" stroke-width="0.5" id="rect1" gorn="0.2.0"/>
+    </g>
+    <g  id="copper1" gorn="0.3">
+        <rect width="3.7204723" x="5.2963619"  fill="#ffc000" height="2.9488189" stroke="none" y="0.78741407" id="connector1pin" gorn="0.3.0"/>
+        <rect width="3.7204723" x="0.78635228"  fill="#ffc000" height="2.9488189" stroke="none" y="0.78741407" id="connector0pin" gorn="0.3.1"/>
+    </g>
+</svg>

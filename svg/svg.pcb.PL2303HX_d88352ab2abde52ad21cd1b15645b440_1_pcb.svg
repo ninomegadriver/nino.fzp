@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" height="0.54in"  viewBox="0 0 140 540" baseProfile="tiny" width="0.14in">
+    <desc>
+        <referenceFile>nsjumper_5_100mil_pcb.svg</referenceFile>
+    </desc>
+    <desc >Fritzing footprint SVG</desc>
+    <g  id="silkscreen" gorn="0.1">
+        <line x2="20" y1="20"  y2="520" stroke="white" x1="20" stroke-width="10"/>
+        <line x2="120" y1="520"  y2="520" stroke="white" x1="20" stroke-width="10"/>
+        <line x2="120" y1="520"  y2="20" stroke="white" x1="120" stroke-width="10"/>
+        <line x2="20" y1="20"  y2="20" stroke="white" x1="120" stroke-width="10"/>
+        <line x2="55" y1="55"  y2="20" stroke="white" x1="20" stroke-width="5"/>
+        <!-- 120 -->
+    </g>
+    <g  id="copper1" gorn="0.2">
+        <g  id="copper0" gorn="0.2.0">
+            <circle r="29" cx="70"  cy="70" fill="none" stroke="rgb(255, 191, 0)" stroke-width="20" id="connector0pin" gorn="0.2.0.0"/>
+            <circle r="29" cx="70"  cy="170" fill="none" stroke="rgb(255, 191, 0)" stroke-width="20" id="connector1pin" gorn="0.2.0.1"/>
+            <circle r="29" cx="70"  cy="270" fill="none" stroke="rgb(255, 191, 0)" stroke-width="20" id="connector2pin" gorn="0.2.0.2"/>
+            <circle r="29" cx="70"  cy="370" fill="none" stroke="rgb(255, 191, 0)" stroke-width="20" id="connector3pin" gorn="0.2.0.3"/>
+            <circle r="29" cx="70"  cy="470" fill="none" stroke="rgb(255, 191, 0)" stroke-width="20" id="connector4pin" gorn="0.2.0.4"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   height="16.112mm"
+   gorn="0"
+   id="svg59"
+   viewBox="0 0 63.384631 63.434189"
+   width="16.1mm"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs54" />
+  <desc
+     id="desc2">
+    <referenceFile>USB-234-BCW-C720528.svg</referenceFile>
+  </desc>
+  <g
+     transform="translate(-4008.3,-3020.7)"
+     id="g49">
+    <g
+       id="g47">
+      <g
+         id="g45">
+        <g
+           id="g43">
+          <defs
+             id="defs63" />
+          <g
+             transform="rotate(180,4039.9914,3052.4166)"
+             id="g41">
+            <g
+               id="g39">
+              <g
+                 id="g37">
+                <g
+                   gorn="0.1.0.0.0.1.0.0.0"
+                   id="g1370">
+                  <g
+                     transform="translate(-10.008623,-16.2097)"
+                     id="g16">
+                    <g
+                       id="g14">
+                      <g
+                         id="g12">
+                        <g
+                           gorn="0.1.0.0.0.1.0.0.0.0.0.0.0"
+                           id="copper1">
+                          <polygon
+                             points="4081.6929,3046.3585 4081.6929,3068.0121 4073.6221,3068.0121 4073.6221,3046.3585 "
+                             stroke="none"
+                             c_etype="pad_shell"
+                             fill="#d4aa00"
+                             gorn="0.1.0.0.0.1.0.0.0.0.0.0.0.0"
+                             id="connector5pin"
+                             stroke-opacity="1"
+                             stroke-width="0"
+                             layerid="1" />
+                          <polygon
+                             points="4026.3779,3046.3585 4026.3779,3068.0121 4018.3071,3068.0121 4018.3071,3046.3585 "
+                             stroke="none"
+                             c_etype="pad_shell"
+                             fill="#d4aa00"
+                             gorn="0.1.0.0.0.1.0.0.0.0.0.0.0.1"
+                             id="connector6pin"
+                             stroke-opacity="1"
+                             stroke-width="0"
+                             layerid="1" />
+                          <polygon
+                             points="4065.5512,3036.9097 4065.5512,3048.7207 4062.0078,3048.7207 4062.0078,3036.9097 "
+                             stroke="none"
+                             c_etype="pad_shell"
+                             fill="#d4aa00"
+                             gorn="0.1.0.0.0.1.0.0.0.0.0.0.0.2"
+                             id="connector4pin"
+                             stroke-opacity="1"
+                             stroke-width="0"
+                             layerid="1" />
+                          <polygon
+                             points="4055.7087,3036.9097 4055.7087,3048.7207 4052.1653,3048.7207 4052.1653,3036.9097 "
+                             stroke="none"
+                             c_etype="pad_shell"
+                             fill="#d4aa00"
+                             gorn="0.1.0.0.0.1.0.0.0.0.0.0.0.3"
+                             id="connector2pin"
+                             stroke-opacity="1"
+                             stroke-width="0"
+                             layerid="1" />
+                          <polygon
+                             points="4047.8347,3036.9097 4047.8347,3048.7207 4044.2913,3048.7207 4044.2913,3036.9097 "
+                             stroke="none"
+                             c_etype="pad_shell"
+                             fill="#d4aa00"
+                             gorn="0.1.0.0.0.1.0.0.0.0.0.0.0.4"
+                             id="connector3pin"
+                             stroke-opacity="1"
+                             stroke-width="0"
+                             layerid="1" />
+                          <polygon
+                             points="4037.9922,3036.9097 4037.9922,3048.7207 4034.4488,3048.7207 4034.4488,3036.9097 "
+                             stroke="none"
+                             c_etype="pad_shell"
+                             fill="#d4aa00"
+                             gorn="0.1.0.0.0.1.0.0.0.0.0.0.0.5"
+                             id="connector1pin"
+                             stroke-opacity="1"
+                             stroke-width="0"
+                             layerid="1" />
+                          <circle
+                             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0393708;stroke-linecap:round;stroke-linejoin:round"
+                             id="nonconn0"
+                             cx="-4059.6252"
+                             cy="-3060.1177"
+                             transform="scale(-1)"
+                             r="3.452817" />
+                          <circle
+                             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0393708;stroke-linecap:round;stroke-linejoin:round"
+                             id="nonconn1"
+                             cx="-4040.3335"
+                             cy="-3060.1177"
+                             transform="scale(-1)"
+                             r="3.452817" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                  <g
+                     transform="translate(-10.008623,-16.2097)"
+                     id="g34">
+                    <g
+                       id="g32">
+                      <g
+                         id="g30">
+                        <g
+                           gorn="0.1.0.0.0.1.0.0.0.1.0.0.0"
+                           id="silkscreen">
+                          <polyline
+                             net=""
+                             points="4074.6063 3099.8428 4025.3937 3099.8428"
+                             stroke="#000000"
+                             stroke-linecap="round"
+                             fill="none"
+                             gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.0"
+                             id="gge73"
+                             stroke-opacity="1"
+                             locked="0"
+                             stroke-width="1"
+                             layerid="3" />
+                          <g
+                             gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.1"
+                             id="g1169">
+                            <circle
+                               r="2.9528"
+                               stroke="#000000"
+                               cy="3060.1379"
+                               cx="4040.354"
+                               gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.1.0"
+                               id="circle38"
+                               fill-opacity="0"
+                               stroke-opacity="1"
+                               stroke-width="1" />
+                            <circle
+                               r="2.9528"
+                               stroke="#000000"
+                               cy="3060.1379"
+                               cx="4059.646"
+                               gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.1.1"
+                               id="circle41"
+                               fill-opacity="0"
+                               stroke-opacity="1"
+                               stroke-width="1" />
+                            <polyline
+                               net=""
+                               points="4074.6063 3045.4485 4074.6063 3040.0003 4066.4612 3040.0003"
+                               stroke="#000000"
+                               stroke-linecap="round"
+                               fill="none"
+                               gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.1.2"
+                               id="gge58"
+                               stroke-opacity="1"
+                               locked="0"
+                               stroke-width="1"
+                               layerid="3" />
+                            <polyline
+                               net=""
+                               points="4074.6063 3099.8428 4074.6063 3068.9221"
+                               stroke="#000000"
+                               stroke-linecap="round"
+                               fill="none"
+                               gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.1.3"
+                               id="gge70"
+                               stroke-opacity="1"
+                               locked="0"
+                               stroke-width="1"
+                               layerid="3" />
+                            <polyline
+                               net=""
+                               points="4056.6187 3040.0003 4061.0978 3040.0003"
+                               stroke="#000000"
+                               stroke-linecap="round"
+                               fill="none"
+                               gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.1.4"
+                               id="gge79"
+                               stroke-opacity="1"
+                               locked="0"
+                               stroke-width="1"
+                               layerid="3" />
+                            <polyline
+                               net=""
+                               points="4048.7447 3040.0003 4051.2553 3040.0003"
+                               stroke="#000000"
+                               stroke-linecap="round"
+                               fill="none"
+                               gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.1.5"
+                               id="gge82"
+                               stroke-opacity="1"
+                               locked="0"
+                               stroke-width="1"
+                               layerid="3" />
+                            <polyline
+                               net=""
+                               points="4038.9022 3040.0003 4043.3813 3040.0003"
+                               stroke="#000000"
+                               stroke-linecap="round"
+                               fill="none"
+                               gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.1.6"
+                               id="gge85"
+                               stroke-opacity="1"
+                               locked="0"
+                               stroke-width="1"
+                               layerid="3" />
+                            <polyline
+                               net=""
+                               points="4025.3937 3045.4485 4025.3937 3040.0003 4033.5388 3040.0003"
+                               stroke="#000000"
+                               stroke-linecap="round"
+                               fill="none"
+                               gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.1.7"
+                               id="gge88"
+                               stroke-opacity="1"
+                               locked="0"
+                               stroke-width="1"
+                               layerid="3" />
+                          </g>
+                          <polyline
+                             net=""
+                             points="4025.3937 3099.8428 4025.3937 3068.9221"
+                             stroke="#000000"
+                             stroke-linecap="round"
+                             fill="none"
+                             gorn="0.1.0.0.0.1.0.0.0.1.0.0.0.2"
+                             id="gge91"
+                             stroke-opacity="1"
+                             locked="0"
+                             stroke-width="1"
+                             layerid="3" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

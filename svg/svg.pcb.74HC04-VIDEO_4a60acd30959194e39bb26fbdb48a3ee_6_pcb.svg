@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.784 24.696" y="0in"  version="1.2" id="svg9" width="0.372in" x="0in" gorn="0" height="0.343in">
+    <desc >
+        <referenceFile >74HC04-VIDEO.svg</referenceFile>
+    </desc>
+    <defs  id="defs9"/>
+    <g  transform="matrix(1,0,0,0.93665079,0,0.73434413)">
+        <g >
+            <g stroke-opacity="1"  stroke="#000000" id="silkscreen" gorn="0.2.0.0" stroke-width="0">
+                <path  stroke="none" d="M 25.550774,5.8707198 H 1.2392929" id="path10" gorn="0.2.0.0.0" fill="black"/>
+                <path  stroke="none" d="M 1.2400914,5.5738071 A 0.23031887,0.29609206 0 0 0 1.0083782,5.8716914 0.23031887,0.29609206 0 0 0 1.2400914,6.1672844 H 25.55036 A 0.23031887,0.29609206 0 0 0 25.780291,5.8716914 0.23031887,0.29609206 0 0 0 25.55036,5.5738071 Z" id="path11" gorn="0.2.0.0.1" fill="black"/>
+                <path  stroke="none" d="m 26.306101,17.612922 c 0,0.539758 -0.335883,0.969269 -0.755741,0.969269 v 0.593478 c 0.668805,0 1.215603,-0.702949 1.215603,-1.562747 z" id="path27" gorn="0.2.0.0.2" fill="black"/>
+                <path  stroke="none" d="m 1.2400914,5.5738071 c -0.66880507,0 -1.21738498,0.7052403 -1.21738498,1.5650389 h 0.46164379 c 0,-0.539759 0.33588299,-0.9715615 0.75574119,-0.9715616 z" id="path29" gorn="0.2.0.0.3" fill="black"/>
+                <path  stroke="none" d="m 25.55036,5.5738071 v 0.5934773 c 0.419858,1e-7 0.755741,0.4318026 0.755741,0.9715616 h 0.459862 c 0,-0.8597986 -0.546798,-1.5650389 -1.215603,-1.5650389 z" id="path31" gorn="0.2.0.0.4" fill="black"/>
+                <path  stroke="none" d="m 0.02270642,17.612922 c 0,0.859798 0.54857991,1.562747 1.21738498,1.562747 v -0.593478 c -0.4198582,0 -0.75574119,-0.429511 -0.75574119,-0.969269 z" id="path33" gorn="0.2.0.0.5" fill="black"/>
+                <path  stroke="none" d="M 1.2392929,18.879232 H 25.550774" id="path12" gorn="0.2.0.0.6" fill="black"/>
+                <path  stroke="none" d="m 1.2400914,18.582191 a 0.23031887,0.29609206 0 0 0 -0.2317132,0.297885 0.23031887,0.29609206 0 0 0 0.2317132,0.295593 H 25.55036 a 0.23031887,0.29609206 0 0 0 0.229931,-0.295593 0.23031887,0.29609206 0 0 0 -0.229931,-0.297885 z" id="path13" gorn="0.2.0.0.7" fill="black"/>
+                <path  stroke="none" d="M 26.536375,17.61217 V 7.1377826" id="path14" gorn="0.2.0.0.8" fill="black"/>
+                <path  stroke="none" d="M 26.536032,6.8409616 A 0.23031887,0.29609206 0 0 0 26.306101,7.138846 v 10.474076 a 0.23031887,0.29609206 0 0 0 0.229931,0.295592 0.23031887,0.29609206 0 0 0 0.229931,-0.295592 V 7.138846 A 0.23031887,0.29609206 0 0 0 26.536032,6.8409616 Z" id="path15" gorn="0.2.0.0.9" fill="black"/>
+                <path  stroke="none" d="M 0.2536923,7.1377826 V 10.685559" id="path16" gorn="0.2.0.0.10" fill="black"/>
+                <path  stroke="none" d="M 0.25441952,6.8409616 A 0.23031887,0.29609206 0 0 0 0.02270642,7.138846 v 3.547117 a 0.23031887,0.29609206 0 0 0 0.2317131,0.295592 0.23031887,0.29609206 0 0 0 0.22993069,-0.295592 V 7.138846 A 0.23031887,0.29609206 0 0 0 0.25441952,6.8409616 Z" id="path17" gorn="0.2.0.0.11" fill="black"/>
+                <path  stroke="none" d="m 0.2536923,10.685559 v 3.378834" id="path18" gorn="0.2.0.0.12" fill="black"/>
+                <path  stroke="none" d="m 0.25441952,10.390369 a 0.23031887,0.29609206 0 0 0 -0.2317131,0.295594 v 3.37755 a 0.23031887,0.29609206 0 0 0 0.2317131,0.297885 0.23031887,0.29609206 0 0 0 0.22993069,-0.297885 v -3.37755 A 0.23031887,0.29609206 0 0 0 0.25441952,10.390369 Z" id="path19" gorn="0.2.0.0.13" fill="black"/>
+                <path  stroke="none" d="M 0.2536923,14.064393 V 17.61217" id="path20" gorn="0.2.0.0.14" fill="black"/>
+                <path  stroke="none" d="m 0.25441952,13.767921 a 0.23031887,0.29609206 0 0 0 -0.2317131,0.295592 v 3.549409 a 0.23031887,0.29609206 0 0 0 0.2317131,0.295592 0.23031887,0.29609206 0 0 0 0.22993069,-0.295592 V 14.063513 A 0.23031887,0.29609206 0 0 0 0.25441952,13.767921 Z" id="path21" gorn="0.2.0.0.15" fill="black"/>
+                <path  stroke="none" d="M 0.2536923,17.69664 H 26.536375" id="path22" gorn="0.2.0.0.16" fill="black"/>
+                <path  stroke="none" d="m 0.25441952,17.596882 a 0.07677327,0.09869775 0 0 0 -0.0766436,0.100825 0.07677327,0.09869775 0 0 0 0.0766436,0.09853 H 26.536032 a 0.07677327,0.09869775 0 0 0 0.07664,-0.09853 0.07677327,0.09869775 0 0 0 -0.07664,-0.100825 z" id="path23" gorn="0.2.0.0.17" fill="black"/>
+                <path  d="m 0.21679688,10.736328 v 0.445313 c 0.4242031,0 0.71301339,0.151017 0.91210932,0.375 0.199096,0.223983 0.3046875,0.531393 0.3046875,0.841797 0,0.310403 -0.1055915,0.617813 -0.3046875,0.841796 -0.19909593,0.223983 -0.48790622,0.375 -0.91210932,0.375 V 14.0625 c 0.53579554,0 0.96519042,-0.209374 1.24609372,-0.525391 0.2809034,-0.316016 0.4160156,-0.729075 0.4160156,-1.138671 0,-0.409597 -0.1351122,-0.820703 -0.4160156,-1.136719 C 1.1819873,10.945702 0.75259242,10.736328 0.21679688,10.736328 Z" stroke="none" id="path45" gorn="0.2.0.0.18" fill="black"/>
+                <path  d="M 0.992126,25.052656 A 0.496063,0.52961396 0 0 1 0.49606307,25.582271 0.496063,0.52961396 0 0 1 0,25.052656 0.496063,0.52961396 0 0 1 0.49606307,24.523044 0.496063,0.52961396 0 0 1 0.992126,25.052656 Z" id="path9" gorn="0.2.0.0.19" fill="black"/>
+            </g>
+        </g>
+    </g>
+    <g  id="copper1" gorn="0.3" stroke-width="0">
+        <rect y="18.935999"  stroke="none" id="connector0pad" width="1.872" x="1.656" gorn="0.3.0" fill="#f7bd13" stroke-width="0" height="5.7600002"/>
+        <rect y="18.935999"  stroke="none" id="connector1pad" width="1.872" x="5.256" gorn="0.3.1" fill="#f7bd13" stroke-width="0" height="5.7600002"/>
+        <rect y="18.80628"  stroke="none" id="nonconn0" width="5.5716977" x="5.256" gorn="0.3.2" fill="#f7bd13" stroke-width="0" height="5.8897181"/>
+        <rect y="18.935999"  stroke="none" id="connector2pad" width="1.872" x="8.8559999" gorn="0.3.3" fill="#f7bd13" stroke-width="0" height="5.7600002"/>
+        <rect y="18.935999"  stroke="none" id="connector2pad-5" width="1.872" x="8.8559999" gorn="0.3.4" fill="#f7bd13" stroke-width="0" height="5.7600002"/>
+        <rect y="18.935999"  stroke="none" id="connector3pad" width="1.872" x="12.456" gorn="0.3.5" fill="#f7bd13" stroke-width="0" height="5.7600002"/>
+        <path  d="M 16.056152,0.14521857 V 9.8659213 h -3.559571 v 0.3559567 h -0.04102 v 14.47412 h 1.87207 V 11.736526 h 1.728516 v 0.02197 h 1.87207 v -0.02197 h 0.01465 V 9.8659213 h -0.01465 V 0.14521857 Z" stroke="none" id="nonconn2" gorn="0.3.6" fill="#ffc000"/>
+        <rect y="18.935999"  stroke="none" id="connector4pad" width="1.872" x="16.056" gorn="0.3.7" fill="#f7bd13" stroke-width="0" height="5.7600002"/>
+        <rect y="18.935999"  stroke="none" id="connector5pad" width="1.872" x="19.656" gorn="0.3.8" fill="#f7bd13" stroke-width="0" height="5.7600002"/>
+        <rect y="18.935999"  stroke="none" id="connector6pad" width="1.872" x="23.256001" gorn="0.3.9" fill="#f7bd13" stroke-width="0" height="5.7600002"/>
+        <rect y="0.036"  stroke="none" id="connector7pad" width="1.872" x="23.256" gorn="0.3.10" fill="#F7BD13" stroke-width="0" height="5.76"/>
+        <rect y="0.036"  stroke="none" id="connector8pad" width="1.872" x="19.656" gorn="0.3.11" fill="#F7BD13" stroke-width="0" height="5.76"/>
+        <rect y="0.036"  stroke="none" id="connector9pad" width="1.872" x="16.056" gorn="0.3.12" fill="#F7BD13" stroke-width="0" height="5.76"/>
+        <rect y="0.036"  stroke="none" id="connector10pad" width="1.872" x="12.456" gorn="0.3.13" fill="#F7BD13" stroke-width="0" height="5.76"/>
+        <rect y="0.036"  stroke="none" id="connector11pad" width="1.872" x="8.856" gorn="0.3.14" fill="#F7BD13" stroke-width="0" height="5.76"/>
+        <rect y="0.035999998"  stroke="none" id="nonconn1" width="5.4740682" x="8.8559999" gorn="0.3.15" fill="#f7bd13" stroke-width="0" height="5.8414893"/>
+        <rect y="0.036"  stroke="none" id="connector12pad" width="1.872" x="5.256" gorn="0.3.16" fill="#F7BD13" stroke-width="0" height="5.76"/>
+        <rect y="0.036"  stroke="none" id="connector13pad" width="1.872" x="1.656" gorn="0.3.17" fill="#F7BD13" stroke-width="0" height="5.76"/>
+    </g>
+</svg>

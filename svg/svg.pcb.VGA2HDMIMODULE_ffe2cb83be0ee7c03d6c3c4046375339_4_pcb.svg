@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW 2018 -->
+
+<svg
+   image-rendering="optimizeQuality"
+   gorn="0"
+   clip-rule="evenodd"
+   version="1.0"
+   xml:space="preserve"
+   shape-rendering="geometricPrecision"
+   viewBox="0 0 5273.7999 5560"
+   width="52.737999mm"
+   fill-rule="evenodd"
+   id="svg3853"
+   height="55.599998mm"
+   text-rendering="geometricPrecision"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+    <desc
+   id="desc824">
+        <referenceFile>modulo-hdmi-pcb.svg</referenceFile>
+    </desc>
+    <defs
+   id="defs3857" />
+    <g
+   gorn="0.2"
+   id="Layer_x0020_1">
+        <g
+   gorn="0.2.0"
+   id="g3784">
+            <g
+   gorn="0.2.0.0"
+   id="silkscreen">
+                <g
+   gorn="0.2.0.0.0"
+   id="silkscreen0">
+                    <rect
+   y="1200"
+   stroke-width="0.703733"
+   gorn="0.2.0.0.0.0"
+   width="2570.9946"
+   id="rect7166"
+   fill="#000000"
+   height="25"
+   x="1349.9719" />
+                    <path
+   stroke-width="24.8818"
+   gorn="0.2.0.0.0.1"
+   stroke="#000000"
+   stroke-opacity="1"
+   fill="#000000"
+   d="M 1629.3543,5522.6711 H 4962.6836 V 37.329022 H 37.316491 V 3053.7694 h 1567.162209 24.8756 v 24.8882 z m -24.8756,24.8881 H 4987.5591 V 12.4409 H 12.4409 v 3066.2167 h 1592.0378 z"
+   id="outline"
+   style="stroke-miterlimit:4;stroke-dasharray:none;" />
+                    <circle
+   cy="960.00006"
+   r="110"
+   gorn="0.2.0.0.0.2"
+   cx="740"
+   id="nonconn4-0"
+   fill="#000000" />
+                    <circle
+   cy="460.00006"
+   r="110"
+   gorn="0.2.0.0.0.3"
+   cx="1240"
+   id="nonconn2-9"
+   fill="#000000" />
+                    <circle
+   cy="460.00006"
+   r="110"
+   gorn="0.2.0.0.0.4"
+   cx="240"
+   id="nonconn3-2"
+   fill="#000000" />
+                    <circle
+   cy="4575"
+   r="200"
+   gorn="0.2.0.0.0.5"
+   cx="4786.8999"
+   id="nonconn1-5"
+   fill="#000000" />
+                    <circle
+   cy="355.00006"
+   r="200"
+   gorn="0.2.0.0.0.6"
+   cx="4786.8999"
+   id="nonconn0-4"
+   fill="#000000" />
+                    <path
+   stroke-width="25"
+   gorn="0.2.0.0.0.7"
+   stroke="#000000"
+   stroke-opacity="1"
+   fill="#000000"
+   d="m 1680,4377.5001 h 1500 v 1170 H 1680 Z m 1475,25 H 1705 v 1120 h 1450 z"
+   id="hdmiconn"
+   style="stroke-miterlimit:4;stroke-dasharray:none;" />
+                    <rect
+   y="3355.1936"
+   gorn="0.2.0.0.0.8"
+   width="282.50363"
+   id="rect5036"
+   fill="black"
+   height="64.807922"
+   x="4465.3447" />
+                    <rect
+   y="4069.9985"
+   gorn="0.2.0.0.0.9"
+   width="282.50363"
+   id="rect5036-0"
+   fill="#000000"
+   height="64.807922"
+   x="4467.4849" />
+                    <g
+   transform="rotate(-90)"
+   id="g840">
+                        <g
+   id="g838">
+                            <rect
+   y="4316.5811"
+   stroke-width="0.912496"
+   gorn="0.2.0.0.0.10.0.0"
+   width="235.22623"
+   id="rect5036-0-5"
+   fill="#000000"
+   height="64.807922"
+   x="-3860.9324" />
+                        </g>
+                    </g>
+                    <g
+   transform="rotate(-90)"
+   id="g845">
+                        <g
+   id="g843">
+                            <rect
+   y="4316.5811"
+   stroke-width="0.605312"
+   gorn="0.2.0.0.0.11.0.0"
+   width="103.50998"
+   id="rect5036-0-5-9"
+   fill="#000000"
+   height="64.807922"
+   x="-3525.0396" />
+                        </g>
+                    </g>
+                    <g
+   transform="rotate(-90)"
+   id="g850">
+                        <g
+   id="g848">
+                            <rect
+   y="4316.5811"
+   stroke-width="0.605312"
+   gorn="0.2.0.0.0.12.0.0"
+   width="103.50998"
+   id="rect5036-0-5-9-4"
+   fill="#000000"
+   height="64.807922"
+   x="-4068.4258" />
+                        </g>
+                    </g>
+                    <circle
+   cy="1620"
+   r="200"
+   gorn="0.2.0.0.0.13"
+   cx="450"
+   id="path6335"
+   fill="#000000" />
+                    <circle
+   cy="1620"
+   r="200"
+   gorn="0.2.0.0.0.14"
+   cx="950"
+   id="path6335-8"
+   fill="#000000" />
+                    <rect
+   y="1216.4656"
+   stroke-width="0.293003"
+   gorn="0.2.0.0.0.15"
+   width="25"
+   id="rect7062"
+   fill="#000000"
+   height="1841.0074"
+   x="1350" />
+                    <rect
+   y="1213.1038"
+   stroke-width="0.558459"
+   gorn="0.2.0.0.0.16"
+   width="25"
+   id="rect7623"
+   fill="#000000"
+   height="3165.0181"
+   x="3900" />
+                    <rect
+   y="4365"
+   stroke-width="0.616859"
+   gorn="0.2.0.0.0.17"
+   width="1081.963"
+   id="rect7727"
+   fill="#000000"
+   height="25"
+   x="3911.0068" />
+                </g>
+            </g>
+            <g
+   gorn="0.2.0.1"
+   id="copper0">
+                <g
+   gorn="0.2.0.1.0"
+   id="copper1">
+                    <circle
+   cy="960"
+   r="110"
+   gorn="0.2.0.1.0.0"
+   cx="740"
+   id="nonconn4"
+   fill="black" />
+                    <circle
+   cy="460"
+   r="110"
+   gorn="0.2.0.1.0.1"
+   cx="1240"
+   id="nonconn2"
+   fill="black" />
+                    <circle
+   cy="1620"
+   r="200"
+   gorn="0.2.0.1.0.2"
+   cx="450"
+   id="nonconn11"
+   fill="#000000" />
+                    <circle
+   cy="1620"
+   r="200"
+   gorn="0.2.0.1.0.3"
+   cx="950"
+   id="nonconn12"
+   fill="#000000" />
+                    <circle
+   cy="460"
+   r="110"
+   gorn="0.2.0.1.0.4"
+   cx="240"
+   id="nonconn3"
+   fill="black" />
+                    <circle
+   cy="4575"
+   r="200"
+   gorn="0.2.0.1.0.5"
+   cx="4786.8999"
+   id="nonconn1"
+   fill="black" />
+                    <circle
+   cy="355"
+   r="200"
+   gorn="0.2.0.1.0.6"
+   cx="4786.8999"
+   id="nonconn0"
+   fill="black" />
+                    <path
+   gorn="0.2.0.1.0.7"
+   fill="#000000"
+   d="m 4435.01,572.99 h -320 c -23.41,0 -44.68,-9.57 -60.05,-24.94 -15.37,-15.37 -24.94,-36.64 -24.94,-60.05 0,-23.25 9.54,-44.46 24.94,-59.91 v 0 c 0.02,-0.02 0.05,-0.05 0.07,-0.07 0.02,-0.02 0.05,-0.05 0.07,-0.07 v 0 c 15.45,-15.4 36.67,-24.94 59.91,-24.94 h 320 c 23.25,0 44.46,9.54 59.91,24.94 v 0 c 0.02,0.02 0.05,0.05 0.07,0.07 0.02,0.02 0.05,0.05 0.07,0.07 v 0 c 15.4,15.45 24.94,36.66 24.94,59.91 0,23.27 -9.57,44.53 -25.01,59.98 l 0.07,0.07 c -15.37,15.37 -36.64,24.94 -60.05,24.94 z m 0,-34.99 h -320 c -27.5,0 -50,-22.5 -50,-50 v 0 c 0,-27.51 22.5,-50 50,-50 h 320 c 27.5,0 50,22.49 50,50 v 0 c 0,27.5 -22.5,50 -50,50 z"
+   id="connector21pin"
+   style="fill:#d4aa00;fill-opacity:1" />
+                    <path
+   gorn="0.2.0.1.0.8"
+   fill="#000000"
+   d="m 1936.03,572.99 h -320 c -23.41,0 -44.68,-9.57 -60.05,-24.94 l 0.07,-0.07 c -15.44,-15.45 -25.01,-36.71 -25.01,-59.98 0,-23.25 9.54,-44.46 24.94,-59.91 v 0 c 0.02,-0.02 0.05,-0.05 0.07,-0.07 0.02,-0.02 0.05,-0.05 0.07,-0.07 v 0 c 15.45,-15.4 36.66,-24.94 59.91,-24.94 h 320 c 23.24,0 44.46,9.54 59.91,24.94 v 0 c 0.02,0.02 0.05,0.05 0.07,0.07 0.02,0.02 0.05,0.05 0.07,0.07 v 0 c 15.4,15.45 24.94,36.66 24.94,59.91 0,23.41 -9.57,44.68 -24.94,60.05 -15.37,15.37 -36.64,24.94 -60.05,24.94 z m 0,-34.99 h -320 c -27.5,0 -50,-22.5 -50,-50 v 0 c 0,-27.51 22.5,-50 50,-50 h 320 c 27.5,0 50,22.49 50,50 v 0 c 0,27.5 -22.5,50 -50,50 z"
+   id="connector20pin"
+   style="fill:#d4aa00;fill-opacity:1" />
+                    <circle
+   cy="289.98019"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.9"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="2594.0254"
+   id="connector10pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="289.98019"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.10"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="2823.0154"
+   id="connector11pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="289.98019"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.11"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="3052.0154"
+   id="connector12pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="289.98019"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.12"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="3281.0154"
+   id="connector13pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="487.97018"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.13"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="3395.5054"
+   id="connector9pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="487.97018"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.14"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="3166.5054"
+   id="connector8pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="487.97018"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.15"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="2937.5054"
+   id="connector7pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="487.97018"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.16"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="2708.5354"
+   id="connector6pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="487.97018"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.17"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="2479.5254"
+   id="connector5pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="685.96021"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.18"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="2594.0254"
+   id="connector0pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="685.96021"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.19"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="2823.0154"
+   id="connector1pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="685.96021"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.20"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="3052.0154"
+   id="connector2pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="685.96021"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.21"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="3281.0154"
+   id="connector3pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="685.96021"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.22"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="3510.0154"
+   id="connector4pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="289.98019"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.23"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="3510.7061"
+   id="connector14pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="959.98499"
+   stroke-width="35"
+   r="80"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.24"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="240.00999"
+   id="connector15pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="959.98499"
+   stroke-width="35"
+   r="80"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.25"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="489.98999"
+   id="connector16pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="959.98499"
+   stroke-width="35"
+   r="80"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.26"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="989.97998"
+   id="connector17pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="959.98499"
+   stroke-width="35"
+   r="80"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.27"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="1239.99"
+   id="connector18pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <circle
+   cy="460"
+   stroke-width="35"
+   r="80"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.28"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="740"
+   id="connector19pin"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                    <rect
+   y="3170"
+   stroke-width="3.3214"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.29"
+   width="250.00143"
+   fill="#d4aa00"
+   id="nonconn5"
+   height="250.00143"
+   x="4749.9883"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+                    <rect
+   y="4069.9985"
+   stroke-width="3.3214"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.30"
+   width="250.00143"
+   fill="#d4aa00"
+   id="rect6842"
+   height="250.00143"
+   x="4749.9883"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+                    <rect
+   y="3170"
+   stroke-width="3.3214"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.31"
+   width="250.00143"
+   fill="#d4aa00"
+   id="nonconn6"
+   height="250.00143"
+   x="4215.3433"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+                    <rect
+   y="4069.9985"
+   stroke-width="3.3214"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.32"
+   width="250.00143"
+   fill="#d4aa00"
+   id="nonconn14"
+   height="250.00143"
+   x="4215.3433"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+                    <g
+   gorn="0.2.0.1.0.33"
+   id="connector22pin">
+                        <circle
+   cy="3915.1768"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.33.0"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="5181.2998"
+   id="connector4pin-0-3"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                        <rect
+   y="3865.1768"
+   stroke-width="6.24735"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.33.1"
+   width="1043.5566"
+   fill="#d4aa00"
+   id="Vin"
+   height="100"
+   x="4060.4001"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+                    </g>
+                    <g
+   gorn="0.2.0.1.0.34"
+   id="connector23pin">
+                        <circle
+   cy="3574.9907"
+   stroke-width="34.9999"
+   r="75"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.34.0"
+   stroke="#d4aa00"
+   stroke-opacity="1"
+   cx="5181.2886"
+   id="connector4pin-0"
+   fill="none"
+   style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" />
+                        <rect
+   y="3524.9907"
+   stroke-width="6.24434"
+   fill-opacity="1"
+   gorn="0.2.0.1.0.34.1"
+   width="1042.5496"
+   fill="#d4aa00"
+   id="gnd"
+   height="100"
+   x="4060.4001"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+                    </g>
+                <path
+   style="fill:#d4aa00;fill-opacity:1;stroke:none;stroke-width:0.140431;stroke-linecap:round;stroke-linejoin:round"
+   d="M 1576.4817,539.00003 C 1557.9131,524.35329 1551.03,510.56103 1551.03,488 c 0,-22.56103 6.8831,-36.35329 25.4517,-51.00002 L 1587.8915,428 h 186.778 c 174.0738,0 187.5959,0.49619 198.8037,7.29595 13.4898,8.18413 27.5568,35.60218 27.5568,53.71097 0,16.9554 -12.0919,41.11337 -25.3222,50.59001 C 1964.1645,547.86521 1960.9592,548 1775.9339,548 h -188.0424 z"
+   id="nonconn13" /><path
+   style="fill:#d4aa00;fill-opacity:1;stroke:none;stroke-width:0.140431;stroke-linecap:round;stroke-linejoin:round"
+   d="M 4075.4617,539.00003 C 4056.8931,524.35329 4050.01,510.56103 4050.01,488 c 0,-22.56103 6.8831,-36.35329 25.4517,-51.00002 L 4086.8715,428 h 186.778 c 174.0738,0 187.5959,0.49619 198.8037,7.29595 13.4898,8.18413 27.5568,35.60218 27.5568,53.71097 0,16.9554 -12.0919,41.11337 -25.3222,50.59001 C 4463.1445,547.86521 4459.9392,548 4274.9139,548 h -188.0424 z"
+   id="nonconn15" /></g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" x="0in" height="24.841mm" id="svg14" y="0in"  gorn="0" width="42.620998mm" viewBox="0 0 120.81497 70.415457">
+    <desc >
+        <referenceFile >voltimetro.svg</referenceFile>
+    </desc>
+    <defs id="defs14" />
+    <g id="silkscreen"  gorn="0.2">
+        <g transform="matrix(1.0001233,0,0,1,0.16899176,0.22797505)" >
+            <g >
+                <g stroke-width="0.999933" id="g27"  gorn="0.2.0.0.0">
+                    <path d="m 106.95871,43.955423 v -1.53359 l 0.17993,-0.179934 0.17993,0.179934 v 1.53359 l -0.17993,0.179934 z m 0,-2.073392 v -1.53359 l 0.17993,-0.182702 0.17993,0.182702 v 1.53359 l -0.17993,0.179934 z m 1.04084,2.073392 v -1.53359 l 0.17994,-0.179934 0.17993,0.179934 v 1.53359 l -0.17993,0.179934 z m 0,-2.073392 v -1.265073 l 0.17994,-0.179934 0.17993,0.179934 v 1.265073 l -0.17993,0.179934 z m 0.27129,-1.53359 0.17993,-0.179933 h 1.26231 l 0.17993,0.179933 -0.17993,0.179934 h -1.26231 z m 1.53359,3.606982 v -1.53359 l 0.17993,-0.179934 0.17994,0.179934 v 1.53359 l -0.17994,0.179934 z m 0,-2.073392 v -1.265073 l 0.17993,-0.179934 0.17994,0.179934 v 1.265073 l -0.17994,0.179934 z" stroke="none" id="path25" style="stroke-width:0.999933"  fill="#000000" gorn="0.2.0.0.0.0"/>
+                    <path d="m 107.0293,49.348475 0.17993,-0.179934 h 1.09068 l 0.1827,0.179934 -0.1827,0.179934 h -1.09068 z m 1.35088,1.350888 v -1.06853 l 0.17994,-0.179934 0.17993,0.179934 v 1.06853 l -0.17993,0.182702 z m 0,-1.6111 v -1.090676 l 0.17994,-0.179934 0.17993,0.179934 v 1.090676 l -0.17993,0.182702 z m 0.28236,0.260212 0.17994,-0.179934 h 1.06853 l 0.1827,0.179934 -0.1827,0.179934 h -1.06853 z" stroke="none" id="path26" style="stroke-width:0.999933"  fill="#000000" gorn="0.2.0.0.0.1"/>
+                    <path d="m 107.75042,56.552484 0.17993,-0.182702 h 1.26231 l 0.17993,0.182702 -0.17993,0.179934 h -1.26231 z" stroke="none" id="path27" style="stroke-width:0.999933"  fill="#000000" gorn="0.2.0.0.0.2"/>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(2.0658949,1.1610815)" >
+            <g >
+                <g id="display"  gorn="0.2.1.0.0">
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 97.176532,44.875895 v -1.112822 l 1.079603,-1.096212 1.079603,1.096212 v 1.112822 l -1.079603,1.079603 z" stroke="none" id="path24"  fill="#000000" gorn="0.2.1.0.0.0.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 90.931444,32.418937 v -7.573831 l 1.079603,-1.079603 1.079603,1.079603 v 7.573831 l -1.079603,1.079603 z" stroke="none" id="path23"  fill="#000000" gorn="0.2.1.0.0.1.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 90.931444,43.248185 v -7.57383 l 1.079603,-1.079603 1.079603,1.079603 v 7.57383 l -1.079603,1.079604 z" stroke="none" id="path22"  fill="#000000" gorn="0.2.1.0.0.2.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 81.729904,23.217397 1.079603,-1.079603 h 7.573831 l 1.079603,1.079603 -1.079603,1.079603 h -7.573831 z" stroke="none" id="path21"  fill="#000000" gorn="0.2.1.0.0.3.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 81.729904,34.046646 1.079603,-1.079603 h 7.573831 l 1.079603,1.079603 -1.079603,1.079603 h -7.573831 z" stroke="none" id="path20"  fill="#000000" gorn="0.2.1.0.0.4.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 81.729904,44.875895 1.079603,-1.096213 h 7.573831 l 1.079603,1.096213 -1.079603,1.079603 h -7.573831 z" stroke="none" id="path19"  fill="#000000" gorn="0.2.1.0.0.5.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 80.102195,32.418937 v -7.573831 l 1.079603,-1.079603 1.079603,1.079603 v 7.573831 l -1.079603,1.079603 z" stroke="none" id="path18"  fill="#000000" gorn="0.2.1.0.0.6.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 80.102195,43.248185 v -7.57383 l 1.079603,-1.079603 1.079603,1.079603 v 7.57383 l -1.079603,1.079604 z" stroke="none" id="path16"  fill="#000000" gorn="0.2.1.0.0.7.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 73.857104,44.875895 v -1.112822 l 1.079603,-1.096212 1.079603,1.096212 v 1.112822 l -1.079603,1.079603 z" stroke="none" id="path15"  fill="#000000" gorn="0.2.1.0.0.8.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 67.612018,32.418937 v -7.573831 l 1.079603,-1.079603 1.079603,1.079603 v 7.573831 l -1.079603,1.079603 z" stroke="none" id="path14"  fill="#000000" gorn="0.2.1.0.0.9.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 67.612018,43.248185 v -7.57383 l 1.079603,-1.079603 1.079603,1.079603 v 7.57383 l -1.079603,1.079604 z" stroke="none" id="path13"  fill="#000000" gorn="0.2.1.0.0.10.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 58.410478,23.217397 1.079603,-1.079603 h 7.573831 l 1.079603,1.079603 -1.079603,1.079603 h -7.573831 z" stroke="none" id="path12"  fill="#000000" gorn="0.2.1.0.0.11.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 58.410478,34.046646 1.079603,-1.079603 h 7.573831 l 1.079603,1.079603 -1.079603,1.079603 h -7.573831 z" stroke="none" id="path11"  fill="#000000" gorn="0.2.1.0.0.12.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 58.410478,44.875895 1.079603,-1.096213 h 7.573831 l 1.079603,1.096213 -1.079603,1.079603 h -7.573831 z" stroke="none" id="path10"  fill="#000000" gorn="0.2.1.0.0.13.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 56.782769,32.418937 v -7.573831 l 1.079603,-1.079603 1.079603,1.079603 v 7.573831 l -1.079603,1.079603 z" stroke="none" id="path9"  fill="#000000" gorn="0.2.1.0.0.14.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 56.782769,43.248185 v -7.57383 l 1.079603,-1.079603 1.079603,1.079603 v 7.57383 l -1.079603,1.079604 z" stroke="none" id="path8"  fill="#000000" gorn="0.2.1.0.0.15.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 50.537681,44.875895 v -1.112822 l 1.079603,-1.096212 1.079603,1.096212 v 1.112822 l -1.079603,1.079603 z" stroke="none" id="path7"  fill="#000000" gorn="0.2.1.0.0.16.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 44.292593,32.418937 v -7.573831 l 1.079603,-1.079603 1.079603,1.079603 v 7.573831 l -1.079603,1.079603 z" stroke="none" id="path6"  fill="#000000" gorn="0.2.1.0.0.17.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 44.292593,43.248185 v -7.57383 l 1.079603,-1.079603 1.079603,1.079603 v 7.57383 l -1.079603,1.079604 z" stroke="none" id="path5"  fill="#000000" gorn="0.2.1.0.0.18.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 35.091053,23.217397 1.079603,-1.079603 h 7.57383 L 44.82409,23.217397 43.744486,24.297 h -7.57383 z" stroke="none" id="path4"  fill="#000000" gorn="0.2.1.0.0.19.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 35.091053,34.046646 1.079603,-1.079603 h 7.57383 l 1.079604,1.079603 -1.079604,1.079603 h -7.57383 z" stroke="none" id="path3"  fill="#000000" gorn="0.2.1.0.0.20.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 35.091053,44.875895 1.079603,-1.096213 h 7.57383 l 1.079604,1.096213 -1.079604,1.079603 h -7.57383 z" stroke="none" id="path2"  fill="#000000" gorn="0.2.1.0.0.21.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 33.463344,32.418937 v -7.573831 l 1.079603,-1.079603 1.079603,1.079603 v 7.573831 l -1.079603,1.079603 z" stroke="none" id="path1"  fill="#000000" gorn="0.2.1.0.0.22.0.0"/>
+                        </g>
+                    </g>
+                    <g transform="skewX(-10.493198)" >
+                        <g >
+                            <path d="m 33.463344,43.248185 v -7.57383 l 1.079603,-1.079603 1.079603,1.079603 v 7.57383 l -1.079603,1.079604 z" stroke="none" id="path39843"  fill="#000000" gorn="0.2.1.0.0.23.0.0"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path d="M -2.534894e-4,0 V 0.7086616 H 120.81522 V 0 Z" stroke="none" id="path17"  fill="#000000" gorn="0.2.2"/>
+        <path d="M -2.4776735e-4,0 V 70.415456 H 0.70841373 V 0 Z" stroke="none" id="path17-4"  fill="#000000" gorn="0.2.3"/>
+        <path d="M 120.10656,-4.6869312e-7 V 70.415456 h 0.70866 V -4.6869312e-7 Z" stroke="none" id="path17-4-5"  fill="#000000" gorn="0.2.4"/>
+        <path d="m -2.5791544e-4,69.706794 v 0.708661 H 120.81522 v -0.708661 z" stroke="none" id="path17-7"  fill="#000000" gorn="0.2.5"/>
+    </g>
+    <g id="copper0"  gorn="0.3">
+        <g id="copper1"  gorn="0.3.0">
+            <g transform="rotate(-90)" >
+                <g >
+                    <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="-56.808018" id="connector0pin"  fill="none" cy="42.407787" gorn="0.3.0.0.0.0"/>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="-56.808018" id="connector1pin"  fill="none" cy="49.607788" gorn="0.3.0.1.0.0"/>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="-56.808018" id="connector2pin"  fill="none" cy="56.807789" gorn="0.3.0.2.0.0"/>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="-56.808018" id="connector3pin"  fill="none" cy="64.007782" gorn="0.3.0.3.0.0"/>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="-56.808018" id="connector4pin"  fill="none" cy="71.207787" gorn="0.3.0.4.0.0"/>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="-56.808018" id="connector5pin"  fill="none" cy="78.407791" gorn="0.3.0.5.0.0"/>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="-13.608004" id="connector6pin"  fill="none" cy="42.407787" gorn="0.3.0.6.0.0"/>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="-13.608004" id="connector7pin"  fill="none" cy="49.607788" gorn="0.3.0.7.0.0"/>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="-13.608004" id="connector8pin"  fill="none" cy="56.807789" gorn="0.3.0.8.0.0"/>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="-13.608004" id="connector9pin"  fill="none" cy="64.007782" gorn="0.3.0.9.0.0"/>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="-13.608004" id="connector10pin"  fill="none" cy="71.207787" gorn="0.3.0.10.0.0"/>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="-13.608004" id="connector11pin"  fill="none" cy="78.407791" gorn="0.3.0.11.0.0"/>
+                </g>
+            </g>
+            <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="114.40781" id="connector12pin"  fill="none" cy="42.408016" gorn="0.3.0.12"/>
+            <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="114.40781" id="connector13pin"  fill="none" cy="49.608017" gorn="0.3.0.13"/>
+            <circle r="2.0880001" stroke-width="1.44" stroke="#ffbf00" cx="114.40781" id="connector14pin"  fill="none" cy="56.808014" gorn="0.3.0.14"/>
+        </g>
+    </g>
+</svg>

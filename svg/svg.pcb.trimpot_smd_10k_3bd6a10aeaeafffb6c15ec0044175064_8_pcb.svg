@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 21.5 15.999691" id="svg4" height="4.0640001mm" version="1.1" width="5.461mm" gorn="0">
+    <desc >
+        <referenceFile >trimpot-smd.svg</referenceFile>
+    </desc>
+    <g transform="translate(-4029.5,-3026.8)" >
+        <g >
+            <g >
+                <defs  id="defs4"/>
+                <g  id="silkscreen" gorn="0.1.0.0.1">
+                    <path d="m 4050.2133,3041.2245 c -0.3586,0 -0.6617,0.2397 -0.7568,0.5676 v 0.4395 c 0.095,0.3279 0.3982,0.5676 0.7568,0.5676 0.4348,0 0.7873,-0.3525 0.7874,-0.7874 -1e-4,-0.4348 -0.3526,-0.7873 -0.7874,-0.7873 z"  stroke="none" id="path12" stroke-opacity="1" fill="#000000" fill-opacity="1" gorn="0.1.0.0.1.0"/>
+                    <path d="m 4030.1653,3026.7998 v 1.7009 h 19.2912 v -1.7009 z"  stroke="none" id="path11" stroke-opacity="1" fill="#000000" fill-opacity="1" gorn="0.1.0.0.1.1"/>
+                    <path d="m 4029.5,3026.7998 v 14.2985 h 0.6653 v -14.2985 z"  stroke="none" id="path10" stroke-opacity="1" fill="#000000" fill-opacity="1" gorn="0.1.0.0.1.2"/>
+                    <path d="m 4049.4565,3026.7998 v 14.2985 h 1.5442 v -14.2985 z"  stroke="none" id="path9" stroke-opacity="1" fill="#000000" fill-opacity="1" gorn="0.1.0.0.1.3"/>
+                    <path d="m 4029.5,3041.0983 v 1.7009 h 19.9565 v -1.7009 z"  stroke="none" id="path8" stroke-opacity="1" fill="#000000" fill-opacity="1" gorn="0.1.0.0.1.4"/>
+                    <path d="m 4039.758,3032.3622 v 1.945 h 0.9847 v -1.945 z m 0,2.9297 v 1.947 h 0.9847 v -1.947 z"  stroke="none" id="path7" stroke-opacity="1" fill="#000000" fill-opacity="1" gorn="0.1.0.0.1.5"/>
+                    <path d="m 4037.9859,3034.3072 v 0.9847 h 4.5288 v -0.9847 z"  stroke="none" id="path6" stroke-opacity="1" fill="#000000" fill-opacity="1" gorn="0.1.0.0.1.6"/>
+                </g>
+                <g transform="translate(-9.5,-15.200396)" >
+                    <g >
+                        <g  id="copper1" gorn="0.1.0.0.2.0.0">
+                            <path d="m 4047.539,3053.0005 h -7.874 v -6 h 7.874 z" stroke-width="1"  stroke="0" id="connector1pad" fill="#ffc000" gorn="0.1.0.0.2.0.0.0"/>
+                            <path d="m 4058.9571,3043.7013 v 4.7244 h -5.1182 v -4.7244 z"  stroke="none" id="connector2pad" fill="#ffc000" gorn="0.1.0.0.2.0.0.1"/>
+                            <path d="m 4058.9571,3051.5753 v 4.7244 h -5.1182 v -4.7244 z"  stroke="none" id="connector0pad" fill="#ffc000" gorn="0.1.0.0.2.0.0.2"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

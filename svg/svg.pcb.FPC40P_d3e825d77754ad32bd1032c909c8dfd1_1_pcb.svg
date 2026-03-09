@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24.879999mm"
+   viewBox="0 0 97.952752 25.570865"
+   gorn="0"
+   version="1.1"
+   id="svg43"
+   height="6.4949999mm"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <defs
+       id="defs43" />
+  </defs>
+  <desc
+     id="desc1">
+    <referenceFile>FPC40P_2adeb27135188aca07bbc32bc4111ceb_15_pcb.svg</referenceFile>
+  </desc>
+  <g
+     gorn="0.0.0.1.0"
+     id="copper1"
+     transform="translate(-4001.0239,-3041.9782)">
+    <path
+       d="m 4098.9767,3063.424 h -7.874 v -13.2763 h 7.874 z"
+       gorn="0.0.0.1.0.0"
+       stroke="none"
+       id="nonconn0"
+       fill="#ffc000"
+       style="stroke-width:1.1614" />
+    <path
+       d="m 4008.8979,3063.424 h -7.874 v -13.2763 h 7.874 z"
+       gorn="0.0.0.1.0.1"
+       stroke="none"
+       id="nonconn1"
+       fill="#ffc000"
+       style="stroke-width:1.1614" />
+    <path
+       d="m 4088.9771,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.2"
+       stroke="none"
+       id="connector40pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4087.0081,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.3"
+       stroke="none"
+       id="connector39pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4085.0401,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.4"
+       stroke="none"
+       id="connector38pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4083.0711,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.5"
+       stroke="none"
+       id="connector37pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4081.1031,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.6"
+       stroke="none"
+       id="connector36pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4079.1341,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.7"
+       stroke="none"
+       id="connector35pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4077.1661,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.8"
+       stroke="none"
+       id="connector34pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4075.1971,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.9"
+       stroke="none"
+       id="connector33pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4073.2291,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.10"
+       stroke="none"
+       id="connector32pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4071.2601,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.11"
+       stroke="none"
+       id="connector31pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4069.2921,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.12"
+       stroke="none"
+       id="connector30pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4067.3231,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.13"
+       stroke="none"
+       id="connector29pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4065.3551,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.14"
+       stroke="none"
+       id="connector28pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4063.3861,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.15"
+       stroke="none"
+       id="connector27pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4061.4181,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.16"
+       stroke="none"
+       id="connector26pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4059.4491,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.17"
+       stroke="none"
+       id="connector25pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="M 4057.4811,3050.1477 H 4056.3 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.18"
+       stroke="none"
+       id="connector24pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4055.5121,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.19"
+       stroke="none"
+       id="connector23pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4053.5441,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.20"
+       stroke="none"
+       id="connector22pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4051.5751,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.21"
+       stroke="none"
+       id="connector21pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4049.6071,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.22"
+       stroke="none"
+       id="connector20pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4047.6381,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.23"
+       stroke="none"
+       id="connector19pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4045.6701,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.24"
+       stroke="none"
+       id="connector18pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4043.7011,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.25"
+       stroke="none"
+       id="connector17pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4041.7331,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.26"
+       stroke="none"
+       id="connector16pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4039.7641,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.27"
+       stroke="none"
+       id="connector15pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4037.7961,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.28"
+       stroke="none"
+       id="connector14pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4035.8271,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.29"
+       stroke="none"
+       id="connector13pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4033.8591,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.30"
+       stroke="none"
+       id="connector12pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4031.8901,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.31"
+       stroke="none"
+       id="connector11pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4029.9221,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.32"
+       stroke="none"
+       id="connector10pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4027.9531,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.33"
+       stroke="none"
+       id="connector9pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4025.9851,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.34"
+       stroke="none"
+       id="connector8pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4024.0161,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.35"
+       stroke="none"
+       id="connector7pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4022.0481,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.36"
+       stroke="none"
+       id="connector6pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4020.0791,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.37"
+       stroke="none"
+       id="connector5pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4018.1111,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.38"
+       stroke="none"
+       id="connector4pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4016.1421,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.39"
+       stroke="none"
+       id="connector3pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4014.1741,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.40"
+       stroke="none"
+       id="connector2pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+    <path
+       d="m 4012.2051,3050.1477 h -1.1811 v -8.1695 h 1.1811 z"
+       gorn="0.0.0.1.0.41"
+       stroke="none"
+       id="connector1pad"
+       fill="#ffc000"
+       style="stroke-width:1.17616" />
+  </g>
+  <g
+     id="silkscreen"
+     transform="translate(-3991,-3025.5)">
+    <path
+       d="m 3993.716,3046.9458 a 0.50000675,0.50000675 0 0 0 -0.5001,0.5 v 3.1251 a 0.50005675,0.50005675 0 0 0 0.5001,0.5 h 92.5208 a 0.50005675,0.50005675 0 0 0 0.5,-0.5 v -3.1251 a 0.50000675,0.50000675 0 0 0 -0.5,-0.5 0.50000675,0.50000675 0 0 0 -0.5,0.5 v 2.6251 h -91.5208 v -2.6251 a 0.50000675,0.50000675 0 0 0 -0.5,-0.5 z"
+       id="gge37"
+       fill="#000000"
+       stroke="none" />
+    <path
+       id="gge40"
+       d="m 4079.8631,3028.6128 a 0.50000675,0.50000675 0 0 0 -0.5005,0.5005 0.50000675,0.50000675 0 0 0 0.5005,0.5005 h 3.3143 v 1.4689 a 0.50005675,0.50005675 0 0 0 0.5004,0.5005 h 2.0589 v 2.0853 h 1.001 v -2.5858 a 0.50005675,0.50005675 0 0 0 -0.5005,-0.5005 h -2.0589 v -1.4689 a 0.50005675,0.50005675 0 0 0 -0.5005,-0.5005 z"
+       fill="#000000"
+       stroke="none" />
+    <path
+       id="gge43"
+       d="m 3996.0802,3028.6128 a 0.50005675,0.50005675 0 0 0 -0.5005,0.5005 v 1.4689 h -1.8636 a 0.50005675,0.50005675 0 0 0 -0.5006,0.5005 v 1.772 a 0.50000675,0.50000675 0 0 0 0.5006,0.4985 0.50000675,0.50000675 0 0 0 0.5005,-0.4985 v -1.2715 h 1.8636 a 0.50005675,0.50005675 0 0 0 0.4984,-0.5005 v -1.4689 h 3.5095 a 0.50000675,0.50000675 0 0 0 0.5005,-0.5005 0.50000675,0.50000675 0 0 0 -0.5005,-0.5005 z"
+       fill="#000000"
+       stroke="none" />
+    <path
+       id="path1"
+       d="m 4088.9528,3027.4686 a 1.9684928,1.9684928 0 0 1 -1.9684,1.9684 1.9684928,1.9684928 0 0 1 -1.9686,-1.9684 1.9684928,1.9684928 0 0 1 1.9686,-1.9686 1.9684928,1.9684928 0 0 1 1.9684,1.9686 z"
+       fill="#000000"
+       stroke="none" />
+  </g>
+</svg>

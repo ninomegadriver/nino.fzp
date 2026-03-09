@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="10.254mm" viewBox="0 0 40.369025 40.370077" id="svg32908"  height="10.254mm" gorn="0">
+    <desc >
+        <referenceFile >AV-5.svg</referenceFile>
+    </desc>
+    <g transform="translate(-4019.8,-3018.1)" >
+        <g >
+            <g >
+                <defs id="defs32912" />
+                <g id="silkscreen"  gorn="0.1.0.0.1">
+                    <rect y="3018.4333" ry="2.7483354" style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.91477;paint-order:markers stroke fill" width="39.703381" stroke-width="0.666694" fill="none" id="rect38315" stroke="#000000"  height="39.703384" stroke-opacity="1" gorn="0.1.0.0.1.0" x="4020.1328"/>
+                </g>
+                <g id="g39708"  gorn="0.1.0.0.2">
+                    <g transform="translate(-0.8940466,-16.956556)" >
+                        <g >
+                            <g id="copper1"  gorn="0.1.0.0.2.0.0.0">
+                                <g id="connector1pin"  gorn="0.1.0.0.2.0.0.0.0">
+                                    <circle r="3" cx="4040.8667" cy="3039.9377" style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.91477;paint-order:markers stroke fill" stroke-width="1.9685" fill="none" id="path35082" stroke="#fdde68"  stroke-opacity="1" gorn="0.1.0.0.2.0.0.0.0.0"/>
+                                    <circle r="3" cx="4040.905" cy="3044.5684" style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.91477;paint-order:markers stroke fill;shape-rendering:crispEdges" stroke-width="1.9685" fill="none" id="path35082-5" stroke="#fdde68"  stroke-opacity="1" gorn="0.1.0.0.2.0.0.0.0.1"/>
+                                    <circle r="3" cx="4040.8723" cy="3042.395" style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.91477;paint-order:markers stroke fill;shape-rendering:crispEdges" stroke-width="1.9685" fill="none" id="connector0pad" stroke="#fdde68"  stroke-opacity="1" gorn="0.1.0.0.2.0.0.0.0.2"/>
+                                </g>
+                                <g id="connector0pin"  gorn="0.1.0.0.2.0.0.0.1">
+                                    <circle r="4" cx="4038.8237" cy="3057.634" style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.91477;paint-order:markers stroke fill;shape-rendering:crispEdges" stroke-width="1.9685" fill="none" id="path35082-56" stroke="#fdde68"  stroke-opacity="1" gorn="0.1.0.0.2.0.0.0.1.0"/>
+                                    <circle r="4" cx="4042.9036" cy="3057.6353" style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.91477;paint-order:markers stroke fill;shape-rendering:crispEdges" stroke-width="1.9685" fill="none" id="path35082-56-2" stroke="#fdde68"  stroke-opacity="1" gorn="0.1.0.0.2.0.0.0.1.1"/>
+                                    <circle r="4" cx="4040.9863" cy="3057.7412" style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.91477;paint-order:markers stroke fill;shape-rendering:crispEdges" stroke-width="1.9685" fill="none" id="connector1pad" stroke="#fdde68"  stroke-opacity="1" gorn="0.1.0.0.2.0.0.0.1.2"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

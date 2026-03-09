@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" height="0.322in" y="0in" id="svg56" width="0.406in"  x="0in" viewBox="0 0 29.232 23.184" gorn="0">
+    <desc id="desc1157" >
+        <referenceFile >SOIC-16-com-folga.svg</referenceFile>
+    </desc>
+    <defs id="defs60" />
+    <g transform="matrix(1,0,0,0.93665079,0,0.73434406)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g id="g1185"  gorn="0.2.0.0.0.0.0.0">
+                                <g id="g1183"  gorn="0.2.0.0.0.0.0.0.0">
+                                    <g id="g1181"  gorn="0.2.0.0.0.0.0.0.0.0">
+                                        <g id="silkscreen" stroke-width="0"  gorn="0.2.0.0.0.0.0.0.0.0.0" stroke="#000000" stroke-opacity="1">
+                                            <g transform="matrix(1,0,0,0.78203662,-1.0950668e-7,2.526632)" >
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g id="g1176"  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                        <g id="g1174"  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                            <g id="g1172"  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                <g id="g1464" stroke-width="0"  gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                    <line y2="6.0479999" stroke-linecap="round" id="line25" stroke-width="0.504757"  style="stroke:#000000;stroke-opacity:1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffffff" x2="1.296" y1="6.0479999" x1="27.936001"/>
+                                                                                    <path id="path27" stroke-width="0.504757"  style="stroke:#000000;stroke-opacity:1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1" stroke="#ffffff" fill="none" d="m 27.936,17.136 a 1.08,1.08 0 0 0 1.08,-1.08"/>
+                                                                                    <path id="path29" stroke-width="0.504757"  style="stroke:#000000;stroke-opacity:1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2" stroke="#ffffff" fill="none" d="m 1.296,6.048 a 1.08,1.08 0 0 0 -1.08,1.08"/>
+                                                                                    <path id="path31" stroke-width="0.504757"  style="stroke:#000000;stroke-opacity:1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3" stroke="#ffffff" fill="none" d="m 29.016,7.128 a 1.08,1.08 0 0 0 -1.08,-1.08"/>
+                                                                                    <path id="path33" stroke-width="0.504757"  style="stroke:#000000;stroke-opacity:1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4" stroke="#ffffff" fill="none" d="m 0.216,16.056 a 1.08,1.08 0 0 0 1.08,1.08"/>
+                                                                                    <line y2="17.136" stroke-linecap="round" id="line35" stroke-width="0.504757"  style="stroke:#000000;stroke-opacity:1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5" stroke="#ffffff" x2="27.936001" y1="17.136" x1="1.296"/>
+                                                                                    <line y2="7.1279998" stroke-linecap="round" id="line37" stroke-width="0.504757"  style="stroke:#000000;stroke-opacity:1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6" stroke="#ffffff" x2="29.016001" y1="16.056" x1="29.016001"/>
+                                                                                    <line y2="10.152" stroke-linecap="round" id="line39" stroke-width="0.504757"  style="stroke:#000000;stroke-opacity:1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7" stroke="#ffffff" x2="0.21600001" y1="7.1279998" x1="0.21600001"/>
+                                                                                    <line y2="13.032" stroke-linecap="round" id="line41" stroke-width="0.504757"  style="stroke:#000000;stroke-opacity:1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8" stroke="#ffffff" x2="0.21600001" y1="10.152" x1="0.21600001"/>
+                                                                                    <line y2="16.056" stroke-linecap="round" id="line43" stroke-width="0.504757"  style="stroke:#000000;stroke-opacity:1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.9" stroke="#ffffff" x2="0.21600001" y1="13.032" x1="0.21600001"/>
+                                                                                    <line y2="16.128" stroke-linecap="round" id="line47" stroke-width="0.168253"  style="stroke:#000000;stroke-opacity:1" gorn="0.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.10" stroke="#ffffff" x2="29.016001" y1="16.128" x1="0.21600001"/>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <path id="path45" stroke-width="0.44637"  style="stroke:#000000;stroke-opacity:1" gorn="0.2.0.0.0.0.0.0.0.0.0.1" stroke="#ffffff" fill="none" d="m 0.216,13.032 a 1.44,1.44 0 1 0 0,-2.88"/>
+                                            <path id="path1488" stroke-width="0"  gorn="0.2.0.0.0.0.0.0.0.0.0.2" stroke="none" d="M 0.992126,23.438396 A 0.496063,0.52961396 0 0 1 0.49606307,23.968011 0.496063,0.52961396 0 0 1 0,23.438396 0.496063,0.52961396 0 0 1 0.49606307,22.908784 0.496063,0.52961396 0 0 1 0.992126,23.438396 Z"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="copper1" stroke-width="0"  gorn="0.3">
+        <rect height="7.0866141" y="16.097387" id="nonconn0" stroke-width="0" width="5.4720006"  x="22.68" gorn="0.3.0" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="16.097387" id="connector0pad" stroke-width="0" width="1.872"  x="1.08" gorn="0.3.1" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="16.097387" id="connector1pad" stroke-width="0" width="1.872"  x="4.6799998" gorn="0.3.2" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="16.097387" id="connector2pad" stroke-width="0" width="1.872"  x="8.2799997" gorn="0.3.3" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="16.097387" id="connector3pad" stroke-width="0" width="1.872"  x="11.88" gorn="0.3.4" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="16.097387" id="connector4pad" stroke-width="0" width="1.872"  x="15.48" gorn="0.3.5" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="16.097387" id="connector5pad" stroke-width="0" width="1.872"  x="19.08" gorn="0.3.6" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="16.097387" id="connector6pad" stroke-width="0" width="1.872"  x="22.68" gorn="0.3.7" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="16.097387" id="connector7pad" stroke-width="0" width="1.872"  x="26.280001" gorn="0.3.8" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="0" id="connector8pad" stroke-width="0" width="1.872"  x="26.280001" gorn="0.3.9" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="0" id="connector9pad" stroke-width="0" width="1.872"  x="22.68" gorn="0.3.10" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="0" id="connector10pad" stroke-width="0" width="1.872"  x="19.08" gorn="0.3.11" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="0" id="connector11pad" stroke-width="0" width="1.872"  x="15.48" gorn="0.3.12" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="0" id="connector12pad" stroke-width="0" width="1.872"  x="11.88" gorn="0.3.13" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="0" id="connector13pad" stroke-width="0" width="1.872"  x="8.2799997" gorn="0.3.14" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="0" id="connector14pad" stroke-width="0" width="1.872"  x="4.6799998" gorn="0.3.15" stroke="none" fill="#f7bd13"/>
+        <rect height="7.0866141" y="0" id="connector15pad" stroke-width="0" width="1.872"  x="1.08" gorn="0.3.16" stroke="none" fill="#f7bd13"/>
+    </g>
+</svg>

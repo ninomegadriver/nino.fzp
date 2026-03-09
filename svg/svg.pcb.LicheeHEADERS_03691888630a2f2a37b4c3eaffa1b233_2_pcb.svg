@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="26.2mm" text-rendering="geometricPrecision" version="1.0" shape-rendering="geometricPrecision" xml:space="preserve" image-rendering="optimizeQuality" fill-rule="evenodd" width="44.654mm" clip-rule="evenodd"  xmlns:xml="http://www.w3.org/XML/1998/namespace" viewBox="0 0 4465.4 2620">
+    <desc>
+        <referenceFile>LicheeHEADERS_20fe3d9059cab8d8b4db07bd3836f6f0_4_pcb.svg</referenceFile>
+    </desc>
+    <g id="copper1" gorn="0.0" >
+        <g id="copper0" gorn="0.0.0" >
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 4313 40.0001)" >
+                <circle r="40" id="connector0pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.0.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 4186 40.0001)" >
+                <circle r="40" id="connector1pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.1.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 4059 40.0001)" >
+                <circle r="40" id="connector2pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.2.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3932 40.0001)" >
+                <circle r="40" id="connector3pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.3.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3805 40.0001)" >
+                <circle r="40" id="connector4pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.4.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3678 40.0001)" >
+                <circle r="40" id="connector5pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.5.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3551 40.0001)" >
+                <circle r="40" id="connector6pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.6.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3424 40.0001)" >
+                <circle r="40" id="connector7pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.7.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3297 40.0001)" >
+                <circle r="40" id="connector8pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.8.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3170 40.0001)" >
+                <circle r="40" id="connector9pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.9.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3043 40.0001)" >
+                <circle r="40" id="connector10pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.10.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2916 40.0001)" >
+                <circle r="40" id="connector11pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.11.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2789 40.0001)" >
+                <circle r="40" id="connector12pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.12.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2662 40.0001)" >
+                <circle r="40" id="connector13pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.13.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2535 40.0001)" >
+                <circle r="40" id="connector14pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.14.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2408 40.0001)" >
+                <circle r="40" id="connector15pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.15.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2281 40.0001)" >
+                <circle r="40" id="connector16pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.16.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2154 40.0001)" >
+                <circle r="40" id="connector17pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.17.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2027 40.0001)" >
+                <circle r="40" id="connector18pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.18.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1900 40.0001)" >
+                <circle r="40" id="connector19pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.19.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1773 40.0001)" >
+                <circle r="40" id="connector20pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.20.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1646 40.0001)" >
+                <circle r="40" id="connector21pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.21.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1519 40.0001)" >
+                <circle r="40" id="connector22pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.22.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1392 40.0001)" >
+                <circle r="40" id="connector23pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.23.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1265 40.0001)" >
+                <circle r="40" id="connector24pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.24.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1138 40.0001)" >
+                <circle r="40" id="connector25pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.25.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1011 40.0001)" >
+                <circle r="40" id="connector26pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.26.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 884 40.0001)" >
+                <circle r="40" id="connector27pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.27.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 757 40.0001)" >
+                <circle r="40" id="connector28pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.28.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 630 40.0001)" >
+                <circle r="40" id="connector29pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.29.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 4313 167)" >
+                <circle r="73.66" id="connector30pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.30.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 4059 167)" >
+                <circle r="73.66" id="connector31pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.31.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3805 167)" >
+                <circle r="73.66" id="connector32pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.32.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3551 167)" >
+                <circle r="73.66" id="connector33pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.33.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3297 167)" >
+                <circle r="73.66" id="connector34pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.34.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3043 167)" >
+                <circle r="73.66" id="connector35pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.35.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2789 167)" >
+                <circle r="73.66" id="connector36pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.36.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2535 167)" >
+                <circle r="73.66" id="connector37pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.37.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2281 167)" >
+                <circle r="73.66" id="connector38pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.38.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2027 167)" >
+                <circle r="73.66" id="connector39pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.39.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1773 167)" >
+                <circle r="73.66" id="connector40pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.40.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1519 167)" >
+                <circle r="73.66" id="connector41pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.41.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1265 167)" >
+                <circle r="73.66" id="connector42pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.42.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1011 167)" >
+                <circle r="73.66" id="connector43pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.43.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 757 167)" >
+                <circle r="73.66" id="connector44pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.44.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 4313 2580)" >
+                <circle r="40" id="connector45pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.45.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 4186 2580)" >
+                <circle r="40" id="connector46pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.46.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 4059 2580)" >
+                <circle r="40" id="connector47pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.47.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3932 2580)" >
+                <circle r="40" id="connector48pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.48.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3805 2580)" >
+                <circle r="40" id="connector49pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.49.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3678 2580)" >
+                <circle r="40" id="connector50pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.50.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3551 2580)" >
+                <circle r="40" id="connector51pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.51.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3424 2580)" >
+                <circle r="40" id="connector52pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.52.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3297 2580)" >
+                <circle r="40" id="connector53pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.53.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3170 2580)" >
+                <circle r="40" id="connector54pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.54.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3043 2580)" >
+                <circle r="40" id="connector55pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.55.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2916 2580)" >
+                <circle r="40" id="connector56pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.56.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2789 2580)" >
+                <circle r="40" id="connector57pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.57.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2662 2580)" >
+                <circle r="40" id="connector58pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.58.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2535 2580)" >
+                <circle r="40" id="connector59pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.59.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2408 2580)" >
+                <circle r="40" id="connector60pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.60.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2281 2580)" >
+                <circle r="40" id="connector61pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.61.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2154 2580)" >
+                <circle r="40" id="connector62pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.62.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2027 2580)" >
+                <circle r="40" id="connector63pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.63.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1900 2580)" >
+                <circle r="40" id="connector64pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.64.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1773 2580)" >
+                <circle r="40" id="connector65pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.65.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1646 2580)" >
+                <circle r="40" id="connector66pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.66.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1519 2580)" >
+                <circle r="40" id="connector67pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.67.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1392 2580)" >
+                <circle r="40" id="connector68pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.68.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1265 2580)" >
+                <circle r="40" id="connector69pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.69.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1138 2580)" >
+                <circle r="40" id="connector70pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.70.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1011 2580)" >
+                <circle r="40" id="connector71pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.71.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 884 2580)" >
+                <circle r="40" id="connector72pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.72.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 757 2580)" >
+                <circle r="40" id="connector73pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.73.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 630 2580)" >
+                <circle r="40" id="connector74pin" fill="none" stroke-miterlimit="2.61313" stroke-width="20" stroke="#FFBF00" gorn="0.0.0.74.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 4313 2453)" >
+                <circle r="73.66" id="connector75pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.75.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 4059 2453)" >
+                <circle r="73.66" id="connector76pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.76.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3805 2453)" >
+                <circle r="73.66" id="connector77pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.77.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3551 2453)" >
+                <circle r="73.66" id="connector78pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.78.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3297 2453)" >
+                <circle r="73.66" id="connector79pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.79.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 3043 2453)" >
+                <circle r="73.66" id="connector80pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.80.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2789 2453)" >
+                <circle r="73.66" id="connector81pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.81.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2535 2453)" >
+                <circle r="73.66" id="connector82pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.82.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2281 2453)" >
+                <circle r="73.66" id="connector83pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.83.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 2027 2453)" >
+                <circle r="73.66" id="connector84pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.84.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1773 2453)" >
+                <circle r="73.66" id="connector85pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.85.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1519 2453)" >
+                <circle r="73.66" id="connector86pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.86.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1265 2453)" >
+                <circle r="73.66" id="connector87pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.87.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 1011 2453)" >
+                <circle r="73.66" id="connector88pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.88.0" />
+            </g>
+            <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 757 2453)" >
+                <circle r="73.66" id="connector89pin" fill="none" stroke-miterlimit="2.61313" stroke-width="50.8" stroke="#FFBF00" gorn="0.0.0.89.0" />
+            </g>
+        </g>
+    </g>
+    <g id="silkscreen" gorn="0.1" >
+        <path fill="black" d="M-0 27.3l4370.7 0 94.7 94.7 0 2369.2 -94.7 88.8 -4370.7 0 0 -30.4c22.09,0 40,-17.9 40,-40 0,-22.09 -17.91,-40 -39.99,-40l-0.01 0 0 -47c22.09,-0.01 40,-17.91 40,-40 0,-22.1 -17.91,-40 -40,-40l0 -47c22.09,0 40,-17.9 40,-40 0,-22.08 -17.91,-40.01 -40,-40l0 -46.99c22.09,-0.01 40,-17.92 40,-40.01 0,-22.09 -17.91,-40 -40,-40l0 -47c22.09,0 40,-17.91 40.01,-40 -0.01,-22.09 -17.92,-40 -40.01,-40l0 -47c22.09,0 40,-17.91 40,-40 0,-22.08 -17.91,-40 -40,-40l0 -47c22.09,0.01 40,-17.91 39.99,-40 0.01,-22.09 -17.9,-40.01 -39.99,-40.01l0 -46.99c22.09,0 40,-17.91 40,-40 0,-22.09 -17.91,-40 -40,-40l0 -47c22.09,0 40,-17.92 40,-40 0,-22.09 -17.91,-40 -40,-40l0 -47c22.1,-0.01 40,-17.92 40,-40 0,-22.09 -17.91,-40 -40,-40l0 -47.01c22.09,0.02 40,-17.9 40,-39.99 0,-22.1 -17.91,-40 -40,-40l0 -47c22.09,0 40,-17.91 40,-40 -0.01,-22.09 -17.91,-39.99 -40,-40.01l0 -46.99c22.09,0 40,-17.91 40,-40.01 0,-22.08 -17.92,-39.99 -40,-39.99l0 -47c22.09,0 40.01,-17.91 40,-40 0,-22.09 -17.92,-40 -40,-40l0 -47c22.09,-0.01 40,-17.9 40,-40 0,-22.09 -17.9,-39.99 -40,-40l0 -47.01c22.08,0.01 40,-17.9 39.99,-39.99 0.02,-22.09 -17.9,-40 -39.98,-40l-0.01 0 0 -47c22.09,0 40,-17.91 40,-40 0,-22.09 -17.91,-40 -40,-40l0 -47c22.09,0 40,-17.91 40,-40 0,-22.1 -17.9,-39.99 -40,-40l0 -47c22.09,0 40.01,-17.91 40,-40 0,-22.09 -17.91,-40.01 -40,-40l0 -46.99c22.09,-0.01 40,-17.92 40,-40.01 0,-22.09 -17.91,-40 -40,-39.99l0 -29.31zm4362.42 20l-4328.23 0c2.95,2.05 5.7,4.35 8.23,6.88l-0.04 0.04c10.88,10.88 17.62,25.87 17.62,42.36l0 0.02c0,16.56 -6.73,31.57 -17.58,42.42l-0.04 -0.04c-6.24,6.24 -13.87,11.11 -22.38,14.12l0 13.96c8.54,3 16.18,7.87 22.42,14.11 10.85,10.85 17.58,25.85 17.58,42.41l0 0.02 0 0.02 -0.08 0c0.01,16.58 -6.68,31.59 -17.49,42.4 -6.26,6.26 -13.9,11.15 -22.43,14.17l0 13.89c8.55,3 16.19,7.86 22.43,14.1l-0.04 0.04c10.88,10.88 17.61,25.88 17.61,42.38 0,16.56 -6.73,31.57 -17.58,42.42 -6.26,6.26 -13.9,11.14 -22.42,14.16l0 13.84c8.52,3.02 16.16,7.9 22.42,14.16l-0.04 0.04c10.88,10.88 17.62,25.88 17.62,42.38 0,16.56 -6.73,31.57 -17.58,42.42 -6.26,6.26 -13.9,11.14 -22.42,14.16l0 13.89c8.55,3 16.19,7.87 22.43,14.11 10.84,10.84 17.56,25.83 17.56,42.38l0 0.04 0 0.04c0,16.48 -6.74,31.46 -17.61,42.34l0.04 0.04c-6.26,6.26 -13.9,11.14 -22.42,14.16l0 13.84c8.53,3.01 16.17,7.9 22.43,14.16l0 0.08c10.84,10.86 17.57,25.83 17.57,42.34 0,16.51 -6.73,31.48 -17.57,42.34l0 0.08c-6.24,6.24 -13.88,11.1 -22.43,14.1l0 13.9c8.52,3.02 16.16,7.9 22.42,14.16 10.85,10.85 17.58,25.86 17.58,42.42l0 0.02 -0.08 0c0.01,16.58 -6.68,31.59 -17.49,42.4 -6.26,6.26 -13.9,11.15 -22.43,14.17l0 13.83c8.52,3.02 16.16,7.9 22.42,14.16l-0.04 0.04c10.88,10.88 17.62,25.88 17.62,42.37 0,16.57 -6.73,31.58 -17.58,42.43l-0.04 -0.04c-6.26,6.26 -13.89,11.15 -22.38,14.17l0 13.92c8.54,3 16.18,7.87 22.42,14.11 10.85,10.85 17.58,25.86 17.58,42.42 0,16.56 -6.73,31.57 -17.58,42.42 -6.26,6.26 -13.9,11.14 -22.42,14.16l0 13.86c8.49,3.01 16.1,7.89 22.35,14.13l0.08 0.08c10.84,10.86 17.57,25.84 17.57,42.35l0 0.04 -0.08 0c-0.01,16.59 -6.71,31.6 -17.5,42.39 -6.26,6.26 -13.9,11.14 -22.42,14.15l0 13.84c8.52,3.02 16.16,7.9 22.42,14.16 10.85,10.85 17.58,25.86 17.58,42.42 0,16.5 -6.73,31.48 -17.57,42.34l0 0.08c-6.26,6.26 -13.9,11.15 -22.43,14.16l0 13.84c8.52,3.02 16.16,7.9 22.42,14.16 10.85,10.85 17.58,25.86 17.58,42.42 0,16.56 -6.73,31.57 -17.58,42.42 -6.26,6.26 -13.9,11.14 -22.42,14.16l0 13.84c8.52,3.02 16.16,7.9 22.42,14.16 10.85,10.85 17.58,25.86 17.58,42.42 0,16.5 -6.74,31.5 -17.62,42.38l0.04 0.04c-6.26,6.26 -13.9,11.14 -22.42,14.16l0 13.89c8.54,3 16.18,7.86 22.42,14.1l0 0.08c10.84,10.86 17.57,25.83 17.57,42.33l0 0.02 0 0.04c0,16.55 -6.73,31.55 -17.57,42.39 -6.26,6.26 -13.9,11.14 -22.42,14.16l0 13.83c8.52,3.02 16.16,7.9 22.42,14.16 10.85,10.85 17.58,25.86 17.58,42.42 0,16.5 -6.74,31.5 -17.62,42.38l0.04 0.04c-6.26,6.26 -13.9,11.14 -22.42,14.16l0 13.84c8.52,3.02 16.16,7.9 22.42,14.16l-0.04 0.04c10.83,10.83 17.54,25.84 17.55,42.38 -0.01,16.54 -6.72,31.55 -17.55,42.38l0.04 0.04c-6.26,6.26 -13.9,11.14 -22.42,14.16l0 13.84c8.52,3.02 16.16,7.9 22.42,14.16 10.85,10.85 17.58,25.86 17.58,42.42 0,16.56 -6.73,31.57 -17.58,42.42l-0.04 -0.04c-6.24,6.24 -13.87,11.11 -22.38,14.12l0 13.99c8.48,3 16.09,7.86 22.34,14.09l0 0c0.01,0.01 0.03,0.03 0.04,0.04 0.01,0.01 0.03,0.03 0.04,0.04l0 0c10.85,10.87 17.58,25.87 17.58,42.32l0 0.02c0,16.51 -6.73,31.49 -17.57,42.35l-0.08 0.08c-6.25,6.24 -13.86,11.12 -22.35,14.13l0 13.88c8.49,3.01 16.1,7.89 22.35,14.13l0.08 0.08c10.84,10.86 17.57,25.84 17.57,42.35 0,16.5 -6.73,31.48 -17.57,42.34l0 0.08c-6.24,6.24 -13.88,11.1 -22.43,14.1l0 13.9c8.53,3.01 16.17,7.9 22.43,14.16l0 0.08c10.84,10.86 17.57,25.84 17.57,42.34 0,16.51 -6.73,31.49 -17.57,42.35l-0.08 0.08c-2.99,2.99 -6.3,5.66 -9.86,7.97l4330.37 0 82.54 -77.39 0 -2352.33 -82.98 -82.98z" />
+    </g>
+</svg>

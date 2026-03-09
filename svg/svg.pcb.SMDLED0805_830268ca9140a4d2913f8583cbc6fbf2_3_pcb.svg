@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.3340001mm" gorn="0" viewBox="0 0 17.062336 8.520091"  height="2.164mm" id="svg34" version="1.1">
+    <desc >
+        <referenceFile >LED0804.svg</referenceFile>
+    </desc>
+    <g  transform="translate(-4031.7,-3030.6)">
+        <g >
+            <g >
+                <defs  id="defs38"/>
+                <g  transform="matrix(-1,0,0,1,8090.2309,-15.139617)">
+                    <g >
+                        <g gorn="0.1.0.0.1.0.0"  id="copper1">
+                            <g gorn="0.1.0.0.1.0.0.0"  connectorname="cathode - negative" id="connector1pad">
+                                <rect width="4.9111648" gorn="0.1.0.0.1.0.0.0.0" fill="#ffc000" x="4043.571"  y="3046.8499" stroke="none" height="6.2995124" id="rect900"/>
+                                <rect width="3.8726408" gorn="0.1.0.0.1.0.0.0.1" fill="#ffc000" x="4042.5806"  y="3047.8652" stroke="none" height="4.2690916" id="rect900-3"/>
+                            </g>
+                            <rect width="5.3152137" gorn="0.1.0.0.1.0.0.1" fill="#ffc000" x="4052.1006"  y="3046.8499" stroke="none" height="6.2995124" connectorname="positive / anode" id="connector0pad"/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(-1,0,0,1,8089.9949,-15.120305)">
+                    <g >
+                        <g gorn="0.1.0.0.2.0.0"  id="silkscreen">
+                            <path gorn="0.1.0.0.2.0.0.0"  style="line-height:1.05;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;letter-spacing:0px;word-spacing:0px;" stroke-width="0.288651" d="m 4050.7791,3053.741 q 0,0.02 0,0.035 0,0.014 0.01,0.024 0.01,0.01 0.013,0.014 0.01,0 0.016,0 h 0.3495 v 0.3878 q 0,0.01 0,0.015 0,0.01 0.014,0.01 0.01,0 0.023,0.01 0.015,0 0.037,0 0.021,0 0.037,0 0.015,0 0.024,-0.01 0.01,0 0.013,-0.01 0,-0.01 0,-0.015 v -0.3878 h 0.3494 q 0.01,0 0.017,0 0.01,0 0.012,-0.014 0.01,-0.01 0.01,-0.024 0,-0.015 0,-0.035 0,-0.019 0,-0.033 0,-0.015 -0.01,-0.024 -0.01,-0.01 -0.012,-0.014 -0.01,0 -0.016,0 h -0.3505 v -0.3878 q 0,-0.01 0,-0.015 0,-0.01 -0.013,-0.012 -0.01,-0.01 -0.024,-0.01 -0.016,0 -0.037,0 -0.023,0 -0.037,0 -0.015,0 -0.024,0.01 -0.01,0 -0.014,0.012 0,0.01 0,0.015 v 0.3878 h -0.3505 q -0.01,0 -0.015,0 -0.01,0 -0.013,0.014 -0.01,0.01 -0.01,0.024 0,0.014 0,0.033 z" id="path3286" font-size="8.749"/>
+                            <path gorn="0.1.0.0.2.0.0.1"  style="line-height:1.05;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;letter-spacing:0px;word-spacing:0px;" stroke-width="0.288651" d="m 4048.7139,3053.8167 q 0,0.042 0.01,0.058 0.01,0.016 0.028,0.016 h 0.4453 q 0.019,0 0.029,-0.016 0.01,-0.017 0.01,-0.058 0,-0.041 -0.01,-0.056 -0.01,-0.016 -0.029,-0.016 h -0.4453 q -0.01,0 -0.015,0 -0.01,0 -0.012,0.013 -0.01,0.01 -0.01,0.023 0,0.014 0,0.034 z" id="path3283" font-size="8.749"/>
+                            <polyline gorn="0.1.0.0.2.0.0.2" fill="none" layerid="3" stroke-opacity="1"  stroke-linecap="round" stroke="#000000" style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" stroke-width="1" id="gge40" points="4051.9682 3046.2598 4057.7953 3046.2205" locked="0" net=""/>
+                            <polyline gorn="0.1.0.0.2.0.0.3" fill="none" layerid="3" stroke-opacity="1"  stroke-linecap="round" stroke="#000000" style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" stroke-width="1" id="gge43" points="4052.5197 3053.7008 4057.7953 3053.7008" locked="0" net=""/>
+                            <polyline gorn="0.1.0.0.2.0.0.4" fill="none" layerid="3" stroke-opacity="1"  stroke-linecap="round" stroke="#000000" style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" stroke-width="1" id="gge46" points="4057.7953 3046.2205 4057.7953 3053.7009" locked="0" net=""/>
+                            <polyline gorn="0.1.0.0.2.0.0.5" fill="none" layerid="3" stroke-opacity="1"  stroke-linecap="round" stroke="#000000" style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" stroke-width="1" id="gge49" points="4043.1098 3053.7402 4043.1098 3053.74 4041.7321 3052.3623" locked="0" net=""/>
+                            <polyline gorn="0.1.0.0.2.0.0.6" fill="none" layerid="3" stroke-opacity="1"  stroke-linecap="round" stroke="#000000" style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" stroke-width="1" id="gge52" points="4043.1098 3046.2598 4043.1098 3046.26 4041.7321 3047.6377" locked="0" net=""/>
+                            <polyline gorn="0.1.0.0.2.0.0.7" fill="none" layerid="3" stroke-opacity="1"  stroke-linecap="round" stroke="#000000" style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" stroke-width="1" id="gge55" points="4048.0312 3046.2598 4043.1098 3046.2598" locked="0" net=""/>
+                            <polyline gorn="0.1.0.0.2.0.0.8" fill="none" layerid="3" stroke-opacity="1"  stroke-linecap="round" stroke="#000000" style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" stroke-width="1" id="gge58" points="4048.0312 3053.7402 4043.1098 3053.7402" locked="0" net=""/>
+                            <polyline gorn="0.1.0.0.2.0.0.9" fill="none" layerid="3" stroke-opacity="1"  stroke-linecap="round" stroke="#000000" style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" stroke-width="1" id="gge61" points="4041.7321 3047.6377 4041.7321 3052.3623" locked="0" net=""/>
+                            <polyline gorn="0.1.0.0.2.0.0.10" fill="none" layerid="3" stroke-opacity="1"  stroke-linecap="round" stroke="#000000" style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" stroke-width="1" id="gge64" points="4051.1811 3048.0315 4051.1811 3051.9685" locked="0" net=""/>
+                            <polyline gorn="0.1.0.0.2.0.0.11" fill="none" layerid="3" stroke-opacity="1"  stroke-linecap="round" stroke="#000000" style="stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" stroke-width="1" id="gge67" points="4051.1811 3050.0199 4049.2126 3050.0199" locked="0" net=""/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

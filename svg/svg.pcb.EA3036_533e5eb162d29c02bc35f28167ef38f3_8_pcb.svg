@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3.8mm"
+   id="svg22"
+   height="3.8mm"
+   viewBox="0 0 14.960629 14.960061"
+   gorn="0"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <defs
+       id="defs22" />
+  </defs>
+  <desc
+     id="desc1">
+    <referenceFile>EA3036CQBR.svg</referenceFile>
+  </desc>
+  <g
+     id="silkscreen"
+     gorn="0.1.0.0.0.0.0.1"
+     transform="translate(-4032.5,-3026.9)">
+    <path
+       id="gge133"
+       fill="#000000"
+       d="m 4035.5905,3040.3149 a 1.5452601,1.5452648 0 0 1 -1.5453,1.5454 1.5452601,1.5452648 0 0 1 -1.5452,-1.5454 1.5452601,1.5452648 0 0 1 1.5452,-1.5451 1.5452601,1.5452648 0 0 1 1.5453,1.5451 z"
+       gorn="0.1.0.0.0.0.0.1.0"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="path1"
+       fill="#000000"
+       d="m 4032.8937,3027.2934 v 2.5059 h 1.041 v -1.4649 h 1.6563 v -1.041 z"
+       gorn="0.1.0.0.0.0.0.1.1"
+       stroke="none" />
+    <path
+       id="path1-6"
+       fill="#000000"
+       d="m 4047.0674,3027.2934 v 2.5059 h -1.041 v -1.4649 h -1.6563 v -1.041 z"
+       gorn="0.1.0.0.0.0.0.1.2"
+       stroke="none" />
+    <path
+       id="path1-5"
+       fill="#000000"
+       d="m 4047.0674,3041.4647 v -2.5059 h -1.041 v 1.4649 h -1.6563 v 1.041 z"
+       gorn="0.1.0.0.0.0.0.1.3"
+       stroke="none" />
+  </g>
+  <g
+     id="copper1"
+     gorn="0.1.0.0.0.0.0.2"
+     transform="translate(-4032.5,-3026.9)">
+    <g
+       id="g6">
+      <path
+         id="connector16pad-9"
+         fill="#ffc000"
+         d="m 4032.4998,3033.1982 v -0.7874 h 5.8313 v 0.7874 z"
+         gorn="0.1.0.0.0.0.0.2.16"
+         stroke="none"
+         stroke-width="0" />
+      <path
+         id="connector14pad-2"
+         fill="#ffc000"
+         d="m 4036.4366,3026.8993 h 0.7874 v 4.3208 h -0.7874 z"
+         gorn="0.1.0.0.0.0.0.2.14"
+         stroke="none"
+         stroke-width="0" />
+      <path
+         id="connector0pad-6"
+         fill="#ffc000"
+         d="m 4036.4366,3031.0382 h 0.7874 v 10.8216 h -0.7874 z"
+         gorn="0.1.0.0.0.0.0.2.0"
+         stroke="none"
+         stroke-width="0" />
+      <path
+         id="nonconn-11-12"
+         fill="#ffc000"
+         d="m 4039.5794,3026.8992 h 2.3696 v 4.7536 h -2.3696 z"
+         gorn="0.1.0.0.0.0.0.2.11"
+         stroke="none"
+         stroke-width="0" />
+      <path
+         id="nonconn-17-18"
+         fill="#ffc000"
+         d="m 4032.5,3036.3473 v -2.351 h 3.1496 v 2.351 z"
+         gorn="0.1.0.0.0.0.0.2.18"
+         stroke="none"
+         stroke-width="0" />
+      <path
+         id="nonconn-6-7-8-9"
+         fill="#ffc000"
+         d="m 4047.4606,3030.8352 v 5.5127 h -3.1496 v -5.5127 z"
+         gorn="0.1.0.0.0.0.0.2.6"
+         stroke="none"
+         stroke-width="0" />
+      <path
+         id="nonconn-3-4"
+         fill="#ffc000"
+         d="m 4041.1613,3031.0445 h 2.4026 v 10.8152 h -2.4026 z"
+         gorn="0.1.0.0.0.0.0.2.3"
+         stroke="none"
+         stroke-width="0" />
+    </g>
+    <path
+       id="connector0pad"
+       fill="#ffc000"
+       d="m 4036.4366,3038.7102 h 0.7874 v 3.1496 h -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.0"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector1pad"
+       fill="#ffc000"
+       d="m 4038.0116,3038.7102 h 0.7874 v 3.1496 h -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.1"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector2pad"
+       fill="#ffc000"
+       d="m 4039.5866,3038.7102 h 0.7874 v 3.1496 h -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.2"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector3pad"
+       fill="#ffc000"
+       d="m 4041.1616,3038.7102 h 0.7874 v 3.1496 h -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.3"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector4pad"
+       fill="#ffc000"
+       d="m 4042.7366,3038.7102 h 0.7874 v 3.1496 h -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.4"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector5pad"
+       fill="#ffc000"
+       d="m 4047.4606,3037.1358 v 0.7874 h -3.1496 v -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.5"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector6pad"
+       fill="#ffc000"
+       d="m 4047.4606,3035.5608 v 0.7874 h -3.1496 v -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.6"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector7pad"
+       fill="#ffc000"
+       d="m 4047.4606,3033.9858 v 0.7874 h -3.1496 v -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.7"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector8pad"
+       fill="#ffc000"
+       d="m 4047.4606,3032.4118 v 0.7874 h -3.1496 v -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.8"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector9pad"
+       fill="#ffc000"
+       d="m 4047.4606,3030.8368 v 0.7874 h -3.1496 v -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.9"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector10pad"
+       fill="#ffc000"
+       d="m 4042.7366,3026.8992 h 0.7874 v 3.1496 h -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.10"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector11pad"
+       fill="#ffc000"
+       d="m 4041.1616,3026.8992 h 0.7874 v 3.1496 h -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.11"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector12pad"
+       fill="#ffc000"
+       d="m 4039.5866,3026.8992 h 0.7874 v 3.1496 h -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.12"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector13pad"
+       fill="#ffc000"
+       d="m 4038.0116,3026.8992 h 0.7874 v 3.1496 h -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.13"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector14pad"
+       fill="#ffc000"
+       d="m 4036.4366,3026.8992 h 0.7874 v 3.1496 h -0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.14"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector15pad"
+       fill="#ffc000"
+       d="m 4032.5,3031.6232 v -0.7874 h 3.1496 v 0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.15"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector16pad"
+       fill="#ffc000"
+       d="m 4032.5,3033.1982 v -0.7874 h 3.1496 v 0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.16"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector17pad"
+       fill="#ffc000"
+       d="m 4032.5,3034.7722 v -0.7874 h 3.1496 v 0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.17"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector18pad"
+       fill="#ffc000"
+       d="m 4032.5,3036.3472 v -0.7874 h 3.1496 v 0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.18"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector19pad"
+       fill="#ffc000"
+       d="m 4032.5,3037.9222 v -0.7874 h 3.1496 v 0.7874 z"
+       gorn="0.1.0.0.0.0.0.2.19"
+       stroke="none"
+       stroke-width="0" />
+    <path
+       id="connector20pin"
+       fill="#ffc000"
+       d="m 4036.6338,3037.726 v -6.693 h 6.693 v 6.693 z"
+       gorn="0.1.0.0.0.0.0.2.20"
+       stroke="none"
+       stroke-width="0" />
+  </g>
+</svg>

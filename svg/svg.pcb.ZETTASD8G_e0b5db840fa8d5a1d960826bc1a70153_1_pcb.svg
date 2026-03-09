@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" height="6.5mm" gorn="0" viewBox="0 0 8.3000002 6.5000003" author="ninomegadriver@gmail.com" width="8.3000002mm" id="svg1">
+    <desc >
+        <referenceFile >ZDSD08GLGEAG.svg</referenceFile>
+    </desc>
+    <defs  id="defs1"/>
+    <g  transform="translate(0.0500002)">
+        <g >
+            <g >
+                <g >
+                    <g  gorn="0.2.0.0.0.0" id="root">
+                        <g  transform="translate(0.0999999,0.10000005)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <g  gorn="0.2.0.0.0.0.0.0.0.0.0" id="silkscreen">
+                                            <path  d="M 3.4868327,6.1 H 0 v 0.1 h 3.4868327 z" gorn="0.2.0.0.0.0.0.0.0.0.0.0" stroke="none" fill="#000000" id="path1-2-6"/>
+                                            <path  d="M 7.9890952,6.1 H 4.5022625 v 0.1 h 3.4868327 z" gorn="0.2.0.0.0.0.0.0.0.0.0.1" stroke="none" fill="#000000" id="path1-2-6-4"/>
+                                            <path  d="M 7.9,0 V 0.7 H 8 V 0 Z" gorn="0.2.0.0.0.0.0.0.0.0.0.2" stroke="none" fill="#000000" id="path1-5"/>
+                                            <path  d="m 0,5.4999998 v 0.7 h 0.1 v -0.7 z" gorn="0.2.0.0.0.0.0.0.0.0.0.3" stroke="none" fill="#000000" id="path1-29"/>
+                                            <path  d="m 7.9,5.4999998 v 0.7 H 8 v -0.7 z" gorn="0.2.0.0.0.0.0.0.0.0.0.4" stroke="none" fill="#000000" id="path1-5-3"/>
+                                            <path  d="M 7.9999996,0 H 1.2954295 v 0.1 h 6.7045701 z" gorn="0.2.0.0.0.0.0.0.0.0.0.5" stroke="none" fill="#000000" id="path1-2"/>
+                                            <path  d="M 0.85042333,-0.1 H -0.15000009 V 0 h 1.00042342 z" gorn="0.2.0.0.0.0.0.0.0.0.0.6" stroke="none" fill="#000000" id="path1-2-3"/>
+                                            <path  d="M -0.0500001,0.64881071 V -0.1 h -0.1 v 0.74881071 z" gorn="0.2.0.0.0.0.0.0.0.0.0.7" stroke="none" fill="#000000" id="path1-2-3-2"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="translate(0.0999999,0.10000015)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <g  gorn="0.2.0.0.0.0.1.0.0.0.0" id="copper1">
+                                            <path  d="m -0.04612541,0.00125512 0,0.64030153 0.46286897,0 0.42813269,-0.64030153 z" gorn="0.2.0.0.0.0.1.0.0.0.0.0" stroke="none" fill="#FFc000" id="nonconn1"/>
+                                            <g  transform="translate(5.8077983,-0.298066)">
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  gorn="0.2.0.0.0.0.1.0.0.0.0.1.0.0.0.0" id="second-row">
+                                                                <path  d="m 1.3422016,1.1431317 h 0.95 v 0.7 h -0.95 z" gorn="0.2.0.0.0.0.1.0.0.0.0.1.0.0.0.0.0" stroke="none" fill="#ffc000" id="connector7pad"/>
+                                                                <path  d="m 1.3422016,2.4130001 h 0.95 v 0.7 h -0.95 z" gorn="0.2.0.0.0.0.1.0.0.0.0.1.0.0.0.0.1" stroke="none" fill="#ffc000" id="connector6pad"/>
+                                                                <path  d="m 1.3422016,3.6830001 h 0.95 v 0.7 h -0.95 z" gorn="0.2.0.0.0.0.1.0.0.0.0.1.0.0.0.0.2" stroke="none" fill="#ffc000" id="connector5pad"/>
+                                                                <path  d="m 1.3422016,4.9530001 h 0.95 v 0.7 h -0.95 z" gorn="0.2.0.0.0.0.1.0.0.0.0.1.0.0.0.0.3" stroke="none" fill="#ffc000" id="connector4pad"/>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g  transform="translate(-1.4422015,-0.298066)">
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <g  gorn="0.2.0.0.0.0.1.0.0.0.0.2.0.0.0.0" id="first_row">
+                                                                <path  d="m 1.3422016,1.1431317 h 0.95 v 0.7 h -0.95 z" gorn="0.2.0.0.0.0.1.0.0.0.0.2.0.0.0.0.0" stroke="none" fill="#ffc000" id="connector0pad"/>
+                                                                <path  d="m 1.3422016,2.4130001 h 0.95 v 0.7 h -0.95 z" gorn="0.2.0.0.0.0.1.0.0.0.0.2.0.0.0.0.1" stroke="none" fill="#ffc000" id="connector1pad"/>
+                                                                <path  d="m 1.3422016,3.6830001 h 0.95 v 0.7 h -0.95 z" gorn="0.2.0.0.0.0.1.0.0.0.0.2.0.0.0.0.2" stroke="none" fill="#ffc000" id="connector2pad"/>
+                                                                <path  d="m 1.3422016,4.9530001 h 0.95 v 0.7 h -0.95 z" gorn="0.2.0.0.0.0.1.0.0.0.0.2.0.0.0.0.3" stroke="none" fill="#ffc000" id="connector3pad"/>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <path  d="m 3.525,5.3499999 h 0.95 v 0.95 h -0.95 z" gorn="0.2.0.0.0.0.1.0.0.0.0.3" stroke="none" fill="#ffc000" id="nonconn0"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

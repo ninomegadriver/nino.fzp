@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="6.1009998mm"
+   viewBox="0 0 24.020551 24.020054"
+   id="svg6224"
+   height="6.1009998mm"
+   gorn="0"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1282" />
+  <desc
+     id="desc1102">
+    <referenceFile>PAM8006ATR.svg</referenceFile>
+  </desc>
+  <g
+     id="copper1">
+    <rect
+       id="connector0pad"
+       width="3.93715"
+       height="0.96460176"
+       x="0"
+       y="4.6017241"
+       fill="#FFC000"
+       stroke="none" />
+    <rect
+       id="connector1pad"
+       width="3.93715"
+       height="0.96460176"
+       x="0"
+       y="6.5743213"
+       fill="#FFC000"
+       stroke="none" />
+    <rect
+       id="connector2pad"
+       width="3.93715"
+       height="0.96460176"
+       x="-4.4408921e-16"
+       y="8.5469189"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector3pad"
+       width="3.93715"
+       height="0.96460176"
+       x="-4.4408921e-16"
+       y="10.519516"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector4pad"
+       width="3.93715"
+       height="0.96460176"
+       x="-4.4408921e-16"
+       y="12.492114"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector5pad"
+       width="3.93715"
+       height="0.96460176"
+       x="-4.4408921e-16"
+       y="14.464711"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector6pad"
+       width="3.93715"
+       height="0.96460176"
+       x="-4.4408921e-16"
+       y="16.437309"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector7pad"
+       width="3.93715"
+       height="0.96460176"
+       x="-4.4408921e-16"
+       y="18.409904"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector8pad"
+       width="0.96460176"
+       height="3.93715"
+       x="4.6415648"
+       y="20.083153"
+       fill="#FFC000"
+       stroke="none" />
+    <rect
+       id="connector9pad"
+       width="0.96460176"
+       height="3.93715"
+       x="6.6081018"
+       y="20.083153"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector10pad"
+       width="0.96460176"
+       height="3.93715"
+       x="8.5746393"
+       y="20.083153"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector11pad"
+       width="0.96460176"
+       height="3.93715"
+       x="10.541177"
+       y="20.083153"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector12pad"
+       width="0.96460176"
+       height="3.93715"
+       x="12.507714"
+       y="20.083153"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector13pad"
+       width="0.96460176"
+       height="3.93715"
+       x="14.474252"
+       y="20.083153"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector14pad"
+       width="0.96460176"
+       height="3.93715"
+       x="16.440788"
+       y="20.083153"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector15pad"
+       width="0.96460176"
+       height="3.93715"
+       x="18.407326"
+       y="20.083153"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector16pad"
+       width="3.93715"
+       height="0.96460176"
+       x="20.083401"
+       y="18.407352"
+       fill="#FFC000"
+       stroke="none" />
+    <rect
+       id="connector17pad"
+       width="3.93715"
+       height="0.96460176"
+       x="20.083401"
+       y="16.436699"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector18pad"
+       width="3.93715"
+       height="0.96460176"
+       x="20.083401"
+       y="14.466046"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector19pad"
+       width="3.93715"
+       height="0.96460176"
+       x="20.083401"
+       y="12.495392"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector20pad"
+       width="3.93715"
+       height="0.96460176"
+       x="20.083401"
+       y="10.524738"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector21pad"
+       width="3.93715"
+       height="0.96460176"
+       x="20.083401"
+       y="8.5540829"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector22pad"
+       width="3.93715"
+       height="0.96460176"
+       x="20.083401"
+       y="6.5834293"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector23pad"
+       width="3.93715"
+       height="0.96460176"
+       x="20.083401"
+       y="4.6127758"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector24pad"
+       width="0.96460176"
+       height="3.93715"
+       x="18.41762"
+       y="-0.0002485"
+       fill="#FFC000"
+       stroke="none" />
+    <rect
+       id="connector25pad"
+       width="0.96460176"
+       height="3.93715"
+       x="16.452988"
+       y="-0.0002485"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector26pad"
+       width="0.96460176"
+       height="3.93715"
+       x="14.488356"
+       y="-0.0002485"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector27pad"
+       width="0.96460176"
+       height="3.93715"
+       x="12.523723"
+       y="-0.0002485"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector28pad"
+       width="0.96460176"
+       height="3.93715"
+       x="10.559092"
+       y="-0.0002485"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector29pad"
+       width="0.96460176"
+       height="3.93715"
+       x="8.5944595"
+       y="-0.0002485"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector30pad"
+       width="0.96460176"
+       height="3.93715"
+       x="6.6298275"
+       y="-0.0002485"
+       fill="#ffc000"
+       stroke="none" />
+    <rect
+       id="connector31pad"
+       width="0.96460176"
+       height="3.93715"
+       x="4.6651955"
+       y="-0.0002485"
+       fill="#ffc000"
+       stroke="none" />
+  </g>
+  <g
+     style="fill:#fdde68;fill-opacity:1"
+     id="silkscreen"
+     gorn="0.1.0.0.1"
+     transform="translate(-4028.2001,-3021.9002)">
+    <path
+       style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:72;stroke-dasharray:none"
+       stroke-width="0.791695"
+       fill="none"
+       id="path6657"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       gorn="0.1.0.0.1.0"
+       d="m 4049.2451,3044.5392 h 1.5945 v -1.5945" />
+    <path
+       style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:72;stroke-dasharray:none"
+       stroke-width="0.791695"
+       fill="none"
+       id="path6659"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       gorn="0.1.0.0.1.1"
+       d="m 4031.175,3044.5392 h -1.5959 v -1.5945" />
+    <path
+       style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:72;stroke-dasharray:none"
+       stroke-width="0.791695"
+       fill="none"
+       id="path6661"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       gorn="0.1.0.0.1.2"
+       d="m 4050.8396,3024.8746 v -1.5959 h -1.5945" />
+    <path
+       style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:72;stroke-dasharray:none"
+       stroke-width="0.791695"
+       fill="none"
+       id="path6663"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       gorn="0.1.0.0.1.3"
+       d="m 4029.5791,3024.8746 v -1.5959 h 1.5959" />
+    <path
+       style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:72;stroke-dasharray:none"
+       stroke-width="0.590569"
+       fill="none"
+       id="path6667-3"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       gorn="0.1.0.0.1.5"
+       d="m 4028.7872,3022.1972 c -0.1598,0 -0.2918,0.1368 -0.2918,0.2966 0,0.1667 0.132,0.2987 0.2987,0.2917 0.1598,0 0.2918,-0.132 0.2918,-0.2986 0,-0.1597 -0.132,-0.2917 -0.2918,-0.2917" />
+  </g>
+</svg>

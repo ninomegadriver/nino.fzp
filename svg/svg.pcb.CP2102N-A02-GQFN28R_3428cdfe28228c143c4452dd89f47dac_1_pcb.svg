@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" height="0.222835in" width="0.222835in" viewBox="0 0 222.835 222.835" x="0in" version="1.2" baseProfile="tiny" y="0in" >
+    <desc >
+        <referenceFile >CP2102N-A02-GQFN28R.svg</referenceFile>
+    </desc>
+    <g transform="matrix(1, 0, 0, 1, -40273.3, -30225.5)" >
+        <g id="copper1" gorn="0.1.0" >
+            <g transform="matrix(1, 0, 0, 1, -114.583, -163.596)" >
+                <g >
+                    <g >
+                        <path id="connector0pad" gorn="0.1.0.0.0.0.0" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40387.9,30435.9l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector1pad" gorn="0.1.0.0.0.0.1" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40387.9,30455.6l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector2pad" gorn="0.1.0.0.0.0.2" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40387.9,30475.3l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector3pad" gorn="0.1.0.0.0.0.3" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40387.9,30495l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector4pad" gorn="0.1.0.0.0.0.4" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40387.9,30514.7l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector5pad" gorn="0.1.0.0.0.0.5" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40387.9,30534.4l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector6pad" gorn="0.1.0.0.0.0.6" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40387.9,30554l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector7pad" gorn="0.1.0.0.0.0.7" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40434.7,30576.3l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                        <path id="connector8pad" gorn="0.1.0.0.0.0.8" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40454.4,30576.3l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                        <path id="connector9pad" gorn="0.1.0.0.0.0.9" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40474.1,30576.3l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                        <path id="connector10pad" gorn="0.1.0.0.0.0.10" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40493.8,30576.3l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                        <path id="connector11pad" gorn="0.1.0.0.0.0.11" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40513.5,30576.3l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                        <path id="connector12pad" gorn="0.1.0.0.0.0.12" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40533.2,30576.3l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                        <path id="connector13pad" gorn="0.1.0.0.0.0.13" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40552.8,30576.3l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                        <path id="connector14pad" gorn="0.1.0.0.0.0.14" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40575.1,30554l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector15pad" gorn="0.1.0.0.0.0.15" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40575.1,30534.4l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector16pad" gorn="0.1.0.0.0.0.16" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40575.1,30514.7l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector17pad" gorn="0.1.0.0.0.0.17" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40575.1,30495l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector18pad" gorn="0.1.0.0.0.0.18" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40575.1,30475.3l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector19pad" gorn="0.1.0.0.0.0.19" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40575.1,30455.6l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector20pad" gorn="0.1.0.0.0.0.20" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40575.1,30435.9l35.6294,0l0,11.0242l-35.6294,0z"  stroke="none"/>
+                        <path id="connector21pad" gorn="0.1.0.0.0.0.21" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40552.8,30389.1l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                        <path id="connector22pad" gorn="0.1.0.0.0.0.22" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40533.2,30389.1l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                        <path id="connector23pad" gorn="0.1.0.0.0.0.23" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40513.5,30389.1l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                        <path id="connector24pad" gorn="0.1.0.0.0.0.24" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40493.8,30389.1l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                        <path id="connector25pad" gorn="0.1.0.0.0.0.25" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40474.1,30389.1l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                        <path id="connector26pad" gorn="0.1.0.0.0.0.26" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40454.4,30389.1l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                        <path id="connector27pad" gorn="0.1.0.0.0.0.27" stroke-width="0" fill="#ffc000" fill-opacity="1" d="m40434.7,30389.1l11.0238,0l0,35.6306l-11.0238,0z"  stroke="none"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -40273.3, -30225.5)" >
+        <g id="silkscreen" gorn="0.2.0" >
+            <g transform="matrix(1, 0, 0, 1, -114.583, -163.596)" >
+                <g >
+                    <g >
+                        <path id="gge136" gorn="0.2.0.0.0.0.0" stroke-width="17.8239" fill="none" d="m40414.6,30406.9a8.90291,8.90326,0,0,1,-8.90384,8.90314,8.90291,8.90326,0,0,1,-8.90284,-8.90314,8.90291,8.90326,0,0,1,8.90284,-8.90314,8.90291,8.90326,0,0,1,8.90384,8.90314z"  stroke="#000000"/>
+                        <path id="gge124" style="stroke-linecap:round" gorn="0.2.0.0.0.0.1" stroke-width="5.99989" fill="none" d="m40571.4,30399.1l29.3575,0l0,29.3585"  stroke="#000000"/>
+                        <path id="gge127" style="stroke-linecap:round" gorn="0.2.0.0.0.0.2" stroke-width="5.99989" fill="none" d="m40571.4,30601.9l29.3575,0l0,-29.3585"  stroke="#000000"/>
+                        <path id="gge133" style="stroke-linecap:round" gorn="0.2.0.0.0.0.3" stroke-width="5.99989" fill="none" d="m40427.2,30601.9l-29.3575,0l0,-29.3585"  stroke="#000000"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

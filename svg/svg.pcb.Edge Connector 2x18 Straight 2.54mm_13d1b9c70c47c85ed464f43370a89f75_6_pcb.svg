@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="2.06984in"  gorn="0" y="0in" viewBox="0 0 149.029 26.7987" x="0in" height="0.372205in" id="svg50">
+    <desc >
+        <referenceFile >Untitled Sketch 4_pcb.svg</referenceFile>
+    </desc>
+    <defs  id="defs50"/>
+    <g  gorn="0.2" style="display:inline" id="silkscreen">
+        <g  transform="translate(-2841.4855,-2182.6311)">
+            <g >
+                <polyline points="2841.85,2209.07,2990.15,2209.07" stroke-linecap="round" net="" fill="none"  stroke-width="0.72" gorn="0.2.0.0.0" locked="0" stroke="#000000" id="gge28" stroke-opacity="1" layerid="3"/>
+            </g>
+        </g>
+        <g  transform="translate(-2841.4855,-2182.6311)">
+            <g >
+                <polyline points="2990.15,2182.99,2990.15,2209.07" stroke-linecap="round" net="" fill="none"  stroke-width="0.72" gorn="0.2.1.0.0" locked="0" stroke="#000000" id="gge31" stroke-opacity="1" layerid="3"/>
+            </g>
+        </g>
+        <g  transform="translate(-2841.4855,-2182.6311)">
+            <g >
+                <polyline points="2841.85,2182.99,2841.85,2209.07" stroke-linecap="round" net="" fill="none"  stroke-width="0.72" gorn="0.2.2.0.0" locked="0" stroke="#000000" id="gge34" stroke-opacity="1" layerid="3"/>
+            </g>
+        </g>
+        <g  transform="translate(-2841.4855,-2182.6311)">
+            <g >
+                <polyline points="2841.85,2182.99,2990.15,2182.99" stroke-linecap="round" net="" fill="none"  stroke-width="0.72" gorn="0.2.3.0.0" locked="0" stroke="#000000" id="gge37" stroke-opacity="1" layerid="3"/>
+            </g>
+        </g>
+        <path d="M 5.0645,26.4389 6.4818,21.62 8.1826,26.4389 v 0 0 z" c_teardrop="" net="" type="solid" c_targetpad="" c_targetwire=""  stroke-width="0" gorn="0.2.4" locked="0" stroke="#000000" id="gge154" stroke-opacity="1" layerid="3"/>
+    </g>
+    <g  gorn="0.3" id="copper0">
+        <g  gorn="0.3.0" id="copper1">
+            <g  transform="translate(-2841.4855,-2182.6311)">
+                <g >
+                    <polygon points="2857.07,2205.5 2852.53,2205.5 2852.53,2200.96 2857.07,2200.96 " fill-opacity="1" fill="#d4aa00"  stroke-width="0.992124" gorn="0.3.0.0.0.0" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" id="polygon8" stroke-opacity="1" layerid="11"/>
+                </g>
+            </g>
+            <circle cy="20.598881" cx="13.314548" fill="none"  stroke-width="0.992124" gorn="0.3.0.1" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_hole" stroke="#d4aa00" r="1.41732" id="connector0pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="13.314548" fill="none"  stroke-width="0.992124" gorn="0.3.0.2" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector35pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="20.5145" fill="none"  stroke-width="0.992124" gorn="0.3.0.3" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector1pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="20.5145" fill="none"  stroke-width="0.992124" gorn="0.3.0.4" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector34pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="27.714451" fill="none"  stroke-width="0.992124" gorn="0.3.0.5" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector2pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="27.714451" fill="none"  stroke-width="0.992124" gorn="0.3.0.6" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector33pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="34.914402" fill="none"  stroke-width="0.992124" gorn="0.3.0.7" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector3pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="34.914402" fill="none"  stroke-width="0.992124" gorn="0.3.0.8" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector32pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="42.114597" fill="none"  stroke-width="0.992124" gorn="0.3.0.9" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector4pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="42.114597" fill="none"  stroke-width="0.992124" gorn="0.3.0.10" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector31pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="49.314548" fill="none"  stroke-width="0.992124" gorn="0.3.0.11" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector5pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="49.314548" fill="none"  stroke-width="0.992124" gorn="0.3.0.12" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector30pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="56.5145" fill="none"  stroke-width="0.992124" gorn="0.3.0.13" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector6pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="56.5145" fill="none"  stroke-width="0.992124" gorn="0.3.0.14" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector29pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="63.714451" fill="none"  stroke-width="0.992124" gorn="0.3.0.15" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector7pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="63.714451" fill="none"  stroke-width="0.992124" gorn="0.3.0.16" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector28pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="70.914406" fill="none"  stroke-width="0.992124" gorn="0.3.0.17" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector8pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="70.914406" fill="none"  stroke-width="0.992124" gorn="0.3.0.18" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector27pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="78.114601" fill="none"  stroke-width="0.992124" gorn="0.3.0.19" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector9pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="78.114601" fill="none"  stroke-width="0.992124" gorn="0.3.0.20" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector26pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="85.314552" fill="none"  stroke-width="0.992124" gorn="0.3.0.21" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector10pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="85.314552" fill="none"  stroke-width="0.992124" gorn="0.3.0.22" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector25pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="92.514503" fill="none"  stroke-width="0.992124" gorn="0.3.0.23" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector11pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="92.514503" fill="none"  stroke-width="0.992124" gorn="0.3.0.24" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector24pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="99.714455" fill="none"  stroke-width="0.992124" gorn="0.3.0.25" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector12pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="99.714455" fill="none"  stroke-width="0.992124" gorn="0.3.0.26" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector23pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="106.91441" fill="none"  stroke-width="0.992124" gorn="0.3.0.27" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector13pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="106.91441" fill="none"  stroke-width="0.992124" gorn="0.3.0.28" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector22pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="114.1146" fill="none"  stroke-width="0.992124" gorn="0.3.0.29" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector14pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="114.1146" fill="none"  stroke-width="0.992124" gorn="0.3.0.30" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector21pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="121.31455" fill="none"  stroke-width="0.992124" gorn="0.3.0.31" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector15pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="121.31455" fill="none"  stroke-width="0.992124" gorn="0.3.0.32" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector20pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="128.5145" fill="none"  stroke-width="0.992124" gorn="0.3.0.33" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector16pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="128.5145" fill="none"  stroke-width="0.992124" gorn="0.3.0.34" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector19pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="135.71445" fill="none"  stroke-width="0.992124" gorn="0.3.0.35" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector17pin" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="135.71445" fill="none"  stroke-width="0.992124" gorn="0.3.0.36" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="connector18pin" stroke-opacity="1" layerid="11"/>
+            <g  transform="translate(-2841.4855,-2182.6311)">
+                <g >
+                    <polygon points="2852.53,2200.96 2857.07,2200.96 2857.07,2205.5 2852.53,2205.5 " fill-opacity="1" fill="#d4aa00"  stroke-width="0.992124" gorn="0.3.0.37.0.0" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" id="polygon5" stroke-opacity="1" layerid="11"/>
+                </g>
+            </g>
+            <circle cy="20.598881" cx="13.314548" fill="none"  stroke-width="0.992124" gorn="0.3.0.38" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_hole" stroke="#d4aa00" r="1.41732" id="circle5" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="13.314548" fill="none"  stroke-width="0.992124" gorn="0.3.0.39" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle6" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="20.5145" fill="none"  stroke-width="0.992124" gorn="0.3.0.40" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle7" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="20.5145" fill="none"  stroke-width="0.992124" gorn="0.3.0.41" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle8" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="27.714451" fill="none"  stroke-width="0.992124" gorn="0.3.0.42" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle9" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="27.714451" fill="none"  stroke-width="0.992124" gorn="0.3.0.43" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle10" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="34.914402" fill="none"  stroke-width="0.992124" gorn="0.3.0.44" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle11" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="34.914402" fill="none"  stroke-width="0.992124" gorn="0.3.0.45" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle12" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="42.114597" fill="none"  stroke-width="0.992124" gorn="0.3.0.46" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle13" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="42.114597" fill="none"  stroke-width="0.992124" gorn="0.3.0.47" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle14" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="49.314548" fill="none"  stroke-width="0.992124" gorn="0.3.0.48" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle15" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="49.314548" fill="none"  stroke-width="0.992124" gorn="0.3.0.49" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle16" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="56.5145" fill="none"  stroke-width="0.992124" gorn="0.3.0.50" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle17" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="56.5145" fill="none"  stroke-width="0.992124" gorn="0.3.0.51" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle18" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="63.714451" fill="none"  stroke-width="0.992124" gorn="0.3.0.52" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle19" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="63.714451" fill="none"  stroke-width="0.992124" gorn="0.3.0.53" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle20" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="70.914406" fill="none"  stroke-width="0.992124" gorn="0.3.0.54" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle21" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="70.914406" fill="none"  stroke-width="0.992124" gorn="0.3.0.55" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle22" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="78.114601" fill="none"  stroke-width="0.992124" gorn="0.3.0.56" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle23" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="78.114601" fill="none"  stroke-width="0.992124" gorn="0.3.0.57" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle24" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="85.314552" fill="none"  stroke-width="0.992124" gorn="0.3.0.58" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle25" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="85.314552" fill="none"  stroke-width="0.992124" gorn="0.3.0.59" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle26" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="92.514503" fill="none"  stroke-width="0.992124" gorn="0.3.0.60" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle27" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="92.514503" fill="none"  stroke-width="0.992124" gorn="0.3.0.61" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle28" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="99.714455" fill="none"  stroke-width="0.992124" gorn="0.3.0.62" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle29" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="99.714455" fill="none"  stroke-width="0.992124" gorn="0.3.0.63" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle30" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="106.91441" fill="none"  stroke-width="0.992124" gorn="0.3.0.64" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle31" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="106.91441" fill="none"  stroke-width="0.992124" gorn="0.3.0.65" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle32" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="114.1146" fill="none"  stroke-width="0.992124" gorn="0.3.0.66" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle33" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="114.1146" fill="none"  stroke-width="0.992124" gorn="0.3.0.67" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle34" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="121.31455" fill="none"  stroke-width="0.992124" gorn="0.3.0.68" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle35" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="121.31455" fill="none"  stroke-width="0.992124" gorn="0.3.0.69" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle36" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="128.5145" fill="none"  stroke-width="0.992124" gorn="0.3.0.70" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle37" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="128.5145" fill="none"  stroke-width="0.992124" gorn="0.3.0.71" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle38" stroke-opacity="1" layerid="11"/>
+            <circle cy="20.598881" cx="135.71445" fill="none"  stroke-width="0.992124" gorn="0.3.0.72" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle39" stroke-opacity="1" layerid="11"/>
+            <circle cy="6.1989779" cx="135.71445" fill="none"  stroke-width="0.992124" gorn="0.3.0.73" style="stroke-miterlimit:4;stroke-dasharray:none" c_etype="pad_shell" stroke="#d4aa00" r="2.26771" id="circle40" stroke-opacity="1" layerid="11"/>
+        </g>
+    </g>
+</svg>

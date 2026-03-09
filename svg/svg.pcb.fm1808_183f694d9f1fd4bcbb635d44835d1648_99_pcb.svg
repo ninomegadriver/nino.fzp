@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="17.5326mm" fill-rule="evenodd" gorn="0" shape-rendering="geometricPrecision" viewBox="0 0 206.06 133.61"  height="11.3676mm" version="1.0" clip-rule="evenodd" id="svg1049" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-rendering="geometricPrecision" xml:space="preserve" image-rendering="optimizeQuality">
+    <desc >
+        <referenceFile >FM1808.svg</referenceFile>
+    </desc>
+    <defs  id="defs1053"/>
+    <g gorn="0.2"  id="copper1">
+        <g gorn="0.2.0"  id="g1142">
+            <rect width="7.0500002" gorn="0.2.0.0"  height="24.08" style="fill:#f7bd13" id="connector28pin" y="0" x="5.1900001"/>
+            <rect width="7.0500002" gorn="0.2.0.1"  height="24.08" style="fill:#f7bd13" id="connector27pin" y="0" x="20.129999"/>
+            <rect width="7.0500002" gorn="0.2.0.2"  height="24.08" style="fill:#f7bd13" id="connector26pin" y="0" x="35.029999"/>
+            <rect width="7.0500002" gorn="0.2.0.3"  height="24.08" style="fill:#f7bd13" id="connector25pin" y="0" x="49.98"/>
+            <rect width="7.0500002" gorn="0.2.0.4"  height="24.08" style="fill:#f7bd13" id="connector24pin" y="0" x="64.900002"/>
+            <rect width="7.0500002" gorn="0.2.0.5"  height="24.08" style="fill:#f7bd13" id="connector23pin" y="0" x="79.82"/>
+            <rect width="7.0500002" gorn="0.2.0.6"  height="24.08" style="fill:#f7bd13" id="connector22pin" y="0" x="94.739998"/>
+            <rect width="7.0500002" gorn="0.2.0.7"  height="24.08" style="fill:#f7bd13" id="connector21pin" y="0" x="109.68"/>
+            <rect width="7.0500002" gorn="0.2.0.8"  height="24.08" style="fill:#f7bd13" id="connector20pin" y="0" x="124.61"/>
+            <rect width="7.0500002" gorn="0.2.0.9"  height="24.08" style="fill:#f7bd13" id="connector19pin" y="0" x="139.50999"/>
+            <rect width="7.0500002" gorn="0.2.0.10"  height="24.08" style="fill:#f7bd13" id="connector18pin" y="0" x="154.45"/>
+            <rect width="7.0500002" gorn="0.2.0.11"  height="24.08" style="fill:#f7bd13" id="connector17pin" y="0" x="169.37"/>
+            <rect width="7.0500002" gorn="0.2.0.12"  height="24.08" style="fill:#f7bd13" id="connector16pin" y="0" x="184.33"/>
+            <rect width="7.0500002" gorn="0.2.0.13"  height="24.08" style="fill:#f7bd13" id="connector15pin" y="0" x="199.02"/>
+        </g>
+        <g gorn="0.2.1"  id="g1103">
+            <rect width="7.0500002" gorn="0.2.1.0"  height="24.08" style="fill:#f7bd13" id="connector1pin" y="109.52" x="5.1900001"/>
+            <rect width="7.0500002" gorn="0.2.1.1"  height="24.08" style="fill:#f7bd13" id="connector2pin" y="109.52" x="20.129999"/>
+            <rect width="7.0500002" gorn="0.2.1.2"  height="24.08" style="fill:#f7bd13" id="connector3pin" y="109.52" x="35.029999"/>
+            <rect width="7.0500002" gorn="0.2.1.3"  height="24.08" style="fill:#f7bd13" id="connector4pin" y="109.52" x="49.98"/>
+            <rect width="7.0500002" gorn="0.2.1.4"  height="24.08" style="fill:#f7bd13" id="connector5pin" y="109.52" x="64.900002"/>
+            <rect width="7.0500002" gorn="0.2.1.5"  height="24.08" style="fill:#f7bd13" id="connector6pin" y="109.52" x="79.82"/>
+            <rect width="7.0500002" gorn="0.2.1.6"  height="24.08" style="fill:#f7bd13" id="connector7pin" y="109.52" x="94.739998"/>
+            <rect width="7.0500002" gorn="0.2.1.7"  height="24.08" style="fill:#f7bd13" id="connector8pin" y="109.52" x="109.68"/>
+            <rect width="7.0500002" gorn="0.2.1.8"  height="24.08" style="fill:#f7bd13" id="connector9pin" y="109.52" x="124.61"/>
+            <rect width="7.0500002" gorn="0.2.1.9"  height="24.08" style="fill:#f7bd13" id="connector10pin" y="109.52" x="139.50999"/>
+            <rect width="7.0500002" gorn="0.2.1.10"  height="24.08" style="fill:#f7bd13" id="connector11pin" y="109.52" x="154.45"/>
+            <rect width="7.0500002" gorn="0.2.1.11"  height="24.08" style="fill:#f7bd13" id="connector12pin" y="109.52" x="169.37"/>
+            <rect width="7.0500002" gorn="0.2.1.12"  height="24.08" style="fill:#f7bd13" id="connector13pin" y="109.52" x="184.33"/>
+            <rect width="7.0500002" gorn="0.2.1.13"  height="24.08" style="fill:#f7bd13" id="connector14pin" y="109.52" x="199.02"/>
+        </g>
+    </g>
+    <g gorn="0.3"  id="silkscreen">
+        <g  transform="matrix(1,0,0,0.64002074,0,23.890965)">
+            <g >
+                <g gorn="0.3.0.0.0"  id="g1042">
+                    <path gorn="0.3.0.0.0.0" d="m 0,0.01 h 206.06 v 133.6 H 0 Z M 204.89,1.19 H 1.18 v 131.25 h 203.71 z"  id="path1040" style="fill:#000000"/>
+                </g>
+            </g>
+        </g>
+        <g gorn="0.3.1"  id="g1046">
+            <path gorn="0.3.1.0" d="m 20.13,73.52 c 6.49,0 11.75,5.26 11.75,11.75 0,6.49 -5.26,11.75 -11.75,11.75 -6.49,0 -11.75,-5.26 -11.75,-11.75 0,-6.49 5.26,-11.75 11.75,-11.75 z m 7.48,4.27 c -1.91,-1.91 -4.56,-3.1 -7.48,-3.1 -2.92,0 -5.57,1.18 -7.48,3.09 v 0 c -1.91,1.91 -3.1,4.56 -3.1,7.48 0,2.92 1.18,5.57 3.09,7.48 v 0 c 1.91,1.91 4.56,3.09 7.48,3.09 2.92,0 5.57,-1.18 7.48,-3.1 v 0 c 1.91,-1.91 3.09,-4.56 3.09,-7.48 0,-2.92 -1.18,-5.57 -3.1,-7.48 z"  id="path1044" style="fill:#000000"/>
+        </g>
+    </g>
+    <metadata  id="metadata1206">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+</svg>

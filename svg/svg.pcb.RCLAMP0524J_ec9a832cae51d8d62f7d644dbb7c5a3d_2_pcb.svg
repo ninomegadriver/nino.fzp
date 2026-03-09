@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="5mm" height="3mm" id="svg1020" version="1.1"  gorn="0" viewBox="0 0 19.685038 11.811303">
+    <desc >
+        <referenceFile >RCLAMP0524J - Ponte de Diodos.svg</referenceFile>
+    </desc>
+    <g  transform="translate(-4033.9,-3030.4)">
+        <g >
+            <g >
+                <defs id="defs1024" />
+                <g  transform="translate(3.0635871,2.3360259)">
+                    <g >
+                        <g id="silkscreen"  gorn="0.1.0.0.1.0.0">
+                            <g  transform="matrix(1.0416913,0,0,1.0416913,4033.8998,3030.4)">
+                                <g >
+                                    <path fill="none" id="rect1377"  stroke="#000000" stroke-width="0.345514" stroke-opacity="1" gorn="0.1.0.0.1.0.0.0.0.0" style="stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:12.548;paint-order:markers stroke fill" d="M 0.171875,0.17382812 V 5.6777344 A 0.72565216,0.72565216 0 0 1 0.2011719,5.6757844 0.72565216,0.72565216 0 0 1 0.9277344,6.402347 0.72565216,0.72565216 0 0 1 0.8710938,6.6796907 H 12.84375 V 0.17382812 Z"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="translate(-6.0765559,-12.825237)">
+                    <g >
+                        <g id="copper1"  gorn="0.1.0.0.2.0.0">
+                            <g  transform="translate(-0.14152542,-0.86911139)">
+                                <g >
+                                    <polygon id="connector9pad" layerid="1"  stroke="#000000" stroke-width="0" points="4046.0633,3046.9287 4046.0633,3049.6057 4045.2753,3049.6057 4045.2753,3046.9287 " stroke-opacity="1" gorn="0.1.0.0.2.0.0.0.0.0" c_etype="pad_shell"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(-0.14152542,-0.86911139)">
+                                <g >
+                                    <polygon id="connector8pad" layerid="1"  stroke="#000000" stroke-width="0" points="4048.0303,3046.9287 4048.0303,3049.6057 4047.2423,3049.6057 4047.2423,3046.9287 " stroke-opacity="1" gorn="0.1.0.0.2.0.0.1.0.0" c_etype="pad_shell"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(-0.14152542,-0.86911139)">
+                                <g >
+                                    <polygon id="connector7pad" layerid="1"  stroke="#000000" stroke-width="0" points="4050.7874,3046.9295 4050.7874,3049.6067 4049.2126,3049.6067 4049.2126,3046.9295 " stroke-opacity="1" gorn="0.1.0.0.2.0.0.2.0.0" c_etype="pad_shell"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(-0.14152542,-0.86911139)">
+                                <g >
+                                    <polygon id="connector6pad" layerid="1"  stroke="#000000" stroke-width="0" points="4052.7562,3046.9294 4052.7562,3049.6064 4051.9682,3049.6064 4051.9682,3046.9294 " stroke-opacity="1" gorn="0.1.0.0.2.0.0.3.0.0" c_etype="pad_shell"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(-0.14152542,-0.86911139)">
+                                <g >
+                                    <polygon id="connector5pad" layerid="1"  stroke="#000000" stroke-width="0" points="4054.7237,3046.9294 4054.7237,3049.6064 4053.9367,3049.6064 4053.9367,3046.9294 " stroke-opacity="1" gorn="0.1.0.0.2.0.0.4.0.0" c_etype="pad_shell"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(-0.14152542,-0.86911139)">
+                                <g >
+                                    <polygon id="connector4pad" layerid="1"  stroke="#000000" stroke-width="0" points="4054.7247,3050.3936 4054.7247,3053.0706 4053.9367,3053.0706 4053.9367,3050.3936 " stroke-opacity="1" gorn="0.1.0.0.2.0.0.5.0.0" c_etype="pad_shell"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(-0.14152542,-0.86911139)">
+                                <g >
+                                    <polygon id="connector3pad" layerid="1"  stroke="#000000" stroke-width="0" points="4052.7562,3050.3936 4052.7562,3053.0706 4051.9682,3053.0706 4051.9682,3050.3936 " stroke-opacity="1" gorn="0.1.0.0.2.0.0.6.0.0" c_etype="pad_shell"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(-0.14152542,-0.86911139)">
+                                <g >
+                                    <polygon id="connector2pad" layerid="1"  stroke="#000000" stroke-width="0" points="4050.7874,3050.3935 4050.7874,3053.0707 4049.2126,3053.0707 4049.2126,3050.3935 " stroke-opacity="1" gorn="0.1.0.0.2.0.0.7.0.0" c_etype="pad_shell"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(-0.14152542,-0.86911139)">
+                                <g >
+                                    <polygon id="connector1pad" layerid="1"  stroke="#000000" stroke-width="0" points="4048.0303,3050.3943 4048.0303,3053.0713 4047.2423,3053.0713 4047.2423,3050.3943 " stroke-opacity="1" gorn="0.1.0.0.2.0.0.8.0.0" c_etype="pad_shell"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(-0.14152542,-0.86911139)">
+                                <g >
+                                    <polygon id="connector0pad" layerid="1"  stroke="#000000" stroke-width="0" points="4046.0633,3050.3943 4046.0633,3053.0713 4045.2753,3053.0713 4045.2753,3050.3943 " stroke-opacity="1" gorn="0.1.0.0.2.0.0.9.0.0" c_etype="pad_shell"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(-0.14152542,-0.86911139)">
+                                <g >
+                                    <polyline net="" fill="none" id="gge64" layerid="3"  stroke="#000000" stroke-width="0.7874" points="4055.4331 3047.8346 4055.4331 3052.1655" stroke-linecap="round" locked="0" stroke-opacity="1" gorn="0.1.0.0.2.0.0.10.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(-0.14152542,-0.86911139)">
+                                <g >
+                                    <polyline net="" fill="none" id="gge67" layerid="3"  stroke="#000000" stroke-width="0.7874" points="4044.4881 3047.8345 4044.4881 3052.1654" stroke-linecap="round" locked="0" stroke-opacity="1" gorn="0.1.0.0.2.0.0.11.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

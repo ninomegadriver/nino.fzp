@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 8.5 8.5" height="8.5mm" gorn="0" id="svg1" width="8.5mm" >
+    <desc >
+        <referenceFile >PAD-noMask-7x7.svg</referenceFile>
+    </desc>
+    <defs id="defs1" />
+    <g transform="matrix(0.875,0,0,0.875,0.53125,0.53125001)" >
+        <g >
+            <g gorn="0.2.0.0" id="copper1" >
+                <path fill="#ffc000" d="M 0.24999999,0.24999999 V 8.25 H 8.2499998 V 0.24999999 Z" gorn="0.2.0.0.0" stroke="none" id="connector0pin" />
+                <path fill="#ffc000" d="M 0.24999999,0.24999999 V 1.25 H 1.25 V 0.24999999 Z" gorn="0.2.0.0.1" stroke="none" id="connector1pin" />
+                <path fill="#ffc000" d="m 0.25000001,1.25 v 1 H 1.25 v -1 z" gorn="0.2.0.0.2" stroke="none" id="connector2pin" />
+                <path fill="#ffc000" d="m 0.25000001,2.25 v 1 H 1.25 v -1 z" gorn="0.2.0.0.3" stroke="none" id="connector3pin" />
+                <path fill="#ffc000" d="m 0.25000001,3.25 v 1 H 1.25 v -1 z" gorn="0.2.0.0.4" stroke="none" id="connector4pin" />
+                <path fill="#ffc000" d="m 0.25000001,4.25 v 1 H 1.25 v -1 z" gorn="0.2.0.0.5" stroke="none" id="connector5pin" />
+                <path fill="#ffc000" d="m 0.25000001,5.25 v 1 H 1.25 v -1 z" gorn="0.2.0.0.6" stroke="none" id="connector6pin" />
+                <path fill="#ffc000" d="m 0.25000001,6.25 v 1 H 1.25 v -1 z" gorn="0.2.0.0.7" stroke="none" id="connector7pin" />
+                <path fill="#ffc000" d="m 0.24999999,7.25 v 1 H 1.25 v -1 z" gorn="0.2.0.0.8" stroke="none" id="connector8pin" />
+                <path fill="#ffc000" d="m 1.25,7.25 v 1 h 0.9999999 v -1 z" gorn="0.2.0.0.9" stroke="none" id="connector9pin" />
+                <path fill="#ffc000" d="m 2.2499999,7.25 v 1 h 1 v -1 z" gorn="0.2.0.0.10" stroke="none" id="connector10pin" />
+                <path fill="#ffc000" d="m 3.2499999,7.25 v 1 h 1 v -1 z" gorn="0.2.0.0.11" stroke="none" id="connector11pin" />
+                <path fill="#ffc000" d="m 4.2499999,7.25 v 1 h 1 v -1 z" gorn="0.2.0.0.12" stroke="none" id="connector12pin" />
+                <path fill="#ffc000" d="m 5.2499999,7.25 v 1 h 1 v -1 z" gorn="0.2.0.0.13" stroke="none" id="connector13pin" />
+                <path fill="#ffc000" d="m 6.2499999,7.25 v 1 h 1 v -1 z" gorn="0.2.0.0.14" stroke="none" id="connector14pin" />
+                <path fill="#ffc000" d="m 7.25,7.25 v 1 h 1 v -1 z" gorn="0.2.0.0.15" stroke="none" id="connector15pin" />
+                <path fill="#ffc000" d="m 7.25,6.25 v 1 h 1 v -1 z" gorn="0.2.0.0.16" stroke="none" id="connector16pin" />
+                <path fill="#ffc000" d="m 7.25,5.25 v 1 h 1 v -1 z" gorn="0.2.0.0.17" stroke="none" id="connector17pin" />
+                <path fill="#ffc000" d="m 7.25,4.25 v 1 h 1 v -1 z" gorn="0.2.0.0.18" stroke="none" id="connector18pin" />
+                <path fill="#ffc000" d="m 7.25,3.25 v 1 h 1 v -1 z" gorn="0.2.0.0.19" stroke="none" id="connector19pin" />
+                <path fill="#ffc000" d="m 7.25,2.25 v 1 h 1 v -1 z" gorn="0.2.0.0.20" stroke="none" id="connector20pin" />
+                <path fill="#ffc000" d="m 7.25,1.25 v 1 h 1 v -1 z" gorn="0.2.0.0.21" stroke="none" id="connector21pin" />
+                <path fill="#ffc000" d="M 7.25,0.24999999 V 1.25 h 1 V 0.24999999 Z" gorn="0.2.0.0.22" stroke="none" id="connector22pin" />
+                <path fill="#ffc000" d="M 6.25,0.24999999 V 1.25 h 1 V 0.24999999 Z" gorn="0.2.0.0.23" stroke="none" id="connector23pin" />
+                <path fill="#ffc000" d="M 5.25,0.24999999 V 1.25 h 1 V 0.24999999 Z" gorn="0.2.0.0.24" stroke="none" id="connector24pin" />
+                <path fill="#ffc000" d="M 4.25,0.25000001 V 1.25 h 1 V 0.25000001 Z" gorn="0.2.0.0.25" stroke="none" id="connector25pin" />
+                <path fill="#ffc000" d="M 3.25,0.24999998 V 1.25 h 1 V 0.24999998 Z" gorn="0.2.0.0.26" stroke="none" id="connector26pin" />
+                <path fill="#ffc000" d="M 2.25,0.24999998 V 1.25 h 1 V 0.24999998 Z" gorn="0.2.0.0.27" stroke="none" id="connector27pin" />
+                <path fill="#ffc000" d="M 1.25,0.24999999 V 1.25 h 1 V 0.24999999 Z" gorn="0.2.0.0.28" stroke="none" id="connector28pin" />
+            </g>
+        </g>
+    </g>
+</svg>

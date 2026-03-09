@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="53.5mm" gorn="0" viewBox="0 0 151.65356 47.088005"  height="16.611601mm" version="1.2" id="svg1477" y="0in" x="0in">
+    <desc >
+        <referenceFile >27c322.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata1483">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs1481"/>
+    <g  transform="translate(0,-2.4827374e-6)">
+        <g >
+            <g >
+                <g gorn="0.3.0.0.0" partID="878873081"  id="g1464">
+                    <g gorn="0.3.0.0.0.0"  id="copper0">
+                        <g gorn="0.3.0.0.0.0.0"  id="copper1">
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.0" buceta="1"  cx="3.888" id="connector0pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.1" buceta="2"  cx="11.088" id="connector1pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.2" buceta="3"  cx="18.288" id="connector2pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.3" buceta="4"  cx="25.488001" id="connector3pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.4" buceta="5"  cx="32.688" id="connector4pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.5" buceta="6"  cx="39.888" id="connector5pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.6" buceta="7"  cx="47.088001" id="connector6pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.7" buceta="8"  cx="54.287998" id="connector7pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.8" buceta="9"  cx="61.487999" id="connector8pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.9" buceta="10"  cx="68.688004" id="connector9pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.10" buceta="11"  cx="75.888" id="connector10pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.11" buceta="12"  cx="83.087997" id="connector11pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.12" buceta="13"  cx="90.288002" id="connector12pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.13" buceta="14"  cx="97.487999" id="connector13pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.14" buceta="15"  cx="104.688" id="connector14pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.15" buceta="16"  cx="111.888" id="connector15pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.16" buceta="17"  cx="119.088" id="connector16pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.17" buceta="18"  cx="126.288" id="connector17pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.18" buceta="19"  cx="133.48801" id="connector18pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.19" buceta="20"  cx="140.688" id="connector19pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="44.424" gorn="0.3.0.0.0.0.0.20" buceta="20"  cx="147.88858" id="connector20pad" stroke="#f7bd13" stroke-width="1.2240001"/>
+                            <circle r="2.052" fill="none" cy="2.6639972" gorn="0.3.0.0.0.0.0.21" buceta="20"  cx="147.88858" id="connector21pad" stroke="#f7bd13" stroke-width="1.2240001"/>
+                            <circle r="2.052" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.22" buceta="21"  cx="140.688" id="connector22pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.23" buceta="22"  cx="133.48801" id="connector23pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.24" buceta="23"  cx="126.288" id="connector24pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.25" buceta="24"  cx="119.088" id="connector25pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.26" buceta="25"  cx="111.888" id="connector26pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.27" buceta="26"  cx="104.688" id="connector27pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.28" buceta="27"  cx="97.487999" id="connector28pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.052" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.29" buceta="28"  cx="90.288002" id="connector29pad" stroke="#f7bd13" stroke-width="1.22399998"/>
+                            <circle r="2.1115301" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.30" buceta="30"  cx="75.888" id="connector31pad" stroke="#f7bd13" stroke-width="1.10494006"/>
+                            <circle r="2.1115301" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.31" buceta="31"  cx="68.688004" id="connector32pad" stroke="#f7bd13" stroke-width="1.10494006"/>
+                            <circle r="2.1115301" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.32" buceta="32"  cx="61.487999" id="connector33pad" stroke="#f7bd13" stroke-width="1.10494006"/>
+                            <circle r="2.1115301" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.33" buceta="33"  cx="54.287998" id="connector34pad" stroke="#f7bd13" stroke-width="1.10494006"/>
+                            <circle r="2.1115301" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.34" buceta="34"  cx="47.088001" id="connector35pad" stroke="#f7bd13" stroke-width="1.10494006"/>
+                            <circle r="2.1115301" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.35" buceta="35"  cx="39.888" id="connector36pad" stroke="#f7bd13" stroke-width="1.10494006"/>
+                            <circle r="2.1115301" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.36" buceta="36"  cx="32.688" id="connector37pad" stroke="#f7bd13" stroke-width="1.10494006"/>
+                            <circle r="2.1115301" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.37" buceta="37"  cx="25.488001" id="connector38pad" stroke="#f7bd13" stroke-width="1.10494006"/>
+                            <circle r="2.1115301" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.38" buceta="38"  cx="18.288" id="connector39pad" stroke="#f7bd13" stroke-width="1.10494006"/>
+                            <circle r="2.1115301" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.39" buceta="39"  cx="11.088" id="connector40pin" stroke="#f7bd13" stroke-width="1.10494006"/>
+                            <circle r="2.1115301" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.40" buceta="40"  cx="3.888" stroke="#f7bd13" id="connector41pin" stroke-width="1.10494006"/>
+                            <circle r="2.1115301" fill="none" cy="2.664" gorn="0.3.0.0.0.0.0.41" buceta="29"  cx="83.087997" id="connector30pad" stroke="#f7bd13" stroke-width="1.10494006"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="matrix(1.0448751,0,0,1,-0.01292404,-2.4827374e-6)">
+        <g >
+            <g >
+                <g gorn="0.4.0.0.0" partID="878873082"  id="g1475">
+                    <g gorn="0.4.0.0.0.0"  id="silkscreen">
+                        <line class="other" gorn="0.4.0.0.0.0.0" y1="27.143999" x1="0.28799999"  y2="42.984001" x2="0.28799999" id="line1466" style="stroke-linecap:round" stroke="#f0f0f0" stroke-width="0.57599998"/>
+                        <path fill="none" class="other" gorn="0.4.0.0.0.0.1" d="m 0.288,27.144 a 3.6,3.6 0 1 0 0,-7.2"  id="path1468" stroke="#f0f0f0" stroke-width="0.57599998"/>
+                        <line class="other" gorn="0.4.0.0.0.0.2" y1="42.984001" x1="144.28799"  y2="4.1040001" x2="144.28799" id="line1470" style="stroke-linecap:round" stroke="#f0f0f0" stroke-width="0.57599998"/>
+                        <line class="other" gorn="0.4.0.0.0.0.3" y1="4.1040001" x1="0.28799999"  y2="19.944" x2="0.28799999" id="line1472" style="stroke-linecap:round" stroke="#f0f0f0" stroke-width="0.57599998"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

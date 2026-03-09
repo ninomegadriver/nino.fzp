@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="2.36219in"
+   height="0.417425in"
+   viewBox="0 0 170.078 30.0546"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <g
+     id="silkscreen">
+    <path
+       fill-opacity="1"
+       id="siuquescrim"
+       fill="none"
+       d="M 0.140622,0.141732 H 169.93816 v 26.964614 c 0,1.544533 -1.27356,2.807867 -2.82977,2.807867 L 2.9707674,29.914174 c -1.556589,0 -2.82977601,-1.263641 -2.82977601,-2.807828 l 2.02e-6,-26.964614 z"
+       stroke-opacity="1"
+       stroke-width="0.2819"
+       gorn="0.3.0.0.0.0.0.0.0.0"
+       stroke="#000000" />
+  </g>
+  <g
+     id="copper0">
+    <path
+       d="M 3.5434638,7.3754738 V 27.218285 H 9.2109551 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector23pin" />
+    <path
+       d="M 12.038109,7.3754738 V 27.218285 h 4.255379 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector24pin" />
+    <path
+       d="M 19.132361,7.3754738 V 27.218285 h 4.253914 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector25pin" />
+    <path
+       d="M 26.217824,7.3754738 V 27.218285 h 4.255379 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector26pin" />
+    <path
+       d="M 33.300357,7.3754738 V 27.218285 h 4.253914 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector27pin" />
+    <path
+       d="M 40.385819,7.3754738 V 27.218285 h 4.253915 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector28pin" />
+    <path
+       d="M 47.480071,7.3754738 V 27.218285 h 4.253915 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector29pin" />
+    <path
+       d="M 54.562604,7.3754738 V 27.218285 h 4.253915 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector30pin" />
+    <path
+       d="M 61.648067,7.3754738 V 27.218285 h 4.253914 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector31pin" />
+    <path
+       d="M 68.73353,7.3754738 V 27.218285 h 4.253914 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector32pin" />
+    <path
+       d="M 75.823387,7.3754738 V 27.218285 h 4.253915 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector33pin" />
+    <path
+       d="M 82.910315,7.3754738 V 27.218285 h 4.253914 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector34pin" />
+    <path
+       d="M 89.995778,7.3754738 V 27.218285 h 4.253914 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector35pin" />
+    <path
+       d="M 97.085635,7.3754738 V 27.218285 h 4.253915 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector36pin" />
+    <path
+       d="M 104.1711,7.3754738 V 27.218285 h 4.25391 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector37pin" />
+    <path
+       d="M 111.25656,7.3754738 V 27.218285 h 4.25391 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector38pin" />
+    <path
+       d="M 118.33909,7.3754738 V 27.218285 h 4.25392 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector39pin" />
+    <path
+       d="M 125.43335,7.3754738 V 27.218285 h 4.25391 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector40pin" />
+    <path
+       d="M 132.51881,7.3754738 V 27.218285 h 4.25391 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector41pin" />
+    <path
+       d="M 139.60134,7.3754738 V 27.218285 h 4.25392 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector42pin" />
+    <path
+       d="M 146.6868,7.3754738 V 27.218285 h 4.25392 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector43pin" />
+    <path
+       d="M 153.78106,7.3754738 V 27.218285 h 4.25391 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector44pin" />
+    <path
+       d="M 160.86359,7.3754738 V 27.218285 h 5.66749 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector45pin" />
+  </g>
+  <g
+     id="copper1">
+    <path
+       d="M 3.5434638,7.3754738 V 27.218285 H 9.2109551 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector0pin" />
+    <path
+       d="M 12.038109,7.3754738 V 27.218285 h 4.255379 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector1pin" />
+    <path
+       d="M 19.132361,7.3754738 V 27.218285 h 4.253914 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector2pin" />
+    <path
+       d="M 26.217824,7.3754738 V 27.218285 h 4.255379 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector3pin" />
+    <path
+       d="M 33.300357,7.3754738 V 27.218285 h 4.253914 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector4pin" />
+    <path
+       d="M 40.385819,7.3754738 V 27.218285 h 4.253915 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector5pin" />
+    <path
+       d="M 47.480071,7.3754738 V 27.218285 h 4.253915 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector6pin" />
+    <path
+       d="M 54.562604,7.3754738 V 27.218285 h 4.253915 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector7pin" />
+    <path
+       d="M 61.648067,7.3754738 V 27.218285 h 4.253914 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector8pin" />
+    <path
+       d="M 68.73353,7.3754738 V 27.218285 h 4.253914 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector9pin" />
+    <path
+       d="M 75.823387,7.3754738 V 27.218285 h 4.253915 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector10pin" />
+    <path
+       d="M 82.910315,7.3754738 V 27.218285 h 4.253914 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector11pin" />
+    <path
+       d="M 89.995778,7.3754738 V 27.218285 h 4.253914 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector12pin" />
+    <path
+       d="M 97.085635,7.3754738 V 27.218285 h 4.253915 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector13pin" />
+    <path
+       d="M 104.1711,7.3754738 V 27.218285 h 4.25391 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector14pin" />
+    <path
+       d="M 111.25656,7.3754738 V 27.218285 h 4.25391 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector15pin" />
+    <path
+       d="M 118.33909,7.3754738 V 27.218285 h 4.25392 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector16pin" />
+    <path
+       d="M 125.43335,7.3754738 V 27.218285 h 4.25391 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector17pin" />
+    <path
+       d="M 132.51881,7.3754738 V 27.218285 h 4.25391 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector18pin" />
+    <path
+       d="M 139.60134,7.3754738 V 27.218285 h 4.25392 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector19pin" />
+    <path
+       d="M 146.6868,7.3754738 V 27.218285 h 4.25392 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector20pin" />
+    <path
+       d="M 153.78106,7.3754738 V 27.218285 h 4.25391 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector21pin" />
+    <path
+       d="M 160.86359,7.3754738 V 27.218285 h 5.66749 V 7.3754738 Z"
+       fill="#FFC000"
+       stroke="none"
+       id="connector22pin" />
+  </g>
+</svg>

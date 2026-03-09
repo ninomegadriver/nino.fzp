@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Creator: CorelDRAW 2018 -->
+<svg xmlns="http://www.w3.org/2000/svg" height="4.8205mm" version="1.0"  clip-rule="evenodd" viewBox="0 0 220.58 53.87" width="19.7396mm" xmlns:xml="http://www.w3.org/XML/1998/namespace" text-rendering="geometricPrecision" id="svg1484" shape-rendering="geometricPrecision" fill-rule="evenodd" image-rendering="optimizeQuality" xml:space="preserve" gorn="0">
+    <desc >
+        <referenceFile >antena.svg</referenceFile>
+    </desc>
+    <defs  id="defs1488"/>
+    <g  id="copper1" gorn="0.2">
+        <path  fill-opacity="0.752941" fill="silver" id="nonconn0" d="M220.58 53.87c-4.08,-4.03 -7.29,-7.24 -8.4,-8.35 -8.21,-8.24 -6.12,-5.9 -29.07,-5.9l-106.78 0c-4.73,-0.41 -8.38,-3.17 -11.13,-5.87 -4.86,-4.77 -4.51,-4.5 -5.75,-12.18 -0.99,-6.12 -1.92,-21.58 -14.3,-21.58l-45.16 0 0 53.87 220.58 0z" style="fill:#ffcc00;stroke:none;fill-opacity:1" gorn="0.2.0"/>
+        <rect height="14.478408"  width="13.28897" y="21.264774" id="connector0pin" style="fill:#ffcc00;stroke:none;stroke-width:1.11752;stroke-linecap:round;stroke-linejoin:round" gorn="0.2.1" x="18.947332"/>
+    </g>
+</svg>
